@@ -1,0 +1,6198 @@
+{
+  "001ece44b5d4de4326b33339ccb4e280ea8c7a88": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-001ece44",
+    "topics": [],
+    "widths": {}
+  },
+  "005f3c4ab1ae0f220ff614884ce6c5bfd967d752": {
+    "alt": "New project",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "New project": 1
+    },
+    "name": "new-project",
+    "topics": [
+      "H0000000069"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "02a93893c3fbe6bca6fe2821994308ca55668eba": {
+    "alt": "'Layer data\\'",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "'Layer data\\'": 1
+    },
+    "name": "layer-data",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "02c48e3e479ebd2f49d5091d9fe2353f8582ace2": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-02c48e3e",
+    "topics": [],
+    "widths": {}
+  },
+  "03347de60bc713f06f920c37b5ffd730c31ff53d": {
+    "alt": "Delete",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Delete all objects": 1,
+      "Delete object": 1
+    },
+    "name": "delete-2",
+    "topics": [
+      "H0000000184",
+      "H0000000188"
+    ],
+    "widths": {
+      "0.5in": 2
+    }
+  },
+  "0400e9699887b20f2eebed376c7c8c9850f8a66e": {
+    "alt": "Edit database connection",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Edit database connection": 1
+    },
+    "name": "edit-database-connection",
+    "topics": [
+      "H0000000575"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "04194da099157567378852ad557d3cbc47751054": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-04194da0",
+    "topics": [],
+    "widths": {}
+  },
+  "0517c16964f0b6922aeefdee6a5563b24b27f7d4": {
+    "alt": "Duplizieren",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Duplizieren": 1
+    },
+    "name": "duplizieren",
+    "topics": [
+      "H0000002107"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "06eb51b8d93b2a06c604cd627b7fa1d4b361665f": {
+    "alt": "Anlegen",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Anlegen": 1
+    },
+    "name": "anlegen",
+    "topics": [
+      "H0000002096"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "07b8d2859cd5a1c3d5fef3c17aaa2b8fe15f0d09": {
+    "alt": "Meier",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Meier": 3,
+      "User": 1
+    },
+    "name": "meier",
+    "topics": [
+      "H0000007808"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "07f2483e76068e5b2113c935a73063e63372055c": {
+    "alt": "*Interpolation*",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "*Interpolation*": 1,
+      "To carry out an interpolation for": 1
+    },
+    "name": "interpolation",
+    "topics": [
+      "H0000005938",
+      "H0000009015"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "08f4fe7a4a8ef50072d9c24f1ab8c75ab4fbd7cf": {
+    "alt": "Code list",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Code list": 1
+    },
+    "name": "code-list",
+    "topics": [
+      "H0000005585"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "08fc621325658774bf78b99414ea906138f48c2f": {
+    "alt": "to pick direct calendar entries",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "to pick direct calendar entries": 1
+    },
+    "name": "to-pick-direct-calendar-entries",
+    "topics": [
+      "H0000010820"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "095cb0c8e52c2bdc4a34176cdb8aeb6815be00f5": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-095cb0c8",
+    "topics": [],
+    "widths": {}
+  },
+  "095d08111e20f8b6f757811c0220d48eda1483c0": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-095d0811",
+    "topics": [],
+    "widths": {}
+  },
+  "098d9b1d455db41107f052e1401b09f93b57792b": {
+    "alt": "All objects",
+    "confidence": "low",
+    "count": 25,
+    "label_variants": {
+      "All Locations": 1,
+      "All Objects": 3,
+      "All objects": 7,
+      "Alle Objekte\\": 2,
+      "General Borehole Log": 3,
+      "General borehole log": 4,
+      "Geotechnical borehole": 1,
+      "Standard outcrop SEP compatible": 2,
+      "Standardaufschluß SEP kompatibel\\": 2
+    },
+    "name": "all-objects-2",
+    "topics": [
+      "H0000000141",
+      "H0000000142",
+      "H0000000143",
+      "H0000000188",
+      "H0000002942",
+      "H0000003752",
+      "H0000010541",
+      "H0000011445",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 25
+    }
+  },
+  "0b1385de727b42c31e55cc306c54c7d917d8fb48": {
+    "alt": "Exemplary image using the template GETIMAGETOOLS01.HTM",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Exemplary image using the template GETIMAGETOOLS01.HTM": 1
+    },
+    "name": "exemplary-image-using-the-template-getimagetools01htm",
+    "topics": [
+      "H0000005651"
+    ],
+    "widths": {
+      "5.874305555555556in": 1
+    }
+  },
+  "0d310aef820671819f2f09da34459d2f67390b3f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-0d310aef",
+    "topics": [],
+    "widths": {}
+  },
+  "0d68e8813718e0ce4d95cd61222004331dc17a7d": {
+    "alt": "**",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "**": 1
+    },
+    "name": "unnamed-12",
+    "topics": [
+      "H0000005299"
+    ],
+    "widths": {
+      "6.384027777777778in": 1
+    }
+  },
+  "0db9ddf732d2c2baa30cd2eba64d812d74c754b4": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-0db9ddf7",
+    "topics": [],
+    "widths": {}
+  },
+  "0e934eb5a3ba6cfe734984a722ef59599898d5d6": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-0e934eb5",
+    "topics": [],
+    "widths": {}
+  },
+  "0ee0d87c4feaee68bb4ae83a47c8d6b6a184a5fe": {
+    "alt": "****",
+    "confidence": "low",
+    "count": 4,
+    "label_variants": {
+      "****": 1,
+      "Add language / standard": 1,
+      "Data collection language": 1
+    },
+    "name": "unnamed-2",
+    "topics": [
+      "H0000000144",
+      "H0000003180"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "10676e4fb44aa569be6a37da39bf92c09774186a": {
+    "alt": "Sort",
+    "confidence": "low",
+    "count": 3,
+    "label_variants": {
+      "**\\'Display order\\'": 1,
+      "Sort": 1,
+      "is used for this": 1
+    },
+    "name": "sort",
+    "topics": [
+      "H0000003413",
+      "H0000003730",
+      "H0000008630"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "11bf327506cfb98df6bfac7fc19b0f8c16427176": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-11bf3275",
+    "topics": [],
+    "widths": {}
+  },
+  "11f15ba8001ce8ff7a282618bd15d1f18bf02e98": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-11f15ba8",
+    "topics": [],
+    "widths": {}
+  },
+  "121bc608a923d91536eaa8696fdccba0475a204a": {
+    "alt": "Casing information",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Casing information": 1
+    },
+    "name": "casing-information",
+    "topics": [
+      "H0000000148"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "1241b58f484d3ec9c343932d2371097cf5695470": {
+    "alt": "Examples",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Examples": 1
+    },
+    "name": "examples",
+    "topics": [
+      "H0000002560"
+    ],
+    "widths": {
+      "0.3125in": 1
+    }
+  },
+  "1272a07b17a9a1cb6a1d4b003095fffe16665887": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-1272a07b",
+    "topics": [],
+    "widths": {}
+  },
+  "1279e93be1fb1033200b7c3e2f70d85c3b0b5317": {
+    "alt": "All",
+    "confidence": "medium",
+    "count": 6,
+    "label_variants": {
+      "All Locations": 1,
+      "All Objects": 2,
+      "General Borehole Log": 3
+    },
+    "name": "all",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 6
+    }
+  },
+  "131a22f753fc80ad2a3ee0ba8a7a6a1fdaab197f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-131a22f7",
+    "topics": [],
+    "widths": {}
+  },
+  "13208e16d419e1db5aaa9608e3545aad9499431d": {
+    "alt": "Input control",
+    "confidence": "high",
+    "count": 7,
+    "label_variants": {
+      "Input control": 4
+    },
+    "name": "input-control",
+    "topics": [
+      "H0000000145",
+      "H0000000147",
+      "H0000000148",
+      "H0000000337"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "133918e2511289a2c853a8832c08c921d3be0c78": {
+    "alt": "View",
+    "confidence": "medium",
+    "count": 6,
+    "label_variants": {
+      "Scale to Page": 1,
+      "View full page": 2,
+      "Zoom to page": 1
+    },
+    "name": "view",
+    "topics": [
+      "H0000000033",
+      "H0000000149",
+      "H0000003413",
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "13514b063fd82892809b9fa4c7a93f89cea000ae": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-13514b06",
+    "topics": [],
+    "widths": {}
+  },
+  "13596eb85b9dcbffc43ce856ab87448d04e580c3": {
+    "alt": "'",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "'": 1
+    },
+    "name": "unnamed-16",
+    "topics": [
+      "H0000008630"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "138157ee0f333c5d1f921bd899add785414853e1": {
+    "alt": "*Refresh*",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "*Refresh*": 1
+    },
+    "name": "refresh",
+    "topics": [
+      "H0000005938"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "13cb8ace69cd8ca11849a469e46150014125298e": {
+    "alt": "and the corresponding selection menu it",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "and the corresponding selection menu it": 1
+    },
+    "name": "and-the-corresponding-selection-menu-it",
+    "topics": [
+      "H0000003730"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "14bcbf57f0480dd897e44a14871dfe6220bda1ec": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-14bcbf57",
+    "topics": [],
+    "widths": {}
+  },
+  "15ab2d1237eb6985dff326014e50b9c5250c0e94": {
+    "alt": "",
+    "confidence": "none",
+    "count": 9,
+    "label_variants": {},
+    "name": "unlabeled-15ab2d12",
+    "topics": [],
+    "widths": {}
+  },
+  "15abba4561300ebd482f316ace82299065681a2f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-15abba45",
+    "topics": [],
+    "widths": {}
+  },
+  "16222880ae6fa275bada1749820e17c407b64b51": {
+    "alt": "[Particle size distribution analysis](H0000007760.md)",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "[Particle size distribution analysis](H0000007760.md)": 1
+    },
+    "name": "particle-size-distribution-analysish0000007760md",
+    "topics": [
+      "H0000007758"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "1713417ff24d8e58a5d889a06743d783f5b9fce7": {
+    "alt": "Borehole information, drilling method and tools",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Borehole information, drilling method and tools": 1
+    },
+    "name": "borehole-information-drilling-method-and-tools",
+    "topics": [
+      "H0000000148"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "17251a288ec5d18fb73f521253c11befc842c61b": {
+    "alt": "Remove edit security",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Remove edit security": 1
+    },
+    "name": "remove-edit-security",
+    "topics": [
+      "H0000002178"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "17309aac1b596776fa35bcab773cfca4a0a01e5e": {
+    "alt": "Import TK Plot data",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Import TK Plot data": 1
+    },
+    "name": "import-tk-plot-data",
+    "topics": [
+      "H0000000154"
+    ],
+    "widths": {
+      "0.49930555555555556in": 1
+    }
+  },
+  "189db92d274b6734556f76a2b219d039ddfd1293": {
+    "alt": "SEP import",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "SEP import": 1
+    },
+    "name": "sep-import",
+    "topics": [
+      "H0000000152"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "18adff8499ea369e8d142266d76db4331d9081d6": {
+    "alt": "B 2",
+    "confidence": "low",
+    "count": 36,
+    "label_variants": {
+      "B 1": 3,
+      "B 2": 4,
+      "B 3": 2,
+      "Bohrung 1\\": 1,
+      "Bohrung 2\\": 1,
+      "Bohrung 3\\": 1,
+      "Borehole 01": 2,
+      "Borehole 02": 2,
+      "Borehole 03": 2,
+      "Brg 01 (to depth 11m)": 2,
+      "Brg 02 (to depth 10": 2,
+      "Brg 03 (to depth 12m)": 2,
+      "Brg 04 (to depth 9": 2,
+      "Edit graphic": 1,
+      "Object; A measurement point of this": 1,
+      "PRJ_ID,LOCID; within a project only LOCID": 1,
+      "SEP3 Hole 1 (general)\\": 1,
+      "SEP3 Hole 2 (digestion, filled)\\": 1,
+      "SEP3 Hole 4 (general)": 1,
+      "SEP3 hole 3 (oblique hole)\\": 1,
+      "expects a field with the project": 1,
+      "oder Messpunkt ) as to which": 1,
+      "or measurement point )": 1
+    },
+    "name": "b-2",
+    "topics": [
+      "H0000002942",
+      "H0000002959",
+      "H0000006977",
+      "H0000008627",
+      "H0000011445",
+      "H0000011469",
+      "H0000011479",
+      "H0000011505"
+    ],
+    "widths": {
+      "0.16666666666666666in": 36
+    }
+  },
+  "197aeba6119162222fce3282448351ecee40d9e0": {
+    "alt": "Copy project",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Copy project": 1
+    },
+    "name": "copy-project",
+    "topics": [
+      "H0000000089"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "1bc2e521788a74d3cd6d4f08b93bc4729a7a0a72": {
+    "alt": "Previous",
+    "confidence": "medium",
+    "count": 6,
+    "label_variants": {
+      "Go to previous data record": 1,
+      "Move selected entry up": 1,
+      "Previous layer": 1,
+      "Previous row": 1
+    },
+    "name": "previous",
+    "topics": [
+      "H0000000147",
+      "H0000000148",
+      "H0000000149",
+      "H0000000337"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "1bcd8b17dd50d7816896791a31d23d3f557df53b": {
+    "alt": "[Measure distance](H0000008796",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "[Measure distance](H0000008796": 1
+    },
+    "name": "measure-distanceh0000008796",
+    "topics": [
+      "H0000008789"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "1c15e114694af25b9b12f1a37cd67bb8fe6b529e": {
+    "alt": "First",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "First layer": 1,
+      "First row": 1,
+      "Go to first data record": 1
+    },
+    "name": "first",
+    "topics": [
+      "H0000000147",
+      "H0000000148",
+      "H0000000337"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "1d36235307872a02f67c11a67c806879d306547b": {
+    "alt": "intervallProperty",
+    "confidence": "low",
+    "count": 4,
+    "label_variants": {
+      "Borehole": 1,
+      "drillMethod": 1,
+      "intervallProperty": 1
+    },
+    "name": "intervallproperty",
+    "topics": [
+      "H0000005581",
+      "H0000005585",
+      "H0000008498"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "1d3ddb1a247d10d6c6152a85378d19b458fa25d7": {
+    "alt": "The long name of parameters vary",
+    "confidence": "low",
+    "count": 5,
+    "label_variants": {
+      "Add paper formats": 1,
+      "The long name of parameters vary": 1,
+      "properties that differ from those in": 1,
+      "there is a discrepancy": 1
+    },
+    "name": "the-long-name-of-parameters-vary",
+    "topics": [
+      "H0000008607",
+      "H0000008630",
+      "H0000008633",
+      "H0000008754"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "1d65e155d15c9e591bb004bf36ea4f2b11a66005": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-1d65e155",
+    "topics": [],
+    "widths": {}
+  },
+  "1e21cd8a6b23fe07ae5e9d88cbe5fecc3242b0c7": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-1e21cd8a",
+    "topics": [],
+    "widths": {}
+  },
+  "1e8e7b55af14821c5e82c43c8f587a9bc5c9acbe": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-1e8e7b55",
+    "topics": [],
+    "widths": {}
+  },
+  "1e924f4a8bd46773dc4cba9b20cfcce94b7eb7d6": {
+    "alt": "Borehole",
+    "confidence": "medium",
+    "count": 11,
+    "label_variants": {
+      "Borehole 03": 1,
+      "Borehole 1": 5,
+      "Borehole 10": 1,
+      "Borehole 2": 4
+    },
+    "name": "borehole-2",
+    "topics": [
+      "H0000001085",
+      "H0000002022",
+      "H0000002027"
+    ],
+    "widths": {
+      "0.16666666666666666in": 11
+    }
+  },
+  "1f120c01162e9c8c110ea6cdc2f63757a799847e": {
+    "alt": "Site plan",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Site plan": 1
+    },
+    "name": "site-plan",
+    "topics": [
+      "H0000007432"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "1ff0496a63cf4bb915c501cc2473bed959475094": {
+    "alt": "Importieren",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Importieren": 1
+    },
+    "name": "importieren-2",
+    "topics": [
+      "H0000003505"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "21626dd2468020fb2dece627b74986a8f26d9e1e": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-21626dd2",
+    "topics": [],
+    "widths": {}
+  },
+  "2167607e3b68eef2f888988d115a223154778104": {
+    "alt": "Project",
+    "confidence": "medium",
+    "count": 13,
+    "label_variants": {
+      "GeoDin project (contains objects)": 1,
+      "Project 1": 5,
+      "Project 120/01": 1,
+      "Project 120/02": 1,
+      "Project 2": 2,
+      "Project 3": 2,
+      "Sample project GeoDin": 1
+    },
+    "name": "project",
+    "topics": [
+      "H0000001085",
+      "H0000002022",
+      "H0000010756",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 13
+    }
+  },
+  "21ba41e68aad016de39905f4dc237df95d08451d": {
+    "alt": "Next",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "Next page": 1,
+      "Next view / Previous view": 1
+    },
+    "name": "next-2",
+    "topics": [
+      "H0000000149",
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "22274e434a05f9f39a8cb77fb7edf15e8712efa6": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-22274e43",
+    "topics": [],
+    "widths": {}
+  },
+  "225a26655b3b55bf79d38500c2c42e258617b3ad": {
+    "alt": "Method symbol of the Data Type Manager",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Method symbol of the Data Type Manager": 1
+    },
+    "name": "method-symbol-of-the-data-type-manager",
+    "topics": [
+      "H0000008619"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "22892e04d7d8c1969c7bb464283cd5d777f7eb7a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-22892e04",
+    "topics": [],
+    "widths": {}
+  },
+  "22dc69a3286e213fcc2c1f0df70fc1180aad245f": {
+    "alt": "S01",
+    "confidence": "low",
+    "count": 10,
+    "label_variants": {
+      ") as to which data fields": 1,
+      ") can be defined": 1,
+      "B1P1 : Filter 1(4 - 6m)": 1,
+      "B1P1 : Sample1 1(1 - 1m)": 1,
+      "INVID": 1,
+      "S01": 3,
+      "S02": 1
+    },
+    "name": "s01-3",
+    "topics": [
+      "H0000007789",
+      "H0000007806",
+      "H0000007808",
+      "H0000007835"
+    ],
+    "widths": {
+      "0.16666666666666666in": 9
+    }
+  },
+  "23afc03cdb30117869fbc50d0ddb7211220f634d": {
+    "alt": "Transformation",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "Transformation": 3
+    },
+    "name": "transformation-2",
+    "topics": [
+      "H0000005597",
+      "H0000008498",
+      "H0000008512"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "23c5fc1d2908c85f764ff45d7d3c7bbf91c6910a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-23c5fc1d",
+    "topics": [],
+    "widths": {}
+  },
+  "24506f93691b646a38739cefc7302b6e54caa675": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-24506f93",
+    "topics": [],
+    "widths": {}
+  },
+  "2568ad9efc9adef38633a138a06fc485b385cb87": {
+    "alt": "Borehole",
+    "confidence": "medium",
+    "count": 47,
+    "label_variants": {
+      "B01 (105m)": 1,
+      "B02 (107m)": 1,
+      "B03 (107m)": 1,
+      "B04 (115m)": 1,
+      "BH 01": 1,
+      "BH 02": 1,
+      "BH 03": 1,
+      "BH 04": 1,
+      "Borehole 01": 10,
+      "Borehole 02": 3,
+      "Borehole 03": 2,
+      "Borehole 04": 2,
+      "Borehole 1": 1,
+      "Borehole 2": 1,
+      "Borehole 3": 4,
+      "Borehole 4": 3,
+      "Borehole 5": 1,
+      "Borehole01": 1,
+      "Borehole02": 1,
+      "CPT": 1,
+      "Cone penetration test": 2,
+      "GeoDin objects (contains measurement points)": 1,
+      "MacDuff Distillery 01": 1,
+      "MacDuff Distillery 02": 1,
+      "MacDuff Distillery 03": 1,
+      "MacDuff Distillery 04": 2,
+      "New object": 1
+    },
+    "name": "borehole",
+    "topics": [
+      "H0000000142",
+      "H0000000143",
+      "H0000000185",
+      "H0000000188",
+      "H0000002015",
+      "H0000002022",
+      "H0000002942",
+      "H0000010756",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 47
+    }
+  },
+  "264fd186607ecbfb48c8b0da0af537b967e9e7de": {
+    "alt": "Previous",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "Next view / Previous view": 1,
+      "Previous page": 1
+    },
+    "name": "previous-2",
+    "topics": [
+      "H0000000149",
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "27c6e8bbc67de096d91d5c23dced2b456237a6d8": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-27c6e8bb",
+    "topics": [],
+    "widths": {}
+  },
+  "2817f2d6c1ecf0f15601afaea10bfbf2bbd0fbcd": {
+    "alt": "Active layer",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Active layer": 1
+    },
+    "name": "active-layer",
+    "topics": [
+      "H0000005934"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "287bd4a5b5fefa394f06893af372d50ecd83fc6d": {
+    "alt": "import measurement values",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "import measurement values": 1
+    },
+    "name": "import-measurement-values",
+    "topics": [
+      "H0000008817"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "2897cad6ae4780cc5ebdbfea079427df2c969fce": {
+    "alt": "[Start SQL-protocol](H0000006791",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "[Start SQL-protocol](H0000006791": 1
+    },
+    "name": "start-sql-protocolh0000006791",
+    "topics": [
+      "H0000006778"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "2a5fbc9d62f0174196408b55a26655679ad4adfa": {
+    "alt": "#Consistency",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "#Consistency": 1
+    },
+    "name": "consistency",
+    "topics": [
+      "H0000002565"
+    ],
+    "widths": {
+      "5.729166666666667in": 1
+    }
+  },
+  "2b6bbb06165aaa985d43e953e4e1cfa0d0e35f43": {
+    "alt": "Export master data",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Export master data": 1
+    },
+    "name": "export-master-data",
+    "topics": [
+      "H0000000145"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "2c8b0bcad31b2a6074a2abef45f4b8fa8e0e0917": {
+    "alt": "Measurement points",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "Documents": 1,
+      "Measurement points": 3,
+      "Measurment points": 1
+    },
+    "name": "measurement-points",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "2d8230ee7471b83e1a79ce82b94ba89ff6c84e6f": {
+    "alt": "Coordinate transformation",
+    "confidence": "low",
+    "count": 3,
+    "label_variants": {
+      "\"Digitise objects\\\" it is possible to": 1,
+      "Coordinate transformation": 1,
+      "in the general data editor": 1
+    },
+    "name": "coordinate-transformation",
+    "topics": [
+      "H0000000145",
+      "H0000011222"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "2d9cc474a62e37104aa2848e6c36e0589263632a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-2d9cc474",
+    "topics": [],
+    "widths": {}
+  },
+  "2dd03014e95493e862e1599397a5ec98e31399a8": {
+    "alt": "Anwenden",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Anwenden": 1
+    },
+    "name": "anwenden",
+    "topics": [
+      "H0000003483"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "2dfaf78bad2b0cfdc0c34089b81fafb8d347841a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-2dfaf78b",
+    "topics": [],
+    "widths": {}
+  },
+  "2e80631cded10dc89fa1f10a8a9712c4b2efb779": {
+    "alt": "Colour",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Colour/Grayscale": 1,
+      "button": 1
+    },
+    "name": "colour",
+    "topics": [
+      "H0000003413",
+      "H0000003730"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "3028c3830ea4b5f0929329a398161b62593e2c86": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-3028c383",
+    "topics": [],
+    "widths": {}
+  },
+  "30d73077bb8d0f13cd727691d1ee752464974565": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-30d73077",
+    "topics": [],
+    "widths": {}
+  },
+  "31ed395e12dcae5b54feb092b6367c7f53fa756c": {
+    "alt": "To add a polyline you draw",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "To add a polyline you draw": 1
+    },
+    "name": "to-add-a-polyline-you-draw",
+    "topics": [
+      "H0000001955"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "32f3712243ee6e36cc5f2e7168e4e4fe637abb2b": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-32f37122",
+    "topics": [],
+    "widths": {}
+  },
+  "331b29d7aa36f8a72d486bbf1ac3898ac15dd211": {
+    "alt": "Import",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Import": 1
+    },
+    "name": "import",
+    "topics": [
+      "H0000011211"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "33c51135342df220e743d247742b06df71187c35": {
+    "alt": "*Properties*",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "*Properties*": 1
+    },
+    "name": "properties-2",
+    "topics": [
+      "H0000005938"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "344ea20b4e4c04ca1845dc65e37928a59f21be71": {
+    "alt": "Groundwater",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Groundwater isolines (GWL1)": 1,
+      "Groundwater isolines (GWL2)": 1,
+      "Streets and paths": 1,
+      "TK10 (2008)": 1
+    },
+    "name": "groundwater",
+    "topics": [
+      "H0000006835"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "3597e85d8f9a1be248a0f338b20a9972c46062e9": {
+    "alt": "Intervall",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Intervall": 1,
+      "Intervall as there are entries in": 1,
+      "Intervall*": 1,
+      "is visible": 1
+    },
+    "name": "intervall",
+    "topics": [
+      "H0000005581"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "35e5d18b3de3e5a4a9f4fb0561e2b80ab03d682c": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-35e5d18b",
+    "topics": [],
+    "widths": {}
+  },
+  "35ffabcb82d8b448f2f3cfb47d534e06c3cddf3e": {
+    "alt": "Duplicate object",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Duplicate object": 1
+    },
+    "name": "duplicate-object",
+    "topics": [
+      "H0000000185"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "362e0ac404bbd52eb4e24aef3e6bbec9795bfc0a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-362e0ac4",
+    "topics": [],
+    "widths": {}
+  },
+  "3669f622076da252c4c07e05919ae9e5ca5b2e1f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-3669f622",
+    "topics": [],
+    "widths": {}
+  },
+  "36a3dc1386975346451c4ede3ab9df635fbffb04": {
+    "alt": "My",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Boreholes deeper than 50m": 1,
+      "My Query": 1
+    },
+    "name": "my",
+    "topics": [
+      "H0000006835",
+      "H0000007789"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "378c7d07c2b10f4587779376b8094c33d828042b": {
+    "alt": "Object data",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Object data": 1
+    },
+    "name": "object-data",
+    "topics": [
+      "H0000005934"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "38c590767dd6c949c5db5e4eab86f7411ccffcde": {
+    "alt": "Layer queries",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Layer queries": 1
+    },
+    "name": "layer-queries",
+    "topics": [
+      "H0000001732"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "38fd840057c809693e35f929934a27dfd3a1dd70": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-38fd8400",
+    "topics": [],
+    "widths": {}
+  },
+  "39f9c3c7cc1bf64a71282437606621caf6ea7e8f": {
+    "alt": "Borehole01",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Borehole01": 1,
+      "Borehole02": 1
+    },
+    "name": "borehole01",
+    "topics": [
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "3a9a74b5aea90f0bb1c79cd0335407f76ce43ca3": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-3a9a74b5",
+    "topics": [],
+    "widths": {}
+  },
+  "3b4b443eac9c38343944ffc66d8e4372e0ee9465": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-3b4b443e",
+    "topics": [],
+    "widths": {}
+  },
+  "3c24f85b924f80cb23cb5a46a02be9ea4977b087": {
+    "alt": "Page layout",
+    "confidence": "low",
+    "count": 4,
+    "label_variants": {
+      "Grafik": 1,
+      "Page layout": 1,
+      "Select Layout": 1
+    },
+    "name": "page-layout",
+    "topics": [
+      "H0000000144",
+      "H0000003215",
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "3c9f8bc33e81ef8cc869b12c9ea37c6aadc9eb34": {
+    "alt": "Add data set records",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Add data set records": 1
+    },
+    "name": "add-data-set-records",
+    "topics": [
+      "H0000003902"
+    ],
+    "widths": {
+      "0.49930555555555556in": 1
+    }
+  },
+  "3d545c8e0b0063110852f53da714146e153e236e": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-3d545c8e",
+    "topics": [],
+    "widths": {}
+  },
+  "3e83068a6bda4fd07e26e546b01b5ef13d55a13e": {
+    "alt": "System configuration",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "System configuration": 1
+    },
+    "name": "system-configuration",
+    "topics": [
+      "H0000005354"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "3e93c3ec02c8aa8bb0285fde757aa6f5413a7da8": {
+    "alt": "'General data\\'",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "'General data\\'": 1
+    },
+    "name": "general-data",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "403b2b94eef2827911f8b9930a6842b0eba89835": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-403b2b94",
+    "topics": [],
+    "widths": {}
+  },
+  "40f4651698f8fe7ec6e11f85a2cacfd7aecdceb8": {
+    "alt": "****",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "**** **Help**": 1,
+      "button, a dictionary search is started": 1
+    },
+    "name": "unnamed-4",
+    "topics": [
+      "H0000000144",
+      "H0000006364"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "41a22e89330ecf69b498e8936103cb50d81f08ed": {
+    "alt": "SSGKRZT1",
+    "confidence": "low",
+    "count": 20,
+    "label_variants": {
+      "Add language / standard": 1,
+      "LOCREG": 4,
+      "SSGKRZT1": 5,
+      "XCOORD \\< 200": 2,
+      "XCOORD \\> 100": 3,
+      "XCOORD \\> 50": 1,
+      "YCOORD \\< 100": 2,
+      "YCOORD \\> 50": 2
+    },
+    "name": "ssgkrzt1-2",
+    "topics": [
+      "H0000002955",
+      "H0000002968",
+      "H0000003180",
+      "H0000006922"
+    ],
+    "widths": {
+      "0.16666666666666666in": 20
+    }
+  },
+  "41dd2fbab2b71164fa4e9ff197fffbac0c071328": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-41dd2fba",
+    "topics": [],
+    "widths": {}
+  },
+  "429d3c5c553a595bf60a2caf91fe889c08ef03af": {
+    "alt": "Project",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Project 2": 1,
+      "Project 3": 1
+    },
+    "name": "project-2",
+    "topics": [
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "4355b41365bc1a57f375d9b2cd79e7489f43ae61": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-4355b413",
+    "topics": [],
+    "widths": {}
+  },
+  "43fd791b36722920daa757203c78036b5f7997ac": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-43fd791b",
+    "topics": [],
+    "widths": {}
+  },
+  "44101a8c085b96e92d9a80fd01206e57622a25d7": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-44101a8c",
+    "topics": [],
+    "widths": {}
+  },
+  "443b42fb3d4909286a19f6bb30265ccc329ac302": {
+    "alt": "New Query",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "New Query": 1
+    },
+    "name": "new-query",
+    "topics": [
+      "H0000002951"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "443e972f8e4e7bf2dffc78be247a8219015cf44c": {
+    "alt": "Objects",
+    "confidence": "low",
+    "count": 32,
+    "label_variants": {
+      "B 1": 2,
+      "B1P1 : Filter 1(4 - 6m)": 1,
+      "B1P1 : Sample1 1(1 - 1m)": 1,
+      "Borehole": 1,
+      "Borehole 01": 1,
+      "Borehole01": 1,
+      "Borehole02": 1,
+      "Databases": 1,
+      "DemoDB": 2,
+      "Documents": 1,
+      "Filter": 1,
+      "General Borehole Log": 2,
+      "GeoDin Demo": 2,
+      "Layers": 1,
+      "Measurement point": 1,
+      "Measurement points": 2,
+      "Measurment points": 1,
+      "Meier": 2,
+      "My database": 1,
+      "Objects": 3,
+      "Project 1": 1,
+      "Samples": 3
+    },
+    "name": "objects",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806",
+      "H0000007808"
+    ],
+    "widths": {
+      "0.16666666666666666in": 32
+    }
+  },
+  "447c11034b223be48da8b0ff2162d6cf7ec0f15a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-447c1103",
+    "topics": [],
+    "widths": {}
+  },
+  "44903cd4d77ca1c877c3a997f0d9e08ef8f0298e": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-44903cd4",
+    "topics": [],
+    "widths": {}
+  },
+  "449db2f94b9adfc7088182d1a5323b0ab1a96590": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-449db2f9",
+    "topics": [],
+    "widths": {}
+  },
+  "452052b7f2c1dd232120d5c313d28dbe1b6dc3fe": {
+    "alt": "**",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "**": 1
+    },
+    "name": "unnamed-10",
+    "topics": [
+      "H0000005299"
+    ],
+    "widths": {
+      "6.290277777777778in": 1
+    }
+  },
+  "4539389eb30339a0a4360f919817bd3319512fa9": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-4539389e",
+    "topics": [],
+    "widths": {}
+  },
+  "45c203721c65ac52aa22884fbba609b131799651": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-45c20372",
+    "topics": [],
+    "widths": {}
+  },
+  "45c316432579d6aa1d2ed521ff557da9a08bdfba": {
+    "alt": "Additional information",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Additional information": 1
+    },
+    "name": "additional-information",
+    "topics": [
+      "H0000000148"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "46ce469ad3812febc8af77945e0e6f7d29cbe781": {
+    "alt": "Data management",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Data management": 2
+    },
+    "name": "data-management",
+    "topics": [
+      "H0000000144",
+      "H0000000185"
+    ],
+    "widths": {
+      "0.5in": 2
+    }
+  },
+  "4705fa9f0a5f8fc7011d5d2efb0e38df4e3b0188": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-4705fa9f",
+    "topics": [],
+    "widths": {}
+  },
+  "4710ea574337325cd618f9e5b3c5dceac4b206ad": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-4710ea57",
+    "topics": [],
+    "widths": {}
+  },
+  "4a4353838dc8c3c6195ccd4b8ee3b64e77da33eb": {
+    "alt": "Previous view / Next view",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Previous view / Next view": 1
+    },
+    "name": "previous-view-next-view-2",
+    "topics": [
+      "H0000000033"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "4b827d33eeeec406391e04903fd03a94456a9b71": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-4b827d33",
+    "topics": [],
+    "widths": {}
+  },
+  "4cf4a4e4ec535d449a20ef7d2629f03f4b01a8fa": {
+    "alt": "user management",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "user management": 1
+    },
+    "name": "user-management",
+    "topics": [
+      "H0000002994"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "4d118c56c9fad42d0dacf9de7b1ed6382197b92f": {
+    "alt": "Example",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Example": 1
+    },
+    "name": "example",
+    "topics": [
+      "H0000002560"
+    ],
+    "widths": {
+      "2.375in": 1
+    }
+  },
+  "4d2d91d5f1f3fead5f0b10a7b7073820337871b9": {
+    "alt": "Measurement value management",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Measurement value management": 1
+    },
+    "name": "measurement-value-management",
+    "topics": [
+      "H0000003791"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "4d69f6387e5f311a5fa12c28867aeebe4ab943a0": {
+    "alt": "B 02 : S1 (0-1)",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "B 02 : S1 (0-1)": 1
+    },
+    "name": "b-02-s1-0-1",
+    "topics": [
+      "H0000001085"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "4e013b06432400e002225b8c909b222038c501b7": {
+    "alt": "Start the calculation with this button",
+    "confidence": "low",
+    "count": 7,
+    "label_variants": {
+      "Load elevation data": 1,
+      "Offline OSM map": 1,
+      "Start the calculation with this button": 2,
+      "action": 1
+    },
+    "name": "start-the-calculation-with-this-button",
+    "topics": [
+      "H0000008799",
+      "H0000010934",
+      "H0000011064",
+      "H0000011141",
+      "H0000011253"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "4e4f08376e56d6916d2420e269b3e8eb8fe169ad": {
+    "alt": "move the defined time range forward",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "move the defined time range forward": 1
+    },
+    "name": "move-the-defined-time-range-forward",
+    "topics": [
+      "H0000010820"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "4e91a3d316e9b10e2c5117a1bb2e58906c467f56": {
+    "alt": "korr",
+    "confidence": "high",
+    "count": 3,
+    "label_variants": {
+      "korr": 3
+    },
+    "name": "korr",
+    "topics": [
+      "H0000002007",
+      "H0000002116",
+      "H0000002123"
+    ],
+    "widths": {
+      "2.4993055555555554in": 3
+    }
+  },
+  "503cc78132b26965a1741d0181d3538f5e5fbd70": {
+    "alt": "Ctrl",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Ctrl": 1
+    },
+    "name": "ctrl",
+    "topics": [
+      "H0000001378"
+    ],
+    "widths": {
+      "2.7708333333333335in": 1
+    }
+  },
+  "5154a36148cdf2e1e9d5db982ce254d31dd1b6e7": {
+    "alt": "SSGKRZT1",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "SSGKRZT1": 5
+    },
+    "name": "ssgkrzt1-3",
+    "topics": [
+      "H0000002959",
+      "H0000002968"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "51a7a7a92982003f00967fe9801a8566947e6959": {
+    "alt": "Yes",
+    "confidence": "low",
+    "count": 10,
+    "label_variants": {
+      "****": 1,
+      "Export": 1,
+      "Save": 2,
+      "Save Map": 1,
+      "Yes": 3
+    },
+    "name": "yes",
+    "topics": [
+      "H0000000144",
+      "H0000003413",
+      "H0000003807",
+      "H0000005934",
+      "H0000010934",
+      "H0000011064",
+      "H0000011253"
+    ],
+    "widths": {
+      "0.16666666666666666in": 8
+    }
+  },
+  "51c109647b5b16b8d78d442e76b9e571c92bf9b6": {
+    "alt": "****",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "****": 1,
+      "**** **Cut, Copy and Paste**\\": 1
+    },
+    "name": "unnamed-7",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "51de2a5d96bd47dd3cbc97c4789f20085b642295": {
+    "alt": "X",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "X": 1
+    },
+    "name": "x",
+    "topics": [
+      "H0000003520"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "52331de108fe0021a856c3eb1625e1cf166a7f0b": {
+    "alt": "button",
+    "confidence": "low",
+    "count": 9,
+    "label_variants": {
+      "Add data type": 1,
+      "Add parameter group": 1,
+      "Insert New Element": 1,
+      "Select the desired scene type from": 1,
+      "button": 2,
+      "or via the context menu": 1,
+      "to add more scenes and select": 1
+    },
+    "name": "button",
+    "topics": [
+      "H0000007404",
+      "H0000007438",
+      "H0000008095",
+      "H0000008505",
+      "H0000008619",
+      "H0000010857",
+      "H0000011472"
+    ],
+    "widths": {
+      "0.16666666666666666in": 8
+    }
+  },
+  "52adcf5b800a2868bd98ec8cc37790e90aab44cf": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-52adcf5b",
+    "topics": [],
+    "widths": {}
+  },
+  "5336c44c3ccbb47df1f11f3ee770fb4f7afd5f85": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5336c44c",
+    "topics": [],
+    "widths": {}
+  },
+  "551972296b7f93989ac10a17cee8b514a9ab282a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-55197229",
+    "topics": [],
+    "widths": {}
+  },
+  "55ea9a6577a837a8d368c30348e110bfae593911": {
+    "alt": "[Particle size distribution analysis](H0000011409.md)",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "[Particle size distribution analysis](H0000011409.md)": 1
+    },
+    "name": "particle-size-distribution-analysish0000011409md",
+    "topics": [
+      "H0000011404"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "56515a8e91a4bbf81a999e0df5a776e743fee61a": {
+    "alt": "8",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "8": 1
+    },
+    "name": "8",
+    "topics": [
+      "H0000003091"
+    ],
+    "widths": {
+      "5.4375in": 1
+    }
+  },
+  "5686fcd2e932dff6deb6a5d416066e50dd7ec763": {
+    "alt": "**",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "**": 1
+    },
+    "name": "unnamed-14",
+    "topics": [
+      "H0000008560"
+    ],
+    "widths": {
+      "6.249305555555556in": 1
+    }
+  },
+  "56f04004a8ad44e97bd74c00cfee426f9ce4779f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-56f04004",
+    "topics": [],
+    "widths": {}
+  },
+  "58738ba1385e411cde57809cf0f07b09bb493f10": {
+    "alt": "www",
+    "confidence": "medium",
+    "count": 8,
+    "label_variants": {
+      "Groundwater isolines (GWL1)": 1,
+      "Groundwater isolines (GWL2)": 1,
+      "Streets and paths": 1,
+      "TK10 (2008)": 1,
+      "www": 4
+    },
+    "name": "www",
+    "topics": [
+      "H0000002022",
+      "H0000010541"
+    ],
+    "widths": {
+      "0.16666666666666666in": 8
+    }
+  },
+  "587fd49c9aea37ac125f203513d620b34cbfeca6": {
+    "alt": "Objekte",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Objekte": 1
+    },
+    "name": "objekte",
+    "topics": [
+      "H0000002012"
+    ],
+    "widths": {
+      "0.49930555555555556in": 1
+    }
+  },
+  "595ceaa37010355c07b682c9ff74972c63d2ba8c": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-595ceaa3",
+    "topics": [],
+    "widths": {}
+  },
+  "5a625d304d8016e2d4dfd3861e78aecb167a8b7b": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5a625d30",
+    "topics": [],
+    "widths": {}
+  },
+  "5aa02bfca33e15a39239cc4c53e8dbcfd80001fa": {
+    "alt": "below",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "are to reduce the amount of": 2,
+      "below the lists are used to": 1,
+      "below the lists serve to restrict": 1,
+      "below the lists the contents of": 1
+    },
+    "name": "below",
+    "topics": [
+      "H0000008819",
+      "H0000008820",
+      "H0000010847",
+      "H0000010898",
+      "H0000010903"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "5af728d0c27ccebe49de515fab59437a316eda93": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5af728d0",
+    "topics": [],
+    "widths": {}
+  },
+  "5bd8b763ac49440e4cc6730dd52f0b433924e412": {
+    "alt": "Databases",
+    "confidence": "medium",
+    "count": 6,
+    "label_variants": {
+      "Database": 1,
+      "Databases": 3,
+      "Datenbanken\\": 1,
+      "Datenbases": 1
+    },
+    "name": "databases",
+    "topics": [
+      "H0000000141",
+      "H0000002942",
+      "H0000010541",
+      "H0000010756",
+      "H0000011445",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 6
+    }
+  },
+  "5c4c1a9a3cc2dd170e3e6bdc37b344920fbe43bd": {
+    "alt": "Databases",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Databases": 1
+    },
+    "name": "databases-3",
+    "topics": [
+      "H0000000571"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "5c6db22ce9f7369758c811f0a1beff1a8f75fc01": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5c6db22c",
+    "topics": [],
+    "widths": {}
+  },
+  "5e23f4707dec9ac06af7b1bc18860ea2037e9caa": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5e23f470",
+    "topics": [],
+    "widths": {}
+  },
+  "5eda19775df366da57f96415d1341cde7e5ab8a8": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5eda1977",
+    "topics": [],
+    "widths": {}
+  },
+  "5f05f3fcd1cbd9f034d84da257a150bb8bc84841": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5f05f3fc",
+    "topics": [],
+    "widths": {}
+  },
+  "5f3ea6b1837baf4ee7869c798d9c45955186f428": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-5f3ea6b1",
+    "topics": [],
+    "widths": {}
+  },
+  "5f6fab7652808a0d5eca7bda705d5eb883e85b8c": {
+    "alt": "Condition",
+    "confidence": "low",
+    "count": 5,
+    "label_variants": {
+      "Bedingung": 1,
+      "Condition": 2,
+      "Context menu": 1,
+      "Query result may be out of date": 1
+    },
+    "name": "condition",
+    "topics": [
+      "H0000001736",
+      "H0000002955",
+      "H0000002968",
+      "H0000005938"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "60df0dd5529c9b478c64a6d070fbf54795b6f31d": {
+    "alt": "Open",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Open": 1
+    },
+    "name": "open",
+    "topics": [
+      "H0000010893"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "62165b6101ba8d0db202917f19ee2dbda59b9eda": {
+    "alt": "Previous",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Hide object details": 1,
+      "Previous / Next Layout": 1
+    },
+    "name": "previous-3",
+    "topics": [
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "62636f77eda6ee5da0fd43def524bddf269fa878": {
+    "alt": "Data",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "Data checks and calculations": 1,
+      "Data checks and calculations\"": 1
+    },
+    "name": "data",
+    "topics": [
+      "H0000000155",
+      "H0000001688"
+    ],
+    "widths": {
+      "0.5in": 2
+    }
+  },
+  "626d6041ab8ca6ad416d69440d1c44b8c186531c": {
+    "alt": "Groundwater",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "Groundwater isolines\\_(GWL1)": 1,
+      "Groundwater isolines\\_(GWL2)": 1,
+      "Topomap10": 1
+    },
+    "name": "groundwater-2",
+    "topics": [
+      "H0000005932"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "6369f2ba3efc57d4a7cf1142af20784f404d476e": {
+    "alt": "All layers",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "All layers": 1
+    },
+    "name": "all-layers",
+    "topics": [
+      "H0000005934"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "638ae6dede652a9d0418e327c1605b2b148918ce": {
+    "alt": "Layers",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Layers": 1,
+      "Maps": 1
+    },
+    "name": "layers",
+    "topics": [
+      "H0000006835"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "639895adbdbfaa6faf1799f40bfe4e8adfde6948": {
+    "alt": "**",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "**": 1
+    },
+    "name": "unnamed-11",
+    "topics": [
+      "H0000005299"
+    ],
+    "widths": {
+      "5.853472222222222in": 1
+    }
+  },
+  "6547b6321a415c73ae40f96e8771cbd4e62f58de": {
+    "alt": "Borehole profile preview and translation of codes to text",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Borehole profile preview and translation of codes to text": 1
+    },
+    "name": "borehole-profile-preview-and-translation-of-codes-to-text",
+    "topics": [
+      "H0000000337"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "6597ed6ab1ec8e0f80b8d33b2d79602682d3bd7d": {
+    "alt": "Last",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "Go to last data record": 1,
+      "Last layer": 1,
+      "Last row": 1
+    },
+    "name": "last",
+    "topics": [
+      "H0000000147",
+      "H0000000148",
+      "H0000000337"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "65e4a7157cf7cd7c8138655a9599743f544a34c0": {
+    "alt": "Example",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Example": 1
+    },
+    "name": "example-2",
+    "topics": [
+      "H0000002560"
+    ],
+    "widths": {
+      "0.3125in": 1
+    }
+  },
+  "662a0531992eb15dc273bebadf35494d47784955": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-662a0531",
+    "topics": [],
+    "widths": {}
+  },
+  "666ef8d0407b9e638118c1bab5fac3e75072a324": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-666ef8d0",
+    "topics": [],
+    "widths": {}
+  },
+  "66ec8485978c5bb8f44f2a352c171d33d5856394": {
+    "alt": "****",
+    "confidence": "low",
+    "count": 3,
+    "label_variants": {
+      "****": 1,
+      "Modify object (Start editing) / Stop editing": 1,
+      "Start editing / Stop editing": 1
+    },
+    "name": "unnamed-3",
+    "topics": [
+      "H0000000144",
+      "H0000003807"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "673a5a3736c473cfb0b47c0689610c33e3197ee8": {
+    "alt": "Information on special features",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Information on special features": 1
+    },
+    "name": "information-on-special-features",
+    "topics": [
+      "H0000000148"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "676dca8199ef1e503227561f852d68463341ae18": {
+    "alt": "Export",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Export": 1
+    },
+    "name": "export",
+    "topics": [
+      "H0000003187"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "680cf7013a0c16ff2df06f6f7d60f6f022e62dce": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-680cf701",
+    "topics": [],
+    "widths": {}
+  },
+  "68f876e79de45070d9c9ed4e429c03e90e0cf5ed": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-68f876e7",
+    "topics": [],
+    "widths": {}
+  },
+  "6938565fb1e7484c22159fbd6604ab1ce148aeb7": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-6938565f",
+    "topics": [],
+    "widths": {}
+  },
+  "6a937413a249ae7ce7e6e11971d9a2917dc07bd6": {
+    "alt": "DDL Options",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "DDL Options": 1
+    },
+    "name": "ddl-options",
+    "topics": [
+      "H0000011212"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "6b7e52073fb21502233b5865747704402209524f": {
+    "alt": "Objects",
+    "confidence": "medium",
+    "count": 17,
+    "label_variants": {
+      "Locations": 1,
+      "Object": 2,
+      "Objects": 10,
+      "Objekte\\": 4
+    },
+    "name": "objects-2",
+    "topics": [
+      "H0000000141",
+      "H0000000142",
+      "H0000000143",
+      "H0000002942",
+      "H0000003752",
+      "H0000010541",
+      "H0000010756",
+      "H0000011445",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 17
+    }
+  },
+  "6baa18d77a5993077e0b9e745b4f23d9fefffe33": {
+    "alt": "Select input form",
+    "confidence": "low",
+    "count": 7,
+    "label_variants": {
+      "Edit general data": 1,
+      "Input form": 1,
+      "Select input form": 1,
+      "you may select further tools to": 1
+    },
+    "name": "select-input-form",
+    "topics": [
+      "H0000000145",
+      "H0000000337",
+      "H0000008789"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "6c69097faa0caf0322c71e110aa026985aa20825": {
+    "alt": "",
+    "confidence": "none",
+    "count": 2,
+    "label_variants": {},
+    "name": "unlabeled-6c69097f",
+    "topics": [],
+    "widths": {}
+  },
+  "6cfb7c497ef1fd06ebf7744ccabedd817718c5ff": {
+    "alt": "Create object group",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Create object group": 1
+    },
+    "name": "create-object-group",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "6ddf54cf408ec912ae9b89faacd2a348f535e40e": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-6ddf54cf",
+    "topics": [],
+    "widths": {}
+  },
+  "6df6853f74de45fd21d4ce92b9e8d5e441ae19cb": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-6df6853f",
+    "topics": [],
+    "widths": {}
+  },
+  "6e09f8e9ea641abf391dcf56eeea0eebf6dab409": {
+    "alt": "Zoom to full map",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Zoom to full map": 1
+    },
+    "name": "zoom-to-full-map",
+    "topics": [
+      "H0000005934"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "6e459474588288b581a79f587bf71b57f7763f8d": {
+    "alt": "[Information](H0000008795",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Information": 1,
+      "[Information](H0000008795": 1
+    },
+    "name": "informationh0000008795",
+    "topics": [
+      "H0000008789",
+      "H0000008795"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "6e601a00d73ff5afca599a6a8a3521efcae13a8b": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-6e601a00",
+    "topics": [],
+    "widths": {}
+  },
+  "6e6ab1a315cc0c3ffbe56e6e792377df6800f8b6": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-6e6ab1a3",
+    "topics": [],
+    "widths": {}
+  },
+  "6ea3dd859ea54645eba09de3e2745161f435c40e": {
+    "alt": "****",
+    "confidence": "low",
+    "count": 13,
+    "label_variants": {
+      "****": 3,
+      "Cancel Edits": 1,
+      "Cancel edits": 2,
+      "Cut, Copy, Paste": 3,
+      "Go to object": 1,
+      "Load again": 1,
+      "New object": 2
+    },
+    "name": "unnamed",
+    "topics": [
+      "H0000000143",
+      "H0000000144",
+      "H0000003807"
+    ],
+    "widths": {
+      "0.16666666666666666in": 13
+    }
+  },
+  "6f9765d23b49014fcaf36ad54b8d28e95dfa2745": {
+    "alt": ")",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      ")": 1
+    },
+    "name": "unnamed-13",
+    "topics": [
+      "H0000007274"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "70f5b57ae543db50044341eab7e5def5dc90969c": {
+    "alt": "****",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "****": 1,
+      "**** **Cut, Copy and Paste**\\": 1
+    },
+    "name": "unnamed-5",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "7158166a7693a7c8ac805a67daccda216a292922": {
+    "alt": "[Load",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "With this tool SRTM elevation data": 1,
+      "[Load elevation data](H0000008799": 1
+    },
+    "name": "load",
+    "topics": [
+      "H0000008789",
+      "H0000008799"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "71741069df1d1f0eaae69b856b8d319a654f54fd": {
+    "alt": "button before starting the activation process",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "button before starting the activation process": 1
+    },
+    "name": "button-before-starting-the-activation-process",
+    "topics": [
+      "H0000008707"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "7279e3d59b681c8e2472e7853b4f96b5b8a9f8fa": {
+    "alt": "*Zoom to layer*",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "*Zoom to layer*": 1
+    },
+    "name": "zoom-to-layer",
+    "topics": [
+      "H0000005938"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "72ca1956c596ee39584651e8945ebf0dd80f2a54": {
+    "alt": "Edit graphic",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Edit graphic": 1
+    },
+    "name": "edit-graphic",
+    "topics": [
+      "H0000000033"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "731e4215ada06d3f081ae62d8e8c596e66b0d83e": {
+    "alt": "Friction ratio in %",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Friction ratio in %": 1
+    },
+    "name": "friction-ratio-in",
+    "topics": [
+      "H0000001680"
+    ],
+    "widths": {
+      "3.5in": 1
+    }
+  },
+  "73c84c829682181bf08facf94df344fe0eca2d1a": {
+    "alt": "Top layer",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Top layer": 1
+    },
+    "name": "top-layer",
+    "topics": [
+      "H0000005934"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "73e81d4e64f5dc62d662843a73479d45737fb2ba": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-73e81d4e",
+    "topics": [],
+    "widths": {}
+  },
+  "747505cbf7f2ac6dfe9cd730965f402066d3355b": {
+    "alt": "Example",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Example": 1
+    },
+    "name": "example-3",
+    "topics": [
+      "H0000003739"
+    ],
+    "widths": {
+      "9.395833333333334in": 1
+    }
+  },
+  "7553aedf6083c036be37c059a183557b331c182e": {
+    "alt": "Duplicate",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "Duplicate current data record": 1,
+      "Duplicate layer": 1,
+      "Duplicate record": 1,
+      "Edit without update": 1
+    },
+    "name": "duplicate",
+    "topics": [
+      "H0000000147",
+      "H0000000148",
+      "H0000000337",
+      "H0000010857"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "755ebc1f9e32445afd5762a9db839ea8beb02c26": {
+    "alt": "GeoDin",
+    "confidence": "medium",
+    "count": 11,
+    "label_variants": {
+      "GeoDin Demo": 4,
+      "GeoDin Demo Project": 4,
+      "Project 1": 1,
+      "Projekt 1\\": 2
+    },
+    "name": "geodin",
+    "topics": [
+      "H0000000141",
+      "H0000000142",
+      "H0000000143",
+      "H0000002942",
+      "H0000003752",
+      "H0000010541",
+      "H0000010756",
+      "H0000011445",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 11
+    }
+  },
+  "768b3db7e267a3dfcef0e448f9f8107d69b46915": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-768b3db7",
+    "topics": [],
+    "widths": {}
+  },
+  "773978a4c33eeaae36c47c1afbcae2b612384f05": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-773978a4",
+    "topics": [],
+    "widths": {}
+  },
+  "780b13b995a04ccfbb09b85453402b6f37751a49": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-780b13b9",
+    "topics": [],
+    "widths": {}
+  },
+  "7839009a55231cf238f462df86acbbf1a08f1b83": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7839009a",
+    "topics": [],
+    "widths": {}
+  },
+  "78935d9c8a3c726ec19c0921829d6c1b20642fb8": {
+    "alt": "Filter; A measurement point of this",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Filter; A measurement point of this": 1
+    },
+    "name": "filter-a-measurement-point-of-this",
+    "topics": [
+      "H0000008627"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "7942981dbf4bcdef6b6f53ad85c512d28893c96c": {
+    "alt": "Apply Update",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Apply Update": 1
+    },
+    "name": "apply-update",
+    "topics": [
+      "H0000005773"
+    ],
+    "widths": {
+      "4.511111111111111in": 1
+    }
+  },
+  "79928dc24fa0a80d82b686ce9dba757e0ac80283": {
+    "alt": "Sample",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Sample": 1
+    },
+    "name": "sample",
+    "topics": [
+      "H0000003143"
+    ],
+    "widths": {
+      "5.03125in": 1
+    }
+  },
+  "79936db23de3314daa1a46be1da3820e1bb7facc": {
+    "alt": "Open project",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Open project": 1
+    },
+    "name": "open-project",
+    "topics": [
+      "H0000000085"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "799db5cf86a8cb747d664c932f0bbefef8fa946f": {
+    "alt": "SSGKRZT1",
+    "confidence": "low",
+    "count": 204,
+    "label_variants": {
+      "524_550": 3,
+      "550_577": 3,
+      "577_603": 3,
+      "A0 Landscape": 2,
+      "A0 Portrait": 2,
+      "A1 Landscape": 2,
+      "A1 Portrait": 2,
+      "A2 Landscape": 2,
+      "A2 Portrait": 2,
+      "A3 Landscape": 2,
+      "A3 Portrait": 2,
+      "A4 Landscape": 2,
+      "A4 Portrait": 2,
+      "Alle Objekte\\": 2,
+      "Attribute": 5,
+      "B 1": 1,
+      "B 2": 1,
+      "B 3": 1,
+      "B01 (105m)": 1,
+      "B01: (1": 2,
+      "B01: (2": 2,
+      "B01: (4-6m)": 1,
+      "B01: (5": 2,
+      "B01: (7": 1,
+      "B02 (107m)": 1,
+      "B03 (107m)": 1,
+      "B04 (115m)": 1,
+      "BH 01": 1,
+      "BH 02": 1,
+      "BH 03": 1,
+      "BH 04": 1,
+      "BH01: (1-7m)": 1,
+      "BH01: (4-5m)": 1,
+      "BS \\--\\> HK": 1,
+      "Bohrung 1\\": 1,
+      "Bohrung 2\\": 1,
+      "Bohrung 3\\": 1,
+      "Borehole": 1,
+      "Borehole 01": 3,
+      "Borehole 02": 4,
+      "Borehole 03": 4,
+      "Borehole 04": 2,
+      "Boreholes deeper than 50m": 1,
+      "Brg 01 (to depth 11m)": 2,
+      "Brg 02 (to depth 10": 2,
+      "Brg 03 (to depth 12m)": 2,
+      "Brg 04 (to depth 9": 2,
+      "CPT": 1,
+      "Company layout with general legend A4 landscape": 1,
+      "Cone penetration test": 2,
+      "Core fotos": 6,
+      "Core photos": 1,
+      "Correspondence with clients": 4,
+      "Current map print templates": 1,
+      "DB4711": 1,
+      "Data management": 1,
+      "Data sequence": 1,
+      "Database": 2,
+      "Database query": 1,
+      "Documents": 7,
+      "GeoDin grafics": 5,
+      "GeoDin graphics": 1,
+      "Groundwater isolines (GWL1)": 1,
+      "Groundwater isolines (GWL2)": 1,
+      "Groundwater isolines\\_(GWL1)": 1,
+      "Groundwater isolines\\_(GWL2)": 1,
+      "HB \\--\\> HK": 1,
+      "HDB \\--\\> HK": 1,
+      "HSB \\--\\> HK": 1,
+      "HSPB \\--\\> HK": 1,
+      "Invoices & time sheets": 6,
+      "LOCREG": 4,
+      "MacDuff Distillery 02": 1,
+      "MacDuff Distillery 03": 1,
+      "MacDuff Distillery 04": 2,
+      "Measurement point": 2,
+      "Meine Abfrage\\": 1,
+      "Meine datenbankweite Abfrage\\": 1,
+      "Messpunkte": 2,
+      "Messpunkte\\": 2,
+      "New folder": 1,
+      "New object": 1,
+      "Object": 2,
+      "Objekte\\": 1,
+      "Project": 1,
+      "Report": 2,
+      "S01": 3,
+      "S02": 1,
+      "S3SCHDAT": 1,
+      "SEP3 Hole 1 (general)\\": 1,
+      "SEP3 Hole 2 (digestion, filled)\\": 1,
+      "SEP3 Hole 4 (general)": 1,
+      "SEP3 hole 3 (oblique hole)\\": 1,
+      "SSGKRZT1": 10,
+      "Special layout (Smith)": 1,
+      "Standardaufschluß SEP kompatibel\\": 1,
+      "Streets and paths": 1,
+      "TK10 (2008)": 1,
+      "Tender": 4,
+      "Tender & contact": 3,
+      "Tender & contract": 3,
+      "Topomap10": 1,
+      "Transformation": 5,
+      "User": 1,
+      "Well design": 1,
+      "lower piezometer (7": 1,
+      "upper piezometer: (4": 1,
+      "www": 4
+    },
+    "name": "ssgkrzt1",
+    "topics": [
+      "H0000000142",
+      "H0000000143",
+      "H0000000185",
+      "H0000001085",
+      "H0000002015",
+      "H0000002022",
+      "H0000002027",
+      "H0000002942",
+      "H0000002955",
+      "H0000002959",
+      "H0000002968",
+      "H0000003752",
+      "H0000005581",
+      "H0000005585",
+      "H0000005597",
+      "H0000005932",
+      "H0000007494",
+      "H0000008498",
+      "H0000008512",
+      "H0000010541",
+      "H0000010756",
+      "H0000011445",
+      "H0000011467",
+      "H0000011469"
+    ],
+    "widths": {
+      "0.16666666666666666in": 204
+    }
+  },
+  "7a0e576de30a5306f675342dbe2b74d20ba06080": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7a0e576d",
+    "topics": [],
+    "widths": {}
+  },
+  "7ad8fd0505824d4548ec2bd3d378c06b2b45a5f0": {
+    "alt": "List of objects",
+    "confidence": "low",
+    "count": 18,
+    "label_variants": {
+      "*Remove layer*": 1,
+      "Delete from the lis": 1,
+      "Delete layer": 1,
+      "Delete selected filters": 1,
+      "If the conditions for the interpolation": 1,
+      "List of objects": 1,
+      "Measurement units of the parameter vary": 1,
+      "No query definition": 1,
+      "Remove data type": 1,
+      "button": 1,
+      "button if these records are not": 1,
+      "or via the context menu": 1,
+      "that should not be imported": 1
+    },
+    "name": "list-of-objects",
+    "topics": [
+      "H0000000093",
+      "H0000000149",
+      "H0000001736",
+      "H0000002142",
+      "H0000005938",
+      "H0000007274",
+      "H0000008095",
+      "H0000008505",
+      "H0000008607",
+      "H0000008619",
+      "H0000008818",
+      "H0000010545",
+      "H0000010893"
+    ],
+    "widths": {
+      "0.16666666666666666in": 13
+    }
+  },
+  "7b57d6b05ebaa064ac7e9c3d0c0d26cf1fbddb94": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7b57d6b0",
+    "topics": [],
+    "widths": {}
+  },
+  "7b7780b55cc24c20780152eb2c83c6c79992d050": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7b7780b5",
+    "topics": [],
+    "widths": {}
+  },
+  "7bee971d29b42ece9008dd5c43b31ca040d0bb1b": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7bee971d",
+    "topics": [],
+    "widths": {}
+  },
+  "7c01f8313867a2c3e61d82d1a91e5004892bd6c5": {
+    "alt": "and move the defined time range",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "and move the defined time range": 1
+    },
+    "name": "and-move-the-defined-time-range",
+    "topics": [
+      "H0000010820"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "7c0713dfd234a84956683bd33c4d62d52276d805": {
+    "alt": "Objects",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Locations": 1,
+      "Objects": 3
+    },
+    "name": "objects-3",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "7c5d4b94f8b6670c340f3ddc1b8ee591b9938d2b": {
+    "alt": "IF",
+    "confidence": "low",
+    "count": 9,
+    "label_variants": {
+      "IF": 3,
+      "If": 2,
+      "OR": 2,
+      "Oder": 1,
+      "Wenn": 1
+    },
+    "name": "if",
+    "topics": [
+      "H0000002955",
+      "H0000002968",
+      "H0000006922"
+    ],
+    "widths": {
+      "0.16666666666666666in": 9
+    }
+  },
+  "7c780b0c901445ab1041062ceca082cb32e9ce1d": {
+    "alt": "button to retrieve information on the current version",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "button to retrieve information on the current version": 1
+    },
+    "name": "button-to-retrieve-information-on-the-current-version",
+    "topics": [
+      "H0000007202"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "7d087c77c605e3092e6556b529e5df62c3044cba": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7d087c77",
+    "topics": [],
+    "widths": {}
+  },
+  "7d5634510015f2973686f1ab87c5a35fb790b2cb": {
+    "alt": "[Information](H0000006783",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Available layouts": 1,
+      "[Information](H0000006783": 1
+    },
+    "name": "informationh0000006783",
+    "topics": [
+      "H0000006778",
+      "H0000007494"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "7d603128476c1ebca157b79f87afb2b25908218c": {
+    "alt": "Report",
+    "confidence": "low",
+    "count": 79,
+    "label_variants": {
+      "Core fotos": 6,
+      "Core photos": 7,
+      "Correspondence with client": 5,
+      "Correspondence with clients": 4,
+      "Current map print templates": 1,
+      "Documents": 8,
+      "GIS Data": 1,
+      "GeoDin grafics": 5,
+      "GeoDin graphics": 5,
+      "Graphics": 1,
+      "Invoices & time sheets": 6,
+      "Layers": 1,
+      "Maps": 1,
+      "More map print templates": 1,
+      "New folder": 1,
+      "PDFs": 1,
+      "Project 4711": 1,
+      "Report": 9,
+      "Section 2": 3,
+      "Special layouts": 1,
+      "Tender & contact": 3,
+      "Tender & contract": 3,
+      "Tender and contract": 4
+    },
+    "name": "report",
+    "topics": [
+      "H0000001085",
+      "H0000002015",
+      "H0000002022",
+      "H0000002027",
+      "H0000005932",
+      "H0000007494",
+      "H0000010541"
+    ],
+    "widths": {
+      "0.16666666666666666in": 78
+    }
+  },
+  "7d80bafc2f23f360ce2c1f67305b88bd62e00a67": {
+    "alt": "Zoom in",
+    "confidence": "medium",
+    "count": 7,
+    "label_variants": {
+      "Zoom in": 4,
+      "and the view of the print": 1
+    },
+    "name": "zoom-in",
+    "topics": [
+      "H0000000033",
+      "H0000000149",
+      "H0000003413",
+      "H0000003730",
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "7f99b421664dfa90f23c7e49d19664e759eaefd5": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7f99b421",
+    "topics": [],
+    "widths": {}
+  },
+  "7fac9dd7903e5b652433380c2b0c5b67c422a164": {
+    "alt": "Selection",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Selection": 1
+    },
+    "name": "selection",
+    "topics": [
+      "H0000005934"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "7fbb77634e728268e666894a7570b3f910f5b91b": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-7fbb7763",
+    "topics": [],
+    "widths": {}
+  },
+  "80644830d42894b73bc09863d66c32ad72d6662f": {
+    "alt": "depthTop",
+    "confidence": "low",
+    "count": 13,
+    "label_variants": {
+      "depthBase": 3,
+      "depthTop": 3,
+      "percentage": 2,
+      "percentageFrom": 1,
+      "percentageTo": 1,
+      "rockName": 2,
+      "stratigraphy": 1
+    },
+    "name": "depthtop",
+    "topics": [
+      "H0000005597",
+      "H0000008498",
+      "H0000008512"
+    ],
+    "widths": {
+      "0.16666666666666666in": 13
+    }
+  },
+  "81097cd69b37ed0b8414825e18a9f98121e11997": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-81097cd6",
+    "topics": [],
+    "widths": {}
+  },
+  "822460504c2a3451c2757a057b4fc46c63921bec": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-82246050",
+    "topics": [],
+    "widths": {}
+  },
+  "843056e1413b33e0fe8d6bdeaf0586a2dec98abd": {
+    "alt": "",
+    "confidence": "none",
+    "count": 2,
+    "label_variants": {},
+    "name": "unlabeled-843056e1",
+    "topics": [],
+    "widths": {}
+  },
+  "8449bda1cfad04d7042316102db9a7e50707b1f5": {
+    "alt": "Insert",
+    "confidence": "medium",
+    "count": 7,
+    "label_variants": {
+      "Insert New Element": 1,
+      "Insert data record in current row": 1,
+      "Insert layer": 1,
+      "Insert line": 1
+    },
+    "name": "insert",
+    "topics": [
+      "H0000000147",
+      "H0000000148",
+      "H0000000337",
+      "H0000010857"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "8547af529154c4447e1be3865d88b6452599222e": {
+    "alt": "B01: (1",
+    "confidence": "low",
+    "count": 18,
+    "label_variants": {
+      "B01: (1": 2,
+      "B01: (2": 2,
+      "B01: (4-6m)": 1,
+      "B01: (5": 2,
+      "B01: (7": 1,
+      "BH01: (1-7m)": 1,
+      "BH01: (4-5m)": 1,
+      "GeoDin measurement points (no further subdivision)": 1,
+      "MP1": 1,
+      "MP2": 1,
+      "MP3": 1,
+      "MP4": 1,
+      "P": 1,
+      "lower piezometer (7": 1,
+      "upper piezometer: (4": 1
+    },
+    "name": "b01-1",
+    "topics": [
+      "H0000000142",
+      "H0000002022",
+      "H0000002942",
+      "H0000003752"
+    ],
+    "widths": {
+      "0.16666666666666666in": 18
+    }
+  },
+  "85adc8b34c743ca3ea1a69d8fe134b5a4bc96a69": {
+    "alt": "*Presentation options*",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "*Presentation options*": 1
+    },
+    "name": "presentation-options",
+    "topics": [
+      "H0000005938"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "86033210bbcfe9474427066f7ada81bcb0b03926": {
+    "alt": "",
+    "confidence": "none",
+    "count": 2,
+    "label_variants": {},
+    "name": "unlabeled-86033210",
+    "topics": [],
+    "widths": {}
+  },
+  "86423a05ef81640581dc0be5b14993cfcdd90be7": {
+    "alt": "influencing factors",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "influencing factors": 1
+    },
+    "name": "influencing-factors",
+    "topics": [
+      "H0000008653"
+    ],
+    "widths": {
+      "6.864583333333333in": 1
+    }
+  },
+  "86988a6f8d40cded2d0d071c18ea4839f58b2686": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-86988a6f",
+    "topics": [],
+    "widths": {}
+  },
+  "86cdb4d80bdad4be4c3ac1b38dccb86886d9ff39": {
+    "alt": "A4 Portrait",
+    "confidence": "low",
+    "count": 23,
+    "label_variants": {
+      "A0 Landscape": 2,
+      "A0 Portrait": 2,
+      "A1 Landscape": 2,
+      "A1 Portrait": 2,
+      "A2 Landscape": 2,
+      "A2 Portrait": 2,
+      "A3 Landscape": 2,
+      "A3 Portrait": 2,
+      "A4 Landscape": 2,
+      "A4 Portrait": 2,
+      "Company layout with general legend A4 landscape": 1,
+      "Layout": 1,
+      "Special layout (Smith)": 1
+    },
+    "name": "a4-portrait",
+    "topics": [
+      "H0000003215",
+      "H0000007494"
+    ],
+    "widths": {
+      "0.16666666666666666in": 23
+    }
+  },
+  "8809a8986c65ec9dcb36004e9477602780a578f2": {
+    "alt": "Edit",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Edit": 2
+    },
+    "name": "edit",
+    "topics": [
+      "H0000002172",
+      "H0000002378"
+    ],
+    "widths": {
+      "0.5in": 2
+    }
+  },
+  "88bbdd5ef00a6a1440818e08ec5dfd8a4ba210f6": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-88bbdd5e",
+    "topics": [],
+    "widths": {}
+  },
+  "8a043643718ebc1651e3c72e0668a92e51d1bb44": {
+    "alt": "Measurement",
+    "confidence": "medium",
+    "count": 15,
+    "label_variants": {
+      "Documents": 1,
+      "Measurement point": 2,
+      "Measurement points": 7,
+      "Measurment points": 1,
+      "Messpunkte": 2,
+      "Messpunkte\\": 2
+    },
+    "name": "measurement",
+    "topics": [
+      "H0000000141",
+      "H0000000142",
+      "H0000002942",
+      "H0000003752",
+      "H0000010541",
+      "H0000010756",
+      "H0000011445",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 15
+    }
+  },
+  "8bbd07e8caf00fc60927061afe2a254072d40432": {
+    "alt": "Attribute",
+    "confidence": "medium",
+    "count": 6,
+    "label_variants": {
+      "Attribute": 6
+    },
+    "name": "attribute",
+    "topics": [
+      "H0000005581",
+      "H0000005597",
+      "H0000008498",
+      "H0000008512"
+    ],
+    "widths": {
+      "0.16666666666666666in": 6
+    }
+  },
+  "8cf22422448d4d615d3edd4e6e0fd2b988b9d1b5": {
+    "alt": "Teil3",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Teil3": 1
+    },
+    "name": "teil3",
+    "topics": [
+      "H0000002116"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "8d1f50725bf743fd57009e4c025dea4d37582f82": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-8d1f5072",
+    "topics": [],
+    "widths": {}
+  },
+  "8dc1a3e4fbe1a35c00a221bc1546f3a9edc321b6": {
+    "alt": "GeoDin Demo",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "GeoDin Demo": 2,
+      "Project 1": 1
+    },
+    "name": "geodin-demo",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "8e890f1e655141cd9830d0967d72df96b48e03eb": {
+    "alt": "Database",
+    "confidence": "low",
+    "count": 10,
+    "label_variants": {
+      "(the quantity of locations that fulfill": 1,
+      "Database": 2,
+      "Database query": 1,
+      "Edit graphic": 1,
+      "Measurement point": 2,
+      "Object": 2,
+      "Project": 1
+    },
+    "name": "database",
+    "topics": [
+      "H0000010756",
+      "H0000011467",
+      "H0000011469",
+      "H0000011479"
+    ],
+    "widths": {
+      "0.16666666666666666in": 10
+    }
+  },
+  "8eea8b4edb8fd550fe3ed46e17b21ddd4f408477": {
+    "alt": "With this tool it is possible",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "With this tool it is possible": 1
+    },
+    "name": "with-this-tool-it-is-possible",
+    "topics": [
+      "H0000011141"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "8eed4750196b827732cd3265cd86f3abe59235a0": {
+    "alt": "Print",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Print": 2
+    },
+    "name": "print",
+    "topics": [
+      "H0000003413",
+      "H0000003470"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "8fdf19428f92df541625f88ee6cf431e472637f7": {
+    "alt": "All objects",
+    "confidence": "low",
+    "count": 81,
+    "label_variants": {
+      "All Locations": 1,
+      "All Objects": 3,
+      "All objects": 7,
+      "Attribute": 1,
+      "B 02 : S1 (0-1)": 1,
+      "B 2": 3,
+      "B 3": 1,
+      "BH": 1,
+      "Borehole 01": 1,
+      "Borehole 02": 2,
+      "Borehole 03": 1,
+      "Borehole 1": 1,
+      "Borehole 2": 1,
+      "Borehole 3": 4,
+      "Borehole 4": 3,
+      "Borehole 5": 1,
+      "Core photos": 2,
+      "Documents": 1,
+      "General Borehole Log": 1,
+      "General borehole log": 2,
+      "GeoDin graphics": 4,
+      "Intervall": 1,
+      "Locations": 1,
+      "MP1": 1,
+      "MP2": 1,
+      "MP3": 1,
+      "MP4": 1,
+      "Maps": 1,
+      "Measurement points": 2,
+      "My Query": 1,
+      "Objekte\\": 2,
+      "P": 1,
+      "PDFs": 1,
+      "Project 120/01": 1,
+      "Project 120/02": 1,
+      "Project 2": 2,
+      "Project 3": 2,
+      "Sample project GeoDin": 1,
+      "Section 2": 3,
+      "Special layouts": 1,
+      "Standardaufschluß SEP kompatibel\\": 1,
+      "depthBase": 3,
+      "depthTop": 3,
+      "percentage": 2,
+      "percentageFrom": 1,
+      "percentageTo": 1,
+      "rockName": 2,
+      "stratigraphy": 1
+    },
+    "name": "all-objects",
+    "topics": [
+      "H0000000141",
+      "H0000000142",
+      "H0000000143",
+      "H0000000188",
+      "H0000001085",
+      "H0000002022",
+      "H0000002942",
+      "H0000003752",
+      "H0000005581",
+      "H0000005597",
+      "H0000005932",
+      "H0000008498",
+      "H0000008512",
+      "H0000010541",
+      "H0000010756",
+      "H0000011445",
+      "H0000011467",
+      "H0000011469"
+    ],
+    "widths": {
+      "0.16666666666666666in": 81
+    }
+  },
+  "900f573b5f01d49592ccf976ea96263cab37d6fd": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-900f573b",
+    "topics": [],
+    "widths": {}
+  },
+  "90128affa4e966527075b5c7198990f448366ad3": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-90128aff",
+    "topics": [],
+    "widths": {}
+  },
+  "909f955e72deeb0211ddc363dee173803f543efe": {
+    "alt": "Documents",
+    "confidence": "low",
+    "count": 166,
+    "label_variants": {
+      "$PERCENTAGE$": 1,
+      "$PERCENTAGE$, $PERCENTAGEFROM$, $PERCENTAGETO$": 1,
+      "+": 1,
+      "Aktueller Kartenausschnitt": 1,
+      "Available layouts": 1,
+      "B 1": 2,
+      "B1P1 : Filter 1(4 - 6m)": 1,
+      "B1P1 : Sample1 1(1 - 1m)": 1,
+      "Bedingung": 1,
+      "Borehole": 2,
+      "Borehole 01": 2,
+      "Borehole 02": 1,
+      "Borehole 1": 5,
+      "Borehole 10": 1,
+      "Borehole 2": 4,
+      "Borehole01": 1,
+      "Borehole02": 1,
+      "Code list": 1,
+      "Condition": 1,
+      "Core photos": 4,
+      "Correspondence with client": 7,
+      "Database": 1,
+      "Databases": 2,
+      "Datenbases": 1,
+      "DemoDB": 4,
+      "DemoDB\\": 1,
+      "Display Fields": 2,
+      "Documents": 16,
+      "Drilling 01": 1,
+      "Example": 2,
+      "Filter": 3,
+      "Full map": 1,
+      "GIS Data": 1,
+      "General Borehole Log": 2,
+      "General borehole log": 2,
+      "GeoDin Demo": 4,
+      "GeoDin Demo Project": 2,
+      "Geotechnical borehole": 1,
+      "Graphics": 1,
+      "Holes (digestion type)\\": 1,
+      "If": 2,
+      "Interval": 1,
+      "Layers": 1,
+      "Location deeper than 9m": 1,
+      "Measurement point": 3,
+      "Measurement points": 5,
+      "Measurment points": 1,
+      "Meier": 2,
+      "More map print templates": 1,
+      "My database": 1,
+      "New folder": 1,
+      "Object": 2,
+      "Objects": 10,
+      "Objekte\\": 1,
+      "Oder": 1,
+      "Page formats": 1,
+      "Project 1": 3,
+      "Project 4711": 1,
+      "Projekt 1\\": 2,
+      "Report": 9,
+      "Return": 1,
+      "Samples": 6,
+      "Section 1": 1,
+      "Short name (height)": 1,
+      "Standard outcrop SEP compatible": 2,
+      "Tender and contract": 4,
+      "Transformation": 2,
+      "Wenn": 1,
+      "Yes": 1,
+      "and for the display field ZCOORDE the extension text": 1,
+      "drillMethod": 1,
+      "filters": 1,
+      "intervallProperty": 1,
+      "lithology": 2,
+      "object type": 1,
+      "points": 1,
+      "samples": 1,
+      "with code transformation": 1
+    },
+    "name": "documents",
+    "topics": [
+      "H0000000141",
+      "H0000000142",
+      "H0000000143",
+      "H0000001085",
+      "H0000002015",
+      "H0000002022",
+      "H0000002027",
+      "H0000002942",
+      "H0000002955",
+      "H0000002959",
+      "H0000002968",
+      "H0000003752",
+      "H0000005581",
+      "H0000005585",
+      "H0000005597",
+      "H0000005932",
+      "H0000007494",
+      "H0000008498",
+      "H0000008512",
+      "H0000010541",
+      "H0000010756",
+      "H0000011445",
+      "H0000011467",
+      "H0000011469"
+    ],
+    "widths": {
+      "0.16666666666666666in": 166
+    }
+  },
+  "90b703337cdc9032249d458e37c57767d6ad301d": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-90b70333",
+    "topics": [],
+    "widths": {}
+  },
+  "9121e61949b07f2e222d60d9bd3028a605c1d862": {
+    "alt": "Export data",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Export data": 1
+    },
+    "name": "export-data",
+    "topics": [
+      "H0000000097"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "92190ec3c86ed353bf2c836fb8e21112a1fe502e": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-92190ec3",
+    "topics": [],
+    "widths": {}
+  },
+  "9305df7218d5b64dc89daf03f1654bc905615428": {
+    "alt": "Close project",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Close project": 1
+    },
+    "name": "close-project",
+    "topics": [
+      "H0000000085"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "93c9ac27ba249168104804db43de77126cb4266e": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-93c9ac27",
+    "topics": [],
+    "widths": {}
+  },
+  "9404fe9f8a17cd0a9ff53154df382b16be1299ae": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-9404fe9f",
+    "topics": [],
+    "widths": {}
+  },
+  "94b5058a6026b79d3a89cd092144851867144257": {
+    "alt": "Delete",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "Delete current data record": 1,
+      "Delete layer": 1,
+      "Remove line": 1
+    },
+    "name": "delete",
+    "topics": [
+      "H0000000147",
+      "H0000000148",
+      "H0000000337"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "9505dcd23204b8fef1137ade76384d884516d7d5": {
+    "alt": "#Sampletypes",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "#Sampletypes": 1
+    },
+    "name": "sampletypes",
+    "topics": [
+      "H0000002565"
+    ],
+    "widths": {
+      "5.760416666666667in": 1
+    }
+  },
+  "9543655c2b9e67cc2da988e4c8819a22c113445d": {
+    "alt": "*or on the system tab under",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "*or on the system tab under": 2
+    },
+    "name": "or-on-the-system-tab-under",
+    "topics": [
+      "H0000003860",
+      "H0000008072"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "95e05363730b41770e2eafb64299ff20f5c05a38": {
+    "alt": "HB \\--\\> HK",
+    "confidence": "low",
+    "count": 5,
+    "label_variants": {
+      "BS \\--\\> HK": 1,
+      "HB \\--\\> HK": 1,
+      "HDB \\--\\> HK": 1,
+      "HSB \\--\\> HK": 1,
+      "HSPB \\--\\> HK": 1
+    },
+    "name": "hb----hk",
+    "topics": [
+      "H0000005585"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "9664cda15dd32aec5fc45bdf52345fdaa765b85c": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-9664cda1",
+    "topics": [],
+    "widths": {}
+  },
+  "9783600cf312fa9610f01a087c81459385317467": {
+    "alt": "Layoutliste",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Layoutliste": 1
+    },
+    "name": "layoutliste",
+    "topics": [
+      "H0000003215"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "9783e1366abe66e25dbda9609f67c61c42c475cf": {
+    "alt": "Delete layer query\"",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Delete layer query\"": 1
+    },
+    "name": "delete-layer-query",
+    "topics": [
+      "H0000006481"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "979a6c7ce7f464a538e4ebb9ccfc5d50a0dc4a6f": {
+    "alt": "Tender",
+    "confidence": "low",
+    "count": 22,
+    "label_variants": {
+      "524_550": 3,
+      "550_577": 3,
+      "577_603": 3,
+      "Borehole": 1,
+      "DB4711": 1,
+      "Data sequence": 1,
+      "DemoDB\\": 2,
+      "GeoDin database (contains projects)": 1,
+      "My database": 1,
+      "Tender": 4,
+      "Well design": 1,
+      "are in the current database but": 1
+    },
+    "name": "tender",
+    "topics": [
+      "H0000001085",
+      "H0000002022",
+      "H0000002942",
+      "H0000005932",
+      "H0000008630",
+      "H0000011445"
+    ],
+    "widths": {
+      "0.16666666666666666in": 22
+    }
+  },
+  "97d5835c1cb6a63cde589808be2d17a1fb52ea86": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-97d5835c",
+    "topics": [],
+    "widths": {}
+  },
+  "980af8c0910755c9626e178816bbfbcc2d2964b7": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-980af8c0",
+    "topics": [],
+    "widths": {}
+  },
+  "987805eca1cf3b2d1da4e77aebf21994e973aa71": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-987805ec",
+    "topics": [],
+    "widths": {}
+  },
+  "98ab27c738d21fce98139b2af2099bf12c260076": {
+    "alt": "My database",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "My database": 1
+    },
+    "name": "my-database",
+    "topics": [
+      "H0000007789"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "98c6e7b08f3ca915c9eb1207129262c118a9b733": {
+    "alt": "S01",
+    "confidence": "low",
+    "count": 24,
+    "label_variants": {
+      "B 1": 1,
+      "B 2": 1,
+      "B 3": 1,
+      "Borehole 01": 1,
+      "Borehole 02": 2,
+      "Borehole 03": 2,
+      "Boreholes deeper than 50m": 1,
+      "Database": 1,
+      "Database query": 1,
+      "Groundwater isolines (GWL1)": 1,
+      "Groundwater isolines (GWL2)": 1,
+      "Measurement point": 2,
+      "Object": 2,
+      "S01": 3,
+      "S02": 1,
+      "Streets and paths": 1,
+      "TK10 (2008)": 1,
+      "User": 1
+    },
+    "name": "s01",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806",
+      "H0000007808"
+    ],
+    "widths": {
+      "0.16666666666666666in": 24
+    }
+  },
+  "9ad7c21120ace5d9983047e61c0baddf1433a400": {
+    "alt": "to select all objects in the",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "to select all objects in the": 1
+    },
+    "name": "to-select-all-objects-in-the",
+    "topics": [
+      "H0000007410"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "9d837d27e299c5c529ab0c330bc0a2eb5c3e37a5": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-9d837d27",
+    "topics": [],
+    "widths": {}
+  },
+  "9db201e9effd3af7ebbfa4c80caedf151c87d0a7": {
+    "alt": "Add object",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Add object": 1
+    },
+    "name": "add-object",
+    "topics": [
+      "H0000000093"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "9e1a0df3014483ea06d6a20d932b62a3479259cc": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-9e1a0df3",
+    "topics": [],
+    "widths": {}
+  },
+  "9e78cefe7fd76b72f20acd149aa87b9504033d5f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-9e78cefe",
+    "topics": [],
+    "widths": {}
+  },
+  "9ee6027e52c963bd9e5b73f75f17170e941aa38f": {
+    "alt": "Edit quick settings",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Edit quick settings": 1
+    },
+    "name": "edit-quick-settings",
+    "topics": [
+      "H0000000149"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "9eea7af8bd72e4e01cb71067c88d72a86a52524b": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-9eea7af8",
+    "topics": [],
+    "widths": {}
+  },
+  "9efeb068c7d1204d56e6654bb4c6a2ffbd65f44a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-9efeb068",
+    "topics": [],
+    "widths": {}
+  },
+  "a046f3d92f90cc1d1545ed32a9665df89ab989ef": {
+    "alt": "Interval",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "Interval": 3,
+      "lithology": 2
+    },
+    "name": "interval",
+    "topics": [
+      "H0000005597",
+      "H0000008498",
+      "H0000008512"
+    ],
+    "widths": {
+      "0.16666666666666666in": 5
+    }
+  },
+  "a0a26e268f45542c96c6fd33c36a83148c2924f9": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-a0a26e26",
+    "topics": [],
+    "widths": {}
+  },
+  "a19c01a02c43821847eeccc617a1a167fb8a22c1": {
+    "alt": "****",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "****": 1,
+      "**** **Cut, Copy and Paste**\\": 1
+    },
+    "name": "unnamed-6",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "a255a46de2c18b6d74e952c8b6d627fc0a2eb217": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-a255a46d",
+    "topics": [],
+    "widths": {}
+  },
+  "a317ebcc207b62decf196753f7d382f710a4a1db": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-a317ebcc",
+    "topics": [],
+    "widths": {}
+  },
+  "a3db8a3cff9ee2c07a7f6676c3624f042652c7d9": {
+    "alt": "*Full",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "*Full map* or *Current map view*": 1,
+      "Full map": 1
+    },
+    "name": "full",
+    "topics": [
+      "H0000007494"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "a5449985e98bb2a105742aee2c6138fbd215aabc": {
+    "alt": "Manage methods",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Manage methods": 1
+    },
+    "name": "manage-methods",
+    "topics": [
+      "H0000011354"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "a5d90ac8a43f5fc6b50f333192042c1402608513": {
+    "alt": "'Samples\\'",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "'Samples\\'": 1,
+      "Sample; A measurement point of this": 1
+    },
+    "name": "samples-3",
+    "topics": [
+      "H0000000144",
+      "H0000008627"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "a69790ec9edbc56e64d3e4de1ebbc028b0584136": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-a69790ec",
+    "topics": [],
+    "widths": {}
+  },
+  "a6b4763d0d03380559d053a09be8529af6206b23": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-a6b4763d",
+    "topics": [],
+    "widths": {}
+  },
+  "a6c124a8038295e8a06909bac9f0150e3cdb6ce5": {
+    "alt": "button",
+    "confidence": "low",
+    "count": 4,
+    "label_variants": {
+      "<Edit parameter\\> or the similarly named": 1,
+      "Delete parameter group": 1,
+      "Edit parameter group": 1,
+      "button": 1
+    },
+    "name": "button-2",
+    "topics": [
+      "H0000008066",
+      "H0000008505"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "a72ed9ddb4c61db0edebe8f25196a789c06184ca": {
+    "alt": "New object",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "New object": 1
+    },
+    "name": "new-object",
+    "topics": [
+      "H0000000143"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "a73230e29209ba00137534eb7968caabba437e0c": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-a73230e2",
+    "topics": [],
+    "widths": {}
+  },
+  "a7a861a91d8d2a6f329ade3ecf01aed0ed8bb54a": {
+    "alt": "Zoom",
+    "confidence": "low",
+    "count": 5,
+    "label_variants": {
+      "*Current map view* is selected, thumbnail": 1,
+      "Aktueller Kartenausschnitt": 1,
+      "Zoom": 1,
+      "[Search in polygons](H0000010745": 1
+    },
+    "name": "zoom",
+    "topics": [
+      "H0000005934",
+      "H0000007494",
+      "H0000008789"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "a8c212e5a0b4185dec57bb1877d9919f2b5ca100": {
+    "alt": "Determine number of records",
+    "confidence": "low",
+    "count": 3,
+    "label_variants": {
+      "** \\'Determine number of measured values\\'": 1,
+      "Add data type to the system configuration": 1,
+      "Determine number of records": 1
+    },
+    "name": "determine-number-of-records",
+    "topics": [
+      "H0000008619",
+      "H0000008630"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "a8f92837f506bdef3014650ec670f1a89ea76950": {
+    "alt": "Samples",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Filter": 1,
+      "Samples": 3
+    },
+    "name": "samples-2",
+    "topics": [
+      "H0000007789",
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "aa9de1d351685b82dab1b9f789481b80307ea349": {
+    "alt": "Übernehmen",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Übernehmen": 2
+    },
+    "name": "übernehmen",
+    "topics": [
+      "H0000002078",
+      "H0000003482"
+    ],
+    "widths": {
+      "2.4993055555555554in": 2
+    }
+  },
+  "aabb27ed3f151cdfd50e4e3f9c748e440afb6f8f": {
+    "alt": "DemoDB",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "DemoDB": 2
+    },
+    "name": "demodb-2",
+    "topics": [
+      "H0000006835",
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "ab84a126574ac31b257a120bc422cd2ccfede944": {
+    "alt": "Umbenennen",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Umbenennen": 1
+    },
+    "name": "umbenennen",
+    "topics": [
+      "H0000002107"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "abdc31bd867b8dce9e210dea57401f0037b1f869": {
+    "alt": "B 2",
+    "confidence": "low",
+    "count": 19,
+    "label_variants": {
+      "B 1": 3,
+      "B 2": 4,
+      "B 3": 2,
+      "Borehole 01": 2,
+      "Borehole 02": 2,
+      "Borehole 03": 2,
+      "PRJ_ID,LOCID; within a project only LOCID": 1,
+      "oder Messpunkt ) as to which": 1,
+      "or meassurement point ) can be defined": 1,
+      "or measurement point": 1
+    },
+    "name": "b-2-2",
+    "topics": [
+      "H0000007789",
+      "H0000007808",
+      "H0000007818",
+      "H0000007835"
+    ],
+    "widths": {
+      "0.16666666666666666in": 19
+    }
+  },
+  "acc298913b28d931429b2e1c23968d56500641b2": {
+    "alt": "Edit database connection",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Edit database connection": 1
+    },
+    "name": "edit-database-connection-2",
+    "topics": [
+      "H0000011212"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "ad540073ebf6b419c26778aa53ea35127ee3a57b": {
+    "alt": "IsSingular",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "IsSingular": 1
+    },
+    "name": "issingular",
+    "topics": [
+      "H0000008653"
+    ],
+    "widths": {
+      "4.208333333333333in": 1
+    }
+  },
+  "ae21b36125f0d0f4e377cb77e27b30a63ff869bc": {
+    "alt": "ja",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "ja": 1
+    },
+    "name": "ja-2",
+    "topics": [
+      "H0000002116"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "ae306257dd96214c872e8e201be3d2d88d0ded19": {
+    "alt": "Filter details",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Filter details": 1
+    },
+    "name": "filter-details",
+    "topics": [
+      "H0000000148"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "b0de8d08e5ec6554d03fac6285c2e843f2e3b26f": {
+    "alt": "Ja",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Ja": 1
+    },
+    "name": "ja",
+    "topics": [
+      "H0000002107"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "b284a13ba987076259504220f8af56efd9782cc9": {
+    "alt": "** \\'Close all nodes\\'",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "** \\'Close all nodes\\'": 1
+    },
+    "name": "close-all-nodes",
+    "topics": [
+      "H0000008630"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "b2c9fdaac9ce91cc8b37a7e6aca3e0438d739692": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-b2c9fdaa",
+    "topics": [],
+    "widths": {}
+  },
+  "b342a3cbd64ec8c9e07fb1697b2520e7559bb9c1": {
+    "alt": "With",
+    "confidence": "medium",
+    "count": 5,
+    "label_variants": {
+      "With the first tool, the line": 1,
+      "With the second tool objects are": 1,
+      "to deactivate oll objects in the scene": 1
+    },
+    "name": "with",
+    "topics": [
+      "H0000007398",
+      "H0000007410"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "b44b2707c6b44f8bebf591c5599ffd0810583307": {
+    "alt": "Copy all projects",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Copy all projects": 1
+    },
+    "name": "copy-all-projects",
+    "topics": [
+      "H0000000091"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "b52a294fc4ec2922f682717afa26c09041e677d6": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-b52a294f",
+    "topics": [],
+    "widths": {}
+  },
+  "b5b68509e984e1564d8468b2df210d944b077b05": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-b5b68509",
+    "topics": [],
+    "widths": {}
+  },
+  "b5e4d3a1ad2187d2e77a8e830cd382de6dfadcb1": {
+    "alt": "Stop SQL protocol",
+    "confidence": "low",
+    "count": 4,
+    "label_variants": {
+      "Stop SQL protocol": 1,
+      "button allows you to preview the": 1,
+      "execute": 1,
+      "you can display the results of": 1
+    },
+    "name": "stop-sql-protocol",
+    "topics": [
+      "H0000006791",
+      "H0000007274",
+      "H0000008832",
+      "H0000010359"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "b6357027d23e24c190a31b0f2998049319de9253": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-b6357027",
+    "topics": [],
+    "widths": {}
+  },
+  "b6b7b902cc467848ad4c8c6b73c2639593ffe702": {
+    "alt": "Show document",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Show document": 1
+    },
+    "name": "show-document",
+    "topics": [
+      "H0000001293"
+    ],
+    "widths": {
+      "3.4277777777777776in": 1
+    }
+  },
+  "b7052c21f8d66931b91829158e270e6ce1e5f47f": {
+    "alt": "Location deeper than 9m",
+    "confidence": "low",
+    "count": 9,
+    "label_variants": {
+      "Boreholes deeper than 50m": 1,
+      "Holes (digestion type)\\": 1,
+      "Location deeper than 9m": 2,
+      "Meine Abfrage\\": 1,
+      "Meine datenbankweite Abfrage\\": 1,
+      "My Query": 1,
+      "Short name (height)": 1
+    },
+    "name": "location-deeper-than-9m",
+    "topics": [
+      "H0000000142",
+      "H0000002942",
+      "H0000002959",
+      "H0000010541",
+      "H0000011445"
+    ],
+    "widths": {
+      "0.16666666666666666in": 8
+    }
+  },
+  "b794c9756627b67736f45b6b6c5d3c53ee9f4b0e": {
+    "alt": "The data type/parameter is missing in the target database",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "The data type/parameter is missing in the target database": 1
+    },
+    "name": "the-data-type-parameter-is-missing-in-the-target-database",
+    "topics": [
+      "H0000008607"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "b80d0903a282f0ab68da97e90c6bd7f0a02f6ef0": {
+    "alt": "Pan",
+    "confidence": "high",
+    "count": 7,
+    "label_variants": {
+      "Pan": 4
+    },
+    "name": "pan",
+    "topics": [
+      "H0000000033",
+      "H0000000149",
+      "H0000005934",
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "b82d2e4295ab819876369d4fce11826a36f71c58": {
+    "alt": "New",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "New import filter": 1,
+      "With this option you add a": 1
+    },
+    "name": "new",
+    "topics": [
+      "H0000002142",
+      "H0000005922"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "b859fecb1462a295c3fb877cd955a8527c683a8c": {
+    "alt": "shift",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "shift": 1
+    },
+    "name": "shift",
+    "topics": [
+      "H0000007426"
+    ],
+    "widths": {
+      "1.0416666666666667in": 1
+    }
+  },
+  "b8698829451e9eacd712e160ad6c696f818c450a": {
+    "alt": "Copy well-design data from another object",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Copy well-design data from another object": 1
+    },
+    "name": "copy-well-design-data-from-another-object",
+    "topics": [
+      "H0000000148"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "b8a969f217fcadecc14352c1aa494669925c086e": {
+    "alt": "Previous view / Next view",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Previous view / Next view": 1
+    },
+    "name": "previous-view-next-view",
+    "topics": [
+      "H0000000033"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "b9d2d2e03477997b8065453989847e0ef6cac0a5": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-b9d2d2e0",
+    "topics": [],
+    "widths": {}
+  },
+  "bb10e1b2a2fd31acd33c3d0b0e1b667dab819ead": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-bb10e1b2",
+    "topics": [],
+    "widths": {}
+  },
+  "bb26454fc6cd8a87b0dff99f0bbf897b021246d6": {
+    "alt": "GeODinService",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "GeODinService": 1
+    },
+    "name": "geodinservice",
+    "topics": [
+      "H0000005645"
+    ],
+    "widths": {
+      "4.905555555555556in": 1
+    }
+  },
+  "bb4e4d241f5fb487f06bbee672424544b2230144": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-bb4e4d24",
+    "topics": [],
+    "widths": {}
+  },
+  "bc9c66df6dc616518cdcfa4a2d47e0a31eda2d55": {
+    "alt": "Change parameter",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Change parameter": 1
+    },
+    "name": "change-parameter",
+    "topics": [
+      "H0000002968"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "bcea8a6aee04dba133dd89fb26fd1caef4916075": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-bcea8a6a",
+    "topics": [],
+    "widths": {}
+  },
+  "bdb49140cfcd9a38c48079d0f038219b865b2def": {
+    "alt": "'Well design\\'",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "'Well design\\'": 1
+    },
+    "name": "well-design",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "bf6f32c2e5f3eb132f5b3472e2b5bb37126094c6": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-bf6f32c2",
+    "topics": [],
+    "widths": {}
+  },
+  "c198d572815461d0727b5cec2cdf59682ef396c9": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-c198d572",
+    "topics": [],
+    "widths": {}
+  },
+  "c2dfca522fae6d339ef1c61e0744f07cd2199ab5": {
+    "alt": "All objects",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "All objects": 1
+    },
+    "name": "all-objects-3",
+    "topics": [
+      "H0000002901"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "c37861e9bf6f2ce050c37a28dddb1f6ffb258d23": {
+    "alt": "**",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "**": 1
+    },
+    "name": "unnamed-15",
+    "topics": [
+      "H0000008560"
+    ],
+    "widths": {
+      "4.249305555555556in": 1
+    }
+  },
+  "c3da80545b648c6b790599bf2fae37afda01707c": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-c3da8054",
+    "topics": [],
+    "widths": {}
+  },
+  "c4385025a36ad24da7fb8d1fe9101413f3554fc8": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-c4385025",
+    "topics": [],
+    "widths": {}
+  },
+  "c4a3810022370d6e9a6dc2e6fb4c34a060e0946c": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-c4a38100",
+    "topics": [],
+    "widths": {}
+  },
+  "c4efd97bc35059a6818d6c91593d3120b4819702": {
+    "alt": "User",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Restore view": 1,
+      "User defined view": 1
+    },
+    "name": "user-2",
+    "topics": [
+      "H0000008586"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "c53827cb0de075a62956dfcd74168de363c53a17": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-c53827cb",
+    "topics": [],
+    "widths": {}
+  },
+  "c5c544195e3b7d69784656a9e650f1de1467deb5": {
+    "alt": "Create document",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Create document": 1
+    },
+    "name": "create-document",
+    "topics": [
+      "H0000005922"
+    ],
+    "widths": {
+      "2.8125in": 1
+    }
+  },
+  "c7e137b3eb20a96159bf6e386d7c4a6ffe32406f": {
+    "alt": "'Data sequences\\'",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "'Data sequences\\'": 1
+    },
+    "name": "data-sequences",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "c874f1729713bdf642266e3cdb28ef319234d86a": {
+    "alt": "User",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Delete current view": 1,
+      "Save current view": 1,
+      "User defined view": 2
+    },
+    "name": "user",
+    "topics": [
+      "H0000008586"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "c8823b7057df77023142a535524ed634d8e4a0fd": {
+    "alt": "Images",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Images": 1
+    },
+    "name": "images",
+    "topics": [
+      "H0000001293"
+    ],
+    "widths": {
+      "3.2402777777777776in": 1
+    }
+  },
+  "ca1a0acfc5231330a505737e10c88dca761c290a": {
+    "alt": "Map preview",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Map preview": 1
+    },
+    "name": "map-preview",
+    "topics": [
+      "H0000000145"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "caaec4f34278921332c0d056bfeecabef086af52": {
+    "alt": "switch you can define the import formats yourself",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "switch you can define the import formats yourself": 1
+    },
+    "name": "switch-you-can-define-the-import-formats-yourself",
+    "topics": [
+      "H0000008832"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "cb319231e5e48ee3f7cf3c840fa6799f93204982": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-cb319231",
+    "topics": [],
+    "widths": {}
+  },
+  "cbaac38642adb66ff3fd3be6480632d6df55ad14": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-cbaac386",
+    "topics": [],
+    "widths": {}
+  },
+  "cc2b2f34e00ec9dcc565e144909f0ef90955334f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-cc2b2f34",
+    "topics": [],
+    "widths": {}
+  },
+  "cc3ebbcc461142235648683c7e4276dcd64bd59e": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-cc3ebbcc",
+    "topics": [],
+    "widths": {}
+  },
+  "cc8e3a0371cbadfba8940ff70d3cbafb65ac0b2f": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-cc8e3a03",
+    "topics": [],
+    "widths": {}
+  },
+  "ccbabeb2f1d22492b592dcdaf6ade003c0fa4c23": {
+    "alt": "Zoom out",
+    "confidence": "high",
+    "count": 7,
+    "label_variants": {
+      "Zoom out": 4
+    },
+    "name": "zoom-out",
+    "topics": [
+      "H0000000033",
+      "H0000000149",
+      "H0000003413",
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "cd6bc14546c50a74c6848eacb369e83818466b19": {
+    "alt": "If required conditions are fulfilled they",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "If required conditions are fulfilled they": 1
+    },
+    "name": "if-required-conditions-are-fulfilled-they",
+    "topics": [
+      "H0000007274"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "cf1041134a93c8a2d284c597ac7d74e67b176b30": {
+    "alt": "Next",
+    "confidence": "medium",
+    "count": 6,
+    "label_variants": {
+      "Go to next data record": 1,
+      "Move selected entry up": 1,
+      "Next layer": 1,
+      "Next row": 1
+    },
+    "name": "next",
+    "topics": [
+      "H0000000147",
+      "H0000000148",
+      "H0000000149",
+      "H0000000337"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "cfb38d59c8661575dd6f059fce2d439d9371f681": {
+    "alt": "Page formats",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Page formats": 2
+    },
+    "name": "page-formats",
+    "topics": [
+      "H0000007494"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "d31d0678d36c9eb902a725ace7285f8dd4e48909": {
+    "alt": "Meier",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "Meier": 3,
+      "User": 1
+    },
+    "name": "meier-2",
+    "topics": [
+      "H0000011469"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "d37f7203b5202ea569ed4e9d89a201b6b646f583": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-d37f7203",
+    "topics": [],
+    "widths": {}
+  },
+  "d39f19431f6016fa66ae8330d2556f30854bfbe8": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-d39f1943",
+    "topics": [],
+    "widths": {}
+  },
+  "d58bbb6ffed32180aac640de0d1b4ea2a431f80b": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-d58bbb6f",
+    "topics": [],
+    "widths": {}
+  },
+  "d69e8d92fd1fea501dee3ddce413addac16a0195": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-d69e8d92",
+    "topics": [],
+    "widths": {}
+  },
+  "d6d93267b345069eb79d356579186a8d87fd6156": {
+    "alt": "Delete database connection",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Delete database connection": 1
+    },
+    "name": "delete-database-connection",
+    "topics": [
+      "H0000000576"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "d811143737f9a08edab56f599a6f935e7d42d2da": {
+    "alt": "Samples",
+    "confidence": "medium",
+    "count": 12,
+    "label_variants": {
+      "BH": 1,
+      "Filter": 3,
+      "Samples": 6,
+      "filters": 1,
+      "samples": 1
+    },
+    "name": "samples",
+    "topics": [
+      "H0000000142",
+      "H0000001085",
+      "H0000002942",
+      "H0000003752",
+      "H0000011445",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 12
+    }
+  },
+  "d8561346e7ca0cea1b2e18fa31d0de6f738cf09a": {
+    "alt": "Borehole 02",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "Borehole 02": 2
+    },
+    "name": "borehole-02",
+    "topics": [
+      "H0000001085"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "d900fc17f7b93b519a9bcd6d673e41d0503d8229": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-d900fc17",
+    "topics": [],
+    "widths": {}
+  },
+  "d9220768617added6e194b611c85c8efd984ea61": {
+    "alt": "*Export*",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "*Export*": 1
+    },
+    "name": "export-2",
+    "topics": [
+      "H0000005938"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "d9346d4e8efc43bb907088d70e02a31d0800624c": {
+    "alt": "*Assign",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "**at the bottom of the legend": 1,
+      "*Assign to group*": 1
+    },
+    "name": "assign",
+    "topics": [
+      "H0000005938"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "d95085084461b31998beb14f5a93991415b83db5": {
+    "alt": "Transformation",
+    "confidence": "medium",
+    "count": 6,
+    "label_variants": {
+      "Attribute table": 1,
+      "Transformation": 3,
+      "[Attribute table](H0000008797": 1,
+      "in the tree": 1
+    },
+    "name": "transformation",
+    "topics": [
+      "H0000005581",
+      "H0000005597",
+      "H0000008512",
+      "H0000008789",
+      "H0000008797"
+    ],
+    "widths": {
+      "0.16666666666666666in": 6
+    }
+  },
+  "da1d7572e56f87433ae9b69435265aee6f87b5bd": {
+    "alt": "Create report",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Create report": 1
+    },
+    "name": "create-report",
+    "topics": [
+      "H0000008615"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "da37ee745cbc646349ad53f104c8508ab9cd7ca7": {
+    "alt": "Backfill information",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Backfill information": 1
+    },
+    "name": "backfill-information",
+    "topics": [
+      "H0000000148"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "da97004a1dca4b074774fd05c63d5678659adc31": {
+    "alt": "Graphic printing and editing",
+    "confidence": "high",
+    "count": 2,
+    "label_variants": {
+      "Graphic printing and editing": 1
+    },
+    "name": "graphic-printing-and-editing",
+    "topics": [
+      "H0000000149"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "db0db09f52b13d710d38f4046a197fa87a086a54": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-db0db09f",
+    "topics": [],
+    "widths": {}
+  },
+  "db3b3520e74844ef34567fcd2e579c816fcb68e8": {
+    "alt": "B 2",
+    "confidence": "low",
+    "count": 14,
+    "label_variants": {
+      "All Locations": 1,
+      "All Objects": 2,
+      "B 2": 3,
+      "B 3": 1,
+      "General Borehole Log": 1,
+      "Locations": 1,
+      "Maps": 1,
+      "Measurement points": 1,
+      "My Query": 1,
+      "Project 2": 1,
+      "Project 3": 1
+    },
+    "name": "b-2-3",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806",
+      "H0000007808"
+    ],
+    "widths": {
+      "0.16666666666666666in": 14
+    }
+  },
+  "dbb0576ce0db3e40d2ad1c15fa256ae91ba415dd": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-dbb0576c",
+    "topics": [],
+    "widths": {}
+  },
+  "de5ddfb6dfac8ae1cda4ee49e10237a1b0d12a95": {
+    "alt": "Properties",
+    "confidence": "low",
+    "count": 3,
+    "label_variants": {
+      "Edit layer queries": 1,
+      "Objects": 1,
+      "Properties": 1
+    },
+    "name": "properties",
+    "topics": [
+      "H0000001725",
+      "H0000001736",
+      "H0000006358"
+    ],
+    "widths": {
+      "0.5in": 3
+    }
+  },
+  "df576e1ad245f19d4378e764d1144c99a5e3309e": {
+    "alt": "Delete project",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Delete project": 1
+    },
+    "name": "delete-project",
+    "topics": [
+      "H0000000087"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "e115c06f75d14d0db5f75bc2af5920c939d7554c": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e115c06f",
+    "topics": [],
+    "widths": {}
+  },
+  "e1360887f057f1ff2cca4029766662e6b133f2e9": {
+    "alt": "GEODEF",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "GEODEF": 1
+    },
+    "name": "geodef",
+    "topics": [
+      "H0000002565"
+    ],
+    "widths": {
+      "5.104166666666667in": 1
+    }
+  },
+  "e14ff2fd3832527ba0924ca57070912e940c3198": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e14ff2fd",
+    "topics": [],
+    "widths": {}
+  },
+  "e15f12012f299efdba4c3665e5461cd40fefc3b6": {
+    "alt": "Importieren",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Importieren": 1
+    },
+    "name": "importieren",
+    "topics": [
+      "H0000003505"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "e1d179e3713a40f5ad09b15608cbc22af73fd320": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e1d179e3",
+    "topics": [],
+    "widths": {}
+  },
+  "e26cefca3682cbb380fa602453f4fd7049e73219": {
+    "alt": "Documents",
+    "confidence": "medium",
+    "count": 23,
+    "label_variants": {
+      "*Attach presentation to document source*": 1,
+      "Current map print templates": 1,
+      "Data management": 1,
+      "Document data": 1,
+      "Document type": 1,
+      "Documents": 15,
+      "is started": 2
+    },
+    "name": "documents-2",
+    "topics": [
+      "H0000000144",
+      "H0000002022",
+      "H0000002027",
+      "H0000005938",
+      "H0000007494",
+      "H0000007921",
+      "H0000007925",
+      "H0000011370",
+      "H0000011375"
+    ],
+    "widths": {
+      "0.16666666666666666in": 22
+    }
+  },
+  "e2a887d80914c1021e0b123acf3d4c097cdc368a": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e2a887d8",
+    "topics": [],
+    "widths": {}
+  },
+  "e2f697b16800feef6328faa4229106677de30b12": {
+    "alt": "DemoDB",
+    "confidence": "medium",
+    "count": 4,
+    "label_variants": {
+      "DemoDB": 4
+    },
+    "name": "demodb",
+    "topics": [
+      "H0000000141",
+      "H0000010541",
+      "H0000010756",
+      "H0000011467"
+    ],
+    "widths": {
+      "0.16666666666666666in": 4
+    }
+  },
+  "e3c691902f66a41b87e26a5deb1218c4173dff3d": {
+    "alt": "becomes",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "F8": 1,
+      "becomes visible in the editor, with": 1
+    },
+    "name": "becomes",
+    "topics": [
+      "H0000010875"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "e4e52eacae19bedf85cb0a3cd579b719dcf75d8d": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e4e52eac",
+    "topics": [],
+    "widths": {}
+  },
+  "e581835fee94eeea8c5e6b9c32854eef010dd12b": {
+    "alt": "Object",
+    "confidence": "low",
+    "count": 8,
+    "label_variants": {
+      "Database": 1,
+      "Database query": 1,
+      "Measurement point": 2,
+      "Object": 2,
+      "and the nodes of the results": 1,
+      "or the result nodes (object or": 1
+    },
+    "name": "object",
+    "topics": [
+      "H0000007806",
+      "H0000007808",
+      "H0000007818"
+    ],
+    "widths": {
+      "0.16666666666666666in": 8
+    }
+  },
+  "e615fddff3c37ed59e16c6120bafe71658caccf7": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e615fddf",
+    "topics": [],
+    "widths": {}
+  },
+  "e73d4001796b35fe992c869810b761a12c3592d8": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e73d4001",
+    "topics": [],
+    "widths": {}
+  },
+  "e7b8ec092dd8b7f20cc38b35e375b81c6c84ec55": {
+    "alt": "OK",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "OK": 1
+    },
+    "name": "ok",
+    "topics": [
+      "H0000007426"
+    ],
+    "widths": {
+      "2.5006944444444446in": 1
+    }
+  },
+  "e9992e345188fcbdaf94b98741eefb371160478d": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e9992e34",
+    "topics": [],
+    "widths": {}
+  },
+  "e9cf9d95d103ed6194d2f203331d32a2a4f3d8a5": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-e9cf9d95",
+    "topics": [],
+    "widths": {}
+  },
+  "ed2462e30709f705bfc68efebfaee3fc49674b31": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-ed2462e3",
+    "topics": [],
+    "widths": {}
+  },
+  "ed42d4bcd628361e05a53df444fbf6cb9b1d0ebf": {
+    "alt": "and clicking on a cross-section then",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "and clicking on a cross-section then": 1
+    },
+    "name": "and-clicking-on-a-cross-section-then",
+    "topics": [
+      "H0000008798"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "ed862ea74b879dacdbac578d6fc11fcf26cf7ad9": {
+    "alt": "'",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "'": 1
+    },
+    "name": "unnamed-9",
+    "topics": [
+      "H0000001955"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "ee61d31358dec29bad4e76b69ce337fe954e3b6d": {
+    "alt": "Example: Mg 50% + S 50%",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Example: Mg 50% + S 50%": 1
+    },
+    "name": "example-mg-50-s-50",
+    "topics": [
+      "H0000002560"
+    ],
+    "widths": {
+      "1.1041666666666667in": 1
+    }
+  },
+  "ee9b14de617e3ac57ba509bc3186d816ae2dcb78": {
+    "alt": "Display Fields",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "Display Fields": 2,
+      "View fields": 1
+    },
+    "name": "display-fields",
+    "topics": [
+      "H0000002959",
+      "H0000002968"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "efc6e4b0af0461ec36adb1cee53a0e442c78d2fa": {
+    "alt": "ja",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "ja": 1
+    },
+    "name": "ja-3",
+    "topics": [
+      "H0000002123"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "f0e41665fa230ade4c81c01ba4cf8b630e06c499": {
+    "alt": "Edit without refresh",
+    "confidence": "low",
+    "count": 13,
+    "label_variants": {
+      "*) must match the (format) settings": 1,
+      "Edit selected filters": 1,
+      "Edit without refresh": 1,
+      "Edit without update": 1,
+      "Here you have the possibility to": 1,
+      "Note": 1,
+      "Number of Values": 1,
+      "S3SCHDAT": 1,
+      "with code transformation": 1
+    },
+    "name": "edit-without-refresh",
+    "topics": [
+      "H0000000149",
+      "H0000002142",
+      "H0000003413",
+      "H0000005581",
+      "H0000005585",
+      "H0000008630",
+      "H0000010857"
+    ],
+    "widths": {
+      "0.16666666666666666in": 9
+    }
+  },
+  "f1bcc65863acdcf0a1b68df5e21c6d7186a2bb7c": {
+    "alt": "Databases",
+    "confidence": "medium",
+    "count": 3,
+    "label_variants": {
+      "Databases": 3
+    },
+    "name": "databases-2",
+    "topics": [
+      "H0000006835",
+      "H0000007789",
+      "H0000007806"
+    ],
+    "widths": {
+      "0.16666666666666666in": 3
+    }
+  },
+  "f3a5ca0bc9195248efc48ef571ba083523c3855d": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-f3a5ca0b",
+    "topics": [],
+    "widths": {}
+  },
+  "f435dc32b758389f1f1bd1fe3faf45c453403cd1": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-f435dc32",
+    "topics": [],
+    "widths": {}
+  },
+  "f5b3c2fd829680f8bb9565d5766f41dc1b3fb1fe": {
+    "alt": "****",
+    "confidence": "medium",
+    "count": 2,
+    "label_variants": {
+      "****": 1,
+      "Geotechnical investigation EN ISO 22745": 1
+    },
+    "name": "unnamed-8",
+    "topics": [
+      "H0000000144"
+    ],
+    "widths": {
+      "0.16666666666666666in": 2
+    }
+  },
+  "f62bffb9a0969deb1a90502fde1ce685892e4721": {
+    "alt": "Cross-section",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Cross-section": 1
+    },
+    "name": "cross-section",
+    "topics": [
+      "H0000007393"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "f75f7b8244621d197dcc4d1b67cea704f6410059": {
+    "alt": "Transformation",
+    "confidence": "medium",
+    "count": 1,
+    "label_variants": {
+      "Transformation": 1
+    },
+    "name": "transformation-3",
+    "topics": [
+      "H0000005585"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "f7de898305eef2ad7c9947ccaab7b1752d073303": {
+    "alt": "New layer query",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "New layer query": 1
+    },
+    "name": "new-layer-query",
+    "topics": [
+      "H0000006478"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "f8e1cf58d97feda54142004abf407794bf6a171a": {
+    "alt": "Teil2",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Teil2": 1
+    },
+    "name": "teil2",
+    "topics": [
+      "H0000002123"
+    ],
+    "widths": {
+      "2.4993055555555554in": 1
+    }
+  },
+  "f914eb7344036ea4f170253d1cf1edc656a089c3": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-f914eb73",
+    "topics": [],
+    "widths": {}
+  },
+  "f953c851d23c3910654afe53a7a6f02a4028f826": {
+    "alt": "Create database connection",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Create database connection": 1
+    },
+    "name": "create-database-connection",
+    "topics": [
+      "H0000011211"
+    ],
+    "widths": {
+      "0.5in": 1
+    }
+  },
+  "fa79d73908411b796786328a69fbdea74071c926": {
+    "alt": "Example template",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Example template": 1
+    },
+    "name": "example-template",
+    "topics": [
+      "H0000004059"
+    ],
+    "widths": {
+      "7.229861111111111in": 1
+    }
+  },
+  "fa80fda36185d0ef5de85d4170eee739c43465e4": {
+    "alt": "Previous / Next Layout",
+    "confidence": "high",
+    "count": 1,
+    "label_variants": {
+      "Previous / Next Layout": 1
+    },
+    "name": "previous-next-layout",
+    "topics": [
+      "H0000005960"
+    ],
+    "widths": {
+      "0.16666666666666666in": 1
+    }
+  },
+  "fd2b8679ee48232c4cad490e26278926afbc22c7": {
+    "alt": "S01",
+    "confidence": "low",
+    "count": 11,
+    "label_variants": {
+      ")": 1,
+      ") as to which data fields": 1,
+      "B1P1 : Filter 1(4 - 6m)": 1,
+      "B1P1 : Sample1 1(1 - 1m)": 1,
+      "Edit graphic": 1,
+      "INVID": 1,
+      "S01": 3,
+      "S02": 1,
+      "expects a field with the measurement": 1
+    },
+    "name": "s01-2",
+    "topics": [
+      "H0000006977",
+      "H0000011445",
+      "H0000011467",
+      "H0000011469",
+      "H0000011479",
+      "H0000011505"
+    ],
+    "widths": {
+      "0.16666666666666666in": 11
+    }
+  },
+  "fd4854b37cc0c26812e57b61db1193ccea69a386": {
+    "alt": "",
+    "confidence": "none",
+    "count": 1,
+    "label_variants": {},
+    "name": "unlabeled-fd4854b3",
+    "topics": [],
+    "widths": {}
+  }
+}

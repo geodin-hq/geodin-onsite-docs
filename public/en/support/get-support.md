@@ -1,5 +1,11 @@
-# Get support
+---
+description: How to reach the GeoDin support team
+---
 
-For individuals seeking assistance or support, GeoDin® offers several convenient methods to get in touch with our dedicated team, ensuring a prompt and efficient resolution to any concerns. Firstly, users have the option to submit a ticket through our official support portal at [https://support.geodin.com](https://support.geodin.com). This platform is designed to streamline the process, allowing users to track the status of their queries and receive timely updates.&#x20;
+# Get Support
 
-Additionally, those who prefer a more direct approach can opt to send an email to [support@geodin.com](mailto:support@geodin.com). Our knowledgeable support staff is available to provide detailed help, address specific issues, and offer guidance tailored to individual needs. Leveraging these options ensures that all clients receive the attention and support necessary to enhance their experience with GeoDin® products and services.
+GeoDin offers two ways to contact the support team for prompt, efficient assistance.
+
+**Support portal** — Submit a ticket at [support.geodin.com](https://support.geodin.com). The portal lets you track the status of your request and receive updates as your case progresses.
+
+**Email** — Send a message directly to [support@geodin.com](mailto:support@geodin.com). The support team can address specific issues and provide guidance tailored to your situation.
