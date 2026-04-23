@@ -28,6 +28,16 @@ Besides easy geo-data collection, GeoDin Onsite simplifies sample registration t
 * Direct data transfer to GeoDin desktop software.
 * Easy data integration for geotechnical reporting in GeoDin Desktop.
 
+## Get started
+
+New to GeoDin Onsite? Here's the recommended reading order:
+
+1. [Installation & licensing](documentation/installation-and-licensing.md) — download, install, and activate your license
+2. [The Onsite user interface](documentation/onsite-user-interface.md) — an orientation tour of the app
+3. [First steps](documentation/first-steps.md) — create your first form end-to-end in about 10 minutes
+
+Already up and running? Dive into the [Core concepts](core-concepts/forms-and-projects.md) to understand the mental model behind forms, projects, and file delivery, or jump straight to the [Guides](guides/g1-drilling-report.md) for task-focused walkthroughs.
+
 Find out more at:
 
 {% embed url="https://www.geodin.com/suite/geodin-onsite" %}
