@@ -53,7 +53,7 @@ For current pricing and plan options, see the [GeoDin pricing page](https://www.
 
 ## Validation and offline use
 
-Onsite validates your license online at every launch. After successful validation, you can use Onsite **offline for up to 30 consecutive days** — useful on tablets in the field without connectivity.
+Onsite validates your license online at every launch. After successful validation, you can use Onsite **offline for up to 30 consecutive days** — useful on tablets in the field without connectivity. Only licence validation and publish/retrieve require internet; filling out forms offline is fully supported throughout this window.
 
 After 30 days offline, reconnect to the internet so Onsite can revalidate. The 30-day offline window resets each time a successful online validation occurs, and is **separate** from your subscription's expiry date.
 

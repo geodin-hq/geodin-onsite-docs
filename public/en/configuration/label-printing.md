@@ -80,6 +80,8 @@ The same `logo.png` is also used on exported PDFs of forms, keeping your brandin
 
 Every sample gets an automatic unique identifier consisting of a prefix, a timestamp-encoded section, and a random suffix. By default the prefix is a single letter, but you can customise it to 1–3 letters to match your organisation's sample-identifier convention.
 
+The prefix and random suffix together always total **5 characters** — a longer prefix shortens the random section correspondingly. A 1-character prefix has 4 random characters, a 2-character prefix has 3, and a 3-character prefix has 2. The timestamp-encoded section in the middle is independent of this.
+
 ***
 
 **See also**
