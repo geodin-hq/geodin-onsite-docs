@@ -25,6 +25,16 @@ Set them in Configuration → Labels:
 * **No printer** — disables printing
 * **Preview** — shows the label on screen without actually printing; useful for testing label templates
 
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+## Recommended hardware
+
+For the smoothest experience, we recommend the **Zebra ZQ600 Series mobile thermal label printer**.
+
+👉 Buy or view details: [Zebra ZQ600 Series](https://www.zebra.com/us/en/products/printers/mobile/zq600-series.html)
+
+Other, equivalent ZPL-compatible thermal label printers may also work, but this model has been fully tested with GeoDin Onsite.
+
 ## Custom button labels
 
 If "Alternative printer" and "Alternative label layout" don't describe your setup meaningfully, rename them. Onsite lets you replace the default text on the printer toggle and label-layout toggle buttons. For example:
