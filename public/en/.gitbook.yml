@@ -3,3 +3,9 @@ root: ./
 structure:
   readme: ./README.md
   summary: ./SUMMARY.md
+
+redirects:
+  documentation/getting-started: documentation/installation-and-licensing
+  guides/the-first-steps: guides/g1-drilling-report
+  documentation/updates-and-version-compatibility: support/updates-and-version-compatibility
+  guides/configuration: configuration/project-setup

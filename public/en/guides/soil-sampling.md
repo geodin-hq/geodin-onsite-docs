@@ -31,16 +31,20 @@ When you click on the **From Depth** field, a builder window will open, allowing
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
+For deeper coverage of printer setup, label templates, and logo customisation, see [Label printing](../configuration/label-printing.md).
+
 #### Label Generation:&#x20;
 
 * To print a QR code for a specific sample, click on the **three-line menu** next to the sample and select **Print Label**.&#x20;
-* The system will automatically generate a QR code containing the sample’s unique identifier (ID), which can then be affixed to the sample for easy tracking and scanning.
+* The system will automatically generate a QR code containing the sample's unique identifier (ID), which can then be affixed to the sample for easy tracking and scanning.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 * As shown below, a **preview of the label** is generated, including the QR code for the selected sample.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+For additional labelling workflows — including tools for duplicating labels, printing crate labels, and printing shelf labels — see [Managing labels](managing-labels.md).
 
 #### Recommended Printer
 
