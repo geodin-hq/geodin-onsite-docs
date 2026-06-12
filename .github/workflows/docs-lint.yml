@@ -1,0 +1,28 @@
+name: docs-lint
+
+on:
+  pull_request:
+    paths:
+      - 'public/**/*.md'
+      - 'scripts/**'
+      - '.github/workflows/docs-lint.yml'
+  push:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check duplicate src: references
+        # Required: any PR that introduces a duplicate `src: <ref>#<section>`
+        # is blocked here.
+        run: bash scripts/check-duplication.sh public
+
+      - name: Check stub pages
+        # Informational. A handful of placeholder stubs predate this workflow
+        # and are listed in the introducing PR; remove `continue-on-error`
+        # once they are filled or deleted.
+        continue-on-error: true
+        run: bash scripts/check-stubs.sh public
