@@ -1,3 +1,3 @@
 # Pages allowed to be under MIN_LINES of content. One path per line.
 # Use only for pages where shortness is intentional (focused topic, link-only landing).
-# Do NOT add empty 1-line files here — those should be deleted or filled.
+# Do NOT add empty 1-line files here - those should be deleted or filled.

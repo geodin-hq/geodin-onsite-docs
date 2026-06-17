@@ -1,13 +1,13 @@
-# GeoDin Onsite Docs — Project Summary
+# GeoDin Onsite Docs - Project Summary
 
 **Branch:** `feature/onsite-docs-augmentation`
 **Started:** 2026-04-23
 **Authors:** Nuno + Claude
-**Status:** Plan approved — content drafting in progress
+**Status:** Plan approved - content drafting in progress
 
 This document is the living plan for the refreshed GeoDin Onsite docs. It records (1) the current state of the `main` branch, (2) the target structure, (3) a diff matrix classifying every page, (4) a coverage map tying each page to its source material, and (5) the execution plan.
 
-It lives at the repo root (outside `public/en/`) so it is **not** synced to GitBook. It stays in the branch as a reference for reviewers, and survives merge as ongoing project documentation — matching the `PROJECT-SUMMARY.md` pattern already used in `geodin-desktop-docs`.
+It lives at the repo root (outside `public/en/`) so it is **not** synced to GitBook. It stays in the branch as a reference for reviewers, and survives merge as ongoing project documentation - matching the `PROJECT-SUMMARY.md` pattern already used in `geodin-desktop-docs`.
 
 ---
 
@@ -109,42 +109,42 @@ Deliberately **not** mirroring the desktop-docs shape (which has a loose `Introd
 
 ### 3.2 Section-by-section rationale
 
-**Getting Started** (4 pages) — Canonical new-user onboarding shape. The `README.md` file serves double duty: it's the landing page when someone arrives at docs.geodin.com/onsite *and* the first sidebar item inside Getting Started. No loose "Introduction" outside the group, no redundant "Getting Started > Getting Started" entry.
+**Getting Started** (4 pages) - Canonical new-user onboarding shape. The `README.md` file serves double duty: it's the landing page when someone arrives at docs.geodin.com/onsite *and* the first sidebar item inside Getting Started. No loose "Introduction" outside the group, no redundant "Getting Started > Getting Started" entry.
 
-1. **Introduction** (README.md) — product overview, key features, link to marketing page
-2. **Installation & licensing** — install, .NET 8 prerequisite, licence activation, offline grace
-3. **The Onsite user interface** — orientation tour: menu actions, Configuration tabs, Tools menu, question-mark menu, on-screen keyboard
-4. **First steps** — 5-step happy-path walkthrough to create your first G1 form end-to-end. Links out to the G1 drilling report guide for deeper coverage.
+1. **Introduction** (README.md) - product overview, key features, link to marketing page
+2. **Installation & licensing** - install, .NET 8 prerequisite, licence activation, offline grace
+3. **The Onsite user interface** - orientation tour: menu actions, Configuration tabs, Tools menu, question-mark menu, on-screen keyboard
+4. **First steps** - 5-step happy-path walkthrough to create your first G1 form end-to-end. Links out to the G1 drilling report guide for deeper coverage.
 
-**Core Concepts** (3 pages) — The mental model. Read once, applies everywhere. Separated from Guides because reading concepts before acting is a different user intent than following a tutorial. This is where the paper/shelf/letterbox analogy lives.
+**Core Concepts** (3 pages) - The mental model. Read once, applies everywhere. Separated from Guides because reading concepts before acting is a different user intent than following a tutorial. This is where the paper/shelf/letterbox analogy lives.
 
-**Guides** (6 pages) — Task-oriented "how do I do X" content. Each guide points back to relevant Core Concepts when the underlying model matters.
+**Guides** (6 pages) - Task-oriented "how do I do X" content. Each guide points back to relevant Core Concepts when the underlying model matters.
 
-**Configuration** (8 pages) — One page per Configuration tab in the app UI. A user looking for "how do I set up my printer" finds the Label Printing page; they don't have to scroll through a mega-page.
+**Configuration** (8 pages) - One page per Configuration tab in the app UI. A user looking for "how do I set up my printer" finds the Label Printing page; they don't have to scroll through a mega-page.
 
-**Support** (4 pages) — Troubleshooting + Updates & version compatibility (moved here from the top, matching desktop's placement of update-related content near the bottom) + existing Get Support + hidden Changelog.
+**Support** (4 pages) - Troubleshooting + Updates & version compatibility (moved here from the top, matching desktop's placement of update-related content near the bottom) + existing Get Support + hidden Changelog.
 
 ---
 
 ## 4. Diff matrix
 
 Per-page classification. Three outcomes:
-- **Keep** — port from main with minimal edits (fix links, ensure conventions)
-- **Amend** — port + significant expansion with transcript content
-- **New** — entirely new page authored from transcript + main context
+- **Keep** - port from main with minimal edits (fix links, ensure conventions)
+- **Amend** - port + significant expansion with transcript content
+- **New** - entirely new page authored from transcript + main context
 
 ### 4.1 Kept pages (4)
 
 | Proposed page | Current source | Changes |
 |---|---|---|
 | `README.md` (Introduction) | `README.md` | Minor: ensure "Key features" list still reflects what we document in detail. Keep the `{% embed %}` to marketing page. |
-| `support/updates-and-version-compatibility.md` | `documentation/updates-and-version-compatibility.md` | **File moves** from `documentation/` to `support/`. Content: minor — ensure wording matches current subscription model (remove any trial-era framing). |
+| `support/updates-and-version-compatibility.md` | `documentation/updates-and-version-compatibility.md` | **File moves** from `documentation/` to `support/`. Content: minor - ensure wording matches current subscription model (remove any trial-era framing). |
 | `support/get-support.md` | same | Minor: no changes expected. |
 | `support/changelog.md` | same | Keep hidden placeholder as-is. |
 
 **Deleted:**
-- `.gitbook/includes/untitled.md` — dead stray file, not referenced from SUMMARY.
-- `guides/configuration.md` — content redistributed across the new `configuration/` pages (Geo-data standards, Form defaults, Backups).
+- `.gitbook/includes/untitled.md` - dead stray file, not referenced from SUMMARY.
+- `guides/configuration.md` - content redistributed across the new `configuration/` pages (Geo-data standards, Form defaults, Backups).
 
 ### 4.2 Amended pages (3)
 
@@ -160,8 +160,8 @@ Per-page classification. Three outcomes:
 
 | Page | Source material | Content summary |
 |---|---|---|
-| `documentation/onsite-user-interface.md` | Transcripts + main | Orientation tour of the UI: main menu actions (New Form, Load Local, Retrieve, Tools, Configuration, Export, Publish), the Configuration tabs at a glance, the question-mark icon menu (About, Licensing, Open Log Files, Contact Support, Online Help), on-screen keyboard toggle for tablets. Pure "where things live" page — no deep how-to. |
-| `documentation/first-steps.md` | Training transcript | 5-step happy-path walkthrough: (1) confirm project number, (2) New Form → G1 Drilling Report, (3) fill minimum required fields (location, one layer, drilling method), (4) validate, (5) Export → GeoDin → `.geodinml`. Closes with pointer to the full G1 guide. Short (~400–500 words), heavy on screenshots. |
+| `documentation/onsite-user-interface.md` | Transcripts + main | Orientation tour of the UI: main menu actions (New Form, Load Local, Retrieve, Tools, Configuration, Export, Publish), the Configuration tabs at a glance, the question-mark icon menu (About, Licensing, Open Log Files, Contact Support, Online Help), on-screen keyboard toggle for tablets. Pure "where things live" page - no deep how-to. |
+| `documentation/first-steps.md` | Training transcript | 5-step happy-path walkthrough: (1) confirm project number, (2) New Form → G1 Drilling Report, (3) fill minimum required fields (location, one layer, drilling method), (4) validate, (5) Export → GeoDin → `.geodinml`. Closes with pointer to the full G1 guide. Short (~400-500 words), heavy on screenshots. |
 
 **Core Concepts (3 new)**
 
@@ -211,11 +211,11 @@ All new because the current `guides/configuration.md` is a single mega-page cove
 | Deleted | 2 |
 | **Total pages after** | **25** (vs 10 current) |
 
-Word-count projection: ~15,500–17,500 words (vs 2,356 current). Each new page averages 500–900 words; no single page expected to exceed 1,500 words. The First Steps page is intentionally shorter (~400–500 words).
+Word-count projection: ~15,500-17,500 words (vs 2,356 current). Each new page averages 500-900 words; no single page expected to exceed 1,500 words. The First Steps page is intentionally shorter (~400-500 words).
 
 ---
 
-## 5. Coverage map — sources feeding each page
+## 5. Coverage map - sources feeding each page
 
 How we stay honest that every claim in the docs is traceable.
 
@@ -227,24 +227,24 @@ How we stay honest that every claim in the docs is traceable.
 | First steps | training transcript | main (existing G1 walkthrough) |
 | Updates & compatibility | main | training transcript |
 | Forms & projects | tech demo transcript | training transcript |
-| Folder structure | tech demo transcript | — |
-| File delivery & ownership | both transcripts | — |
+| Folder structure | tech demo transcript | - |
+| File delivery & ownership | both transcripts | - |
 | G1 drilling report | main | training transcript (show/hide, bundles) |
-| Soil sampling | main | — |
+| Soil sampling | main | - |
 | Sample picture log | tech demo transcript | training transcript |
-| Publishing & retrieving | both transcripts | — |
-| Exporting to GeoDin | main + both transcripts | — |
+| Publishing & retrieving | both transcripts | - |
+| Exporting to GeoDin | main + both transcripts | - |
 | Managing labels | training transcript | tech demo transcript |
 | Project setup | tech demo transcript | training transcript |
-| Geo-data standards | main | — |
-| File delivery setup | both transcripts | — |
-| Form defaults | main | — |
+| Geo-data standards | main | - |
+| File delivery setup | both transcripts | - |
+| Form defaults | main | - |
 | Backups | main | both transcripts |
 | Label printing | tech demo transcript | training transcript |
 | Camera | tech demo transcript | training transcript |
-| GPS & coordinates | training transcript | — |
-| Troubleshooting | both transcripts | — |
-| Get support | main | — |
+| GPS & coordinates | training transcript | - |
+| Troubleshooting | both transcripts | - |
+| Get support | main | - |
 
 ---
 
@@ -253,18 +253,18 @@ How we stay honest that every claim in the docs is traceable.
 To be tracked separately (as a README note at the end of the project) and NOT published in the current docs:
 
 - **Partial publish status** (trainer explicitly skipped explanation)
-- **Full 10-form inventory** — only 5 forms confirmed from transcripts (G1 Drilling, SEP3, Picture Log, Sample Picture Log, G1+SPL bundle). Other 4 unknown.
-- **EN ISO E2 form status** — disabled at time of training due to Desktop importer bug; current state unknown
-- **"Folder + GUIDs" file delivery mode** — mentioned in tech demo, not explained
-- **Forward-compat warning feature** — trainer suggested adding, unclear if implemented
-- **Complete path shortcut list** — only `[my documents]` confirmed; "desktop" and "one or two others" mentioned but not enumerated
-- **Config.xml schema details** — deliberately not documenting internals beyond "it's where your settings live"
+- **Full 10-form inventory** - only 5 forms confirmed from transcripts (G1 Drilling, SEP3, Picture Log, Sample Picture Log, G1+SPL bundle). Other 4 unknown.
+- **EN ISO E2 form status** - disabled at time of training due to Desktop importer bug; current state unknown
+- **"Folder + GUIDs" file delivery mode** - mentioned in tech demo, not explained
+- **Forward-compat warning feature** - trainer suggested adding, unclear if implemented
+- **Complete path shortcut list** - only `[my documents]` confirmed; "desktop" and "one or two others" mentioned but not enumerated
+- **Config.xml schema details** - deliberately not documenting internals beyond "it's where your settings live"
 
 ---
 
 ## 7. Open items requiring Nuno's input
 
-*(None blocking — all previously resolved in planning conversation. This section kept for traceability.)*
+*(None blocking - all previously resolved in planning conversation. This section kept for traceability.)*
 
 ---
 
@@ -272,14 +272,14 @@ To be tracked separately (as a README note at the end of the project) and NOT pu
 
 Plan approved on 2026-04-23. Drafting proceeds in this order (foundation first, so later pages can reference earlier ones):
 
-1. **Core Concepts** (3 pages) — the mental model, referenced everywhere downstream
-2. **Getting Started** (4 pages) — Introduction, Installation & licensing, UI, First steps
-3. **Configuration** (8 pages) — reference pages for the Config tabs
-4. **Guides** (6 pages) — task tutorials (cross-links to Core Concepts + Config pages)
-5. **Support** (4 pages) — Troubleshooting, move Updates here, polish Get Support + keep Changelog
-6. **SUMMARY.md rewrite** — flip to the new structure
-7. **Cleanup** — delete old `guides/configuration.md` and `.gitbook/includes/untitled.md`
+1. **Core Concepts** (3 pages) - the mental model, referenced everywhere downstream
+2. **Getting Started** (4 pages) - Introduction, Installation & licensing, UI, First steps
+3. **Configuration** (8 pages) - reference pages for the Config tabs
+4. **Guides** (6 pages) - task tutorials (cross-links to Core Concepts + Config pages)
+5. **Support** (4 pages) - Troubleshooting, move Updates here, polish Get Support + keep Changelog
+6. **SUMMARY.md rewrite** - flip to the new structure
+7. **Cleanup** - delete old `guides/configuration.md` and `.gitbook/includes/untitled.md`
 8. **Rescue pass** through the `feature/update-docs` branch for any valuable content we missed
-9. **Open PR to `main`** — standard Summary/How-to-verify/Risks/Test-plan body; Rik reviews and merges
+9. **Open PR to `main`** - standard Summary/How-to-verify/Risks/Test-plan body; Rik reviews and merges
 
 This `PROJECT-SUMMARY.md` stays in the repo after merge as persistent project documentation.

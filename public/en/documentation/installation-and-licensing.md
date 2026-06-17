@@ -5,7 +5,7 @@ This page covers what you need to install GeoDin Onsite and activate your licens
 ## System requirements
 
 * Windows tablet, laptop, or desktop
-* **.NET 8 runtime** — if missing, Onsite will prompt you and redirect to Microsoft's download page on first launch
+* **.NET 8 runtime** - if missing, Onsite will prompt you and redirect to Microsoft's download page on first launch
 * An internet connection for licence activation and periodic validation
 
 ## Download the installer
@@ -17,12 +17,12 @@ Purchase GeoDin Onsite from the [GeoDin pricing page](https://www.geodin.com/pri
 
 ## Install
 
-Run the installer. It's a standard Windows setup wizard — click through **Next** until it finishes.
+Run the installer. It's a standard Windows setup wizard - click through **Next** until it finishes.
 
 The installer asks which install mode to use:
 
-* **Install for all users** (requires admin rights) — installs to `C:\Program Files\GeoDin.Onsite`. Use this when multiple Windows accounts on the same machine need access.
-* **Install for your user only** (the default, no admin rights needed) — installs to a location under `%LOCALAPPDATA%\Programs\GeoDin.Onsite`.
+* **Install for all users** (requires admin rights) - installs to `C:\Program Files\GeoDin.Onsite`. Use this when multiple Windows accounts on the same machine need access.
+* **Install for your user only** (the default, no admin rights needed) - installs to a location under `%LOCALAPPDATA%\Programs\GeoDin.Onsite`.
 
 Both modes work identically for daily use.
 
@@ -53,11 +53,11 @@ For current pricing and plan options, see the [GeoDin pricing page](https://www.
 
 ## Validation and offline use
 
-Onsite validates your license online at every launch. After successful validation, you can use Onsite **offline for up to 30 consecutive days** — useful on tablets in the field without connectivity. Only licence validation and publish/retrieve require internet; filling out forms offline is fully supported throughout this window.
+Onsite validates your license online at every launch. After successful validation, you can use Onsite **offline for up to 30 consecutive days** - useful on tablets in the field without connectivity. Only licence validation and publish/retrieve require internet; filling out forms offline is fully supported throughout this window.
 
 After 30 days offline, reconnect to the internet so Onsite can revalidate. The 30-day offline window resets each time a successful online validation occurs, and is **separate** from your subscription's expiry date.
 
 ## What's next
 
-* [The Onsite user interface](onsite-user-interface.md) — a tour of what you'll see
-* [First steps](first-steps.md) — create your first form end-to-end
+* [The Onsite user interface](onsite-user-interface.md) - a tour of what you'll see
+* [First steps](first-steps.md) - create your first form end-to-end

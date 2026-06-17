@@ -19,8 +19,8 @@ When you click on the **From Depth** field, a builder window will open, allowing
 * First, navigate to **Configuration** and select **Labels**. Choose the printer you want to use for printing.
 *   You can configure which printer to use for label printing. The system allows you to select **two printers**:
 
-    * **Main Printer** – The default printer for standard labels.
-    * **Alternative Printer** – A backup or specialized printer for specific cases.
+    * **Main Printer** - The default printer for standard labels.
+    * **Alternative Printer** - A backup or specialized printer for specific cases.
 
     This flexibility is useful for clients who:
 
@@ -44,7 +44,7 @@ For deeper coverage of printer setup, label templates, and logo customisation, s
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-For additional labelling workflows — including tools for duplicating labels, printing crate labels, and printing shelf labels — see [Managing labels](managing-labels.md).
+For additional labelling workflows - including tools for duplicating labels, printing crate labels, and printing shelf labels - see [Managing labels](managing-labels.md).
 
 #### Recommended Printer
 
