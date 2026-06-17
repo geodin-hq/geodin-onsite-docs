@@ -72,22 +72,22 @@ See [Project setup](../configuration/project-setup.md) for full details on the t
 
 2. **Input methods**
 
-* **Open Builder** — launch the builder to enter borehole design parameters in a structured interface.
-* **Direct Entry** — alternatively, input values directly into the respective fields.
+* **Open Builder** - launch the builder to enter borehole design parameters in a structured interface.
+* **Direct Entry** - alternatively, input values directly into the respective fields.
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 3. **Mandatory vs. optional fields**
 
 * Fields highlighted in **red** are **mandatory**.
-* All other fields are **optional** — fill them as required by the project.
+* All other fields are **optional** - fill them as required by the project.
 
 <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 4. **Row management**
 
-* **Insert row above/below** — add a new row above or below the current one.
-* **Delete row** — remove the selected row if no longer needed.
+* **Insert row above/below** - add a new row above or below the current one.
+* **Delete row** - remove the selected row if no longer needed.
 
 5. **Depth auto-population**\
    After completing a "From" and "To" depth entry, clicking on the next row automatically populates the depth values, ensuring continuity.
@@ -110,7 +110,7 @@ You can only export the form after it passes validation. However, you can save y
 
 The default eight pages of the G1 Drilling Report cover most scenarios, but you can switch pages on and off based on what your project actually needs. Under the form's logo, use **Show/hide pages** to open the page selector.
 
-For example, if you're not collecting SPT readings, hide the SPT page. If you're not logging rock layers, hide the rock page. The selector also lets you **reorder pages** via up/down arrows — useful for matching your preferred data-entry sequence.
+For example, if you're not collecting SPT readings, hide the SPT page. If you're not logging rock layers, hide the rock page. The selector also lets you **reorder pages** via up/down arrows - useful for matching your preferred data-entry sequence.
 
 These choices are saved with the form; you typically set them once at the start of a project.
 
@@ -131,11 +131,11 @@ If you have [file delivery](../core-concepts/file-delivery-and-ownership.md) con
 
 ## 5. Import into GeoDin Desktop
 
-To import the report into GeoDin Desktop, use its GeoDinML import feature. Full instructions — including workflows for different data types — live in the [GeoDin Desktop documentation](https://docs.geodin.com). Once imported, your drilling data is available for layouts, cross-sections, plates, and reports.
+To import the report into GeoDin Desktop, use its GeoDinML import feature. Full instructions - including workflows for different data types - live in the [GeoDin Desktop documentation](https://docs.geodin.com). Once imported, your drilling data is available for layouts, cross-sections, plates, and reports.
 
 ## Form bundles: G1 + Sample Picture Log
 
-Alongside the standalone G1 Drilling Report, Onsite offers **G1 Drilling Report + Sample Picture Log** as a form bundle. The bundle pairs the drilling log with a dedicated page for sample photographs, and the two sections stay linked — the SPL part automatically pulls the sample list from the drilling report, so you don't re-scan or re-enter samples.
+Alongside the standalone G1 Drilling Report, Onsite offers **G1 Drilling Report + Sample Picture Log** as a form bundle. The bundle pairs the drilling log with a dedicated page for sample photographs, and the two sections stay linked - the SPL part automatically pulls the sample list from the drilling report, so you don't re-scan or re-enter samples.
 
 Choose the bundle from the New Form dialog when you want drilling data and sample photos to travel together as a single `.gdob` file. See [Sample picture log](sample-picture-log.md) for photo workflow details.
 
@@ -143,7 +143,7 @@ Choose the bundle from the New Form dialog when you want drilling data and sampl
 
 **See also**
 
-* [Soil sampling](soil-sampling.md) — logging soil samples within the G1 form
-* [Sample picture log](sample-picture-log.md) — photographing samples
-* [Exporting to GeoDin](exporting-to-geodin.md) — all export formats
-* [Publishing & retrieving forms](publishing-and-retrieving.md) — team workflow
+* [Soil sampling](soil-sampling.md) - logging soil samples within the G1 form
+* [Sample picture log](sample-picture-log.md) - photographing samples
+* [Exporting to GeoDin](exporting-to-geodin.md) - all export formats
+* [Publishing & retrieving forms](publishing-and-retrieving.md) - team workflow

@@ -1,29 +1,29 @@
 # Label printing
 
-GeoDin Onsite can print barcoded sample labels directly from your field forms, giving every sample a unique traceable ID. This page covers the Labels tab in Configuration — printer setup and label customisation. For the actual label-printing workflow, see [Managing labels](../guides/managing-labels.md).
+GeoDin Onsite can print barcoded sample labels directly from your field forms, giving every sample a unique traceable ID. This page covers the Labels tab in Configuration - printer setup and label customisation. For the actual label-printing workflow, see [Managing labels](../guides/managing-labels.md).
 
 ## Printer technology
 
 Onsite prints labels in **ZPL** (Zebra Programming Language), an industry-standard language for thermal label printers. The Zebra brand is the market leader, but any printer advertising ZPL compatibility should work.
 
 {% hint style="danger" %}
-Windows print queues — including "Microsoft Print to PDF" — are **not** ZPL compatible and will not print labels correctly, even though they may appear in Onsite's printer dropdown. You need an actual ZPL-compatible thermal printer.
+Windows print queues - including "Microsoft Print to PDF" - are **not** ZPL compatible and will not print labels correctly, even though they may appear in Onsite's printer dropdown. You need an actual ZPL-compatible thermal printer.
 {% endhint %}
 
 ## Configuring printers
 
-Onsite lets you configure **two printers** — a main printer and an alternative printer. This covers common field and lab use cases:
+Onsite lets you configure **two printers** - a main printer and an alternative printer. This covers common field and lab use cases:
 
 * A laboratory with white labels on one printer and red labels (for hazardous samples) on another
-* Different label sizes — small labels for vials, large labels for containers
+* Different label sizes - small labels for vials, large labels for containers
 * A backup printer for when the main one is busy
 
 Set them in Configuration → Labels:
 
-* **Main printer** — the default printer for regular labels
-* **Alternative printer** — a secondary printer, selected per-label when needed
-* **No printer** — disables printing
-* **Preview** — shows the label on screen without actually printing; useful for testing label templates
+* **Main printer** - the default printer for regular labels
+* **Alternative printer** - a secondary printer, selected per-label when needed
+* **No printer** - disables printing
+* **Preview** - shows the label on screen without actually printing; useful for testing label templates
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,14 +50,14 @@ Onsite ships with default label templates stored in the installation folder at `
 
 ### Two template slots
 
-You can configure two templates — main and alternative — matching the two-printer setup. The main is for everyday labels; the alternative covers a second use case like hazardous-sample labelling.
+You can configure two templates - main and alternative - matching the two-printer setup. The main is for everyday labels; the alternative covers a second use case like hazardous-sample labelling.
 
 ### Customising a template
 
 To use a custom label design:
 
 1. Copy the default `.zpl` file from the installation folder to your [working folder](../core-concepts/folder-structure.md). Rename it, for example `my-qr.zpl`.
-2. Edit the file to match your design. The template uses `{field}` placeholders for sample data — project number, location, depth, barcode text, and other values Onsite fills in at print time.
+2. Edit the file to match your design. The template uses `{field}` placeholders for sample data - project number, location, depth, barcode text, and other values Onsite fills in at print time.
 3. In Configuration → Labels, set the label template filename to your custom file (`my-qr.zpl`).
 
 Onsite uses the file from your working folder in preference to the default.
@@ -70,22 +70,22 @@ Onsite uses the file from your working folder in preference to the default.
 
 The default label template includes the GeoDin logo. To replace it with your organisation's logo:
 
-1. Prepare a PNG image of your logo. The default logo is 478 × 376 pixels — match the aspect ratio closely for best results. Use a white background.
+1. Prepare a PNG image of your logo. The default logo is 478 × 376 pixels - match the aspect ratio closely for best results. Use a white background.
 2. Save the file as `logo.png` in your [working folder](../core-concepts/folder-structure.md).
-3. The logo applies immediately — no restart needed.
+3. The logo applies immediately - no restart needed.
 
 The same `logo.png` is also used on exported PDFs of forms, keeping your branding consistent across labels and reports.
 
 ## Sample ID format
 
-Every sample gets an automatic unique identifier consisting of a prefix, a timestamp-encoded section, and a random suffix. By default the prefix is a single letter, but you can customise it to 1–3 letters to match your organisation's sample-identifier convention.
+Every sample gets an automatic unique identifier consisting of a prefix, a timestamp-encoded section, and a random suffix. By default the prefix is a single letter, but you can customise it to 1-3 letters to match your organisation's sample-identifier convention.
 
-The prefix and random suffix together always total **5 characters** — a longer prefix shortens the random section correspondingly. A 1-character prefix has 4 random characters, a 2-character prefix has 3, and a 3-character prefix has 2. The timestamp-encoded section in the middle is independent of this.
+The prefix and random suffix together always total **5 characters** - a longer prefix shortens the random section correspondingly. A 1-character prefix has 4 random characters, a 2-character prefix has 3, and a 3-character prefix has 2. The timestamp-encoded section in the middle is independent of this.
 
 ***
 
 **See also**
 
-* [Managing labels](../guides/managing-labels.md) — the label tools in the Tools menu
-* [Soil sampling](../guides/soil-sampling.md) — taking samples in G1 forms
-* [Folder structure](../core-concepts/folder-structure.md) — where logo and template files live
+* [Managing labels](../guides/managing-labels.md) - the label tools in the Tools menu
+* [Soil sampling](../guides/soil-sampling.md) - taking samples in G1 forms
+* [Folder structure](../core-concepts/folder-structure.md) - where logo and template files live

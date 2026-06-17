@@ -23,7 +23,7 @@ Backups are off by default. To turn them on:
 {% hint style="info" %}
 **Notes:**
 
-* Backups run automatically — you don't need to press Save.
+* Backups run automatically - you don't need to press Save.
 * Forms are also saved automatically when closed or when Onsite exits.
 * Backup files are named with a combination of location name, form code, and date.
 * Older forms remain accessible via **Load Local**, allowing you to retrieve previous work.
@@ -33,15 +33,15 @@ Backups are off by default. To turn them on:
 
 More frequent backups = better protection, but more disk usage. For a typical project:
 
-* **Every 30 seconds** — suitable for fast-moving, high-stakes work (field drilling with complex forms)
-* **Every 2–5 minutes** — fine for office-based work on stable data
-* **Longer intervals** (15+ minutes) — leave you exposed if a crash happens; not recommended while actively editing
+* **Every 30 seconds** - suitable for fast-moving, high-stakes work (field drilling with complex forms)
+* **Every 2-5 minutes** - fine for office-based work on stable data
+* **Longer intervals** (15+ minutes) - leave you exposed if a crash happens; not recommended while actively editing
 
 ## Restore a backup
 
 To restore a previous version of a form:
 
-1. From the main menu, open **Tools → Restore backups**. The backup browser shows your recent forms — pick the form you want to restore.
+1. From the main menu, open **Tools → Restore backups**. The backup browser shows your recent forms - pick the form you want to restore.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,12 +52,12 @@ To restore a previous version of a form:
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-Restoring overwrites the current version of the form — the action cannot be undone. Make sure you really want to discard the current state before confirming.
+Restoring overwrites the current version of the form - the action cannot be undone. Make sure you really want to discard the current state before confirming.
 {% endhint %}
 
 ***
 
 **See also**
 
-* [Folder structure](../core-concepts/folder-structure.md) — where the `backups/` folder lives
-* [Forms & projects](../core-concepts/forms-and-projects.md) — how forms are saved automatically
+* [Folder structure](../core-concepts/folder-structure.md) - where the `backups/` folder lives
+* [Forms & projects](../core-concepts/forms-and-projects.md) - how forms are saved automatically

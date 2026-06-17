@@ -21,26 +21,26 @@ The **Defaults** tab in Configuration sets values that automatically populate ev
 
 ## Defaults apply to new forms only
 
-Changing a default does not retroactively update forms you've already created — the change only affects forms created from that point forward. If you need to update existing forms, you'll have to edit them individually.
+Changing a default does not retroactively update forms you've already created - the change only affects forms created from that point forward. If you need to update existing forms, you'll have to edit them individually.
 
 ## When to use defaults
 
-* **Multi-day projects** — set the drilling crew names once instead of typing them on every form.
-* **Single-rig projects** — default the rig identifier and override manually for the occasional exception.
-* **Consistent units** — set the unit system once so no form is logged in the wrong units by accident.
+* **Multi-day projects** - set the drilling crew names once instead of typing them on every form.
+* **Single-rig projects** - default the rig identifier and override manually for the occasional exception.
+* **Consistent units** - set the unit system once so no form is logged in the wrong units by accident.
 
 ## Related settings
 
 Some Onsite-wide settings live outside the Defaults tab but complement it:
 
-* **Label printer** — set in [Label printing](label-printing.md), applies across projects
-* **Camera source** — set in [Camera](camera.md), applies across projects
-* **GPS source** — set in [GPS & coordinates](gps-and-coordinates.md), applies across projects
-* **UI language** — set in Configuration → Language & UI
+* **Label printer** - set in [Label printing](label-printing.md), applies across projects
+* **Camera source** - set in [Camera](camera.md), applies across projects
+* **GPS source** - set in [GPS & coordinates](gps-and-coordinates.md), applies across projects
+* **UI language** - set in Configuration → Language & UI
 
 ***
 
 **See also**
 
-* [Project setup](project-setup.md) — the project metadata these defaults live under
-* [GPS & coordinates](gps-and-coordinates.md) — GPS source and coordinate system
+* [Project setup](project-setup.md) - the project metadata these defaults live under
+* [GPS & coordinates](gps-and-coordinates.md) - GPS source and coordinate system

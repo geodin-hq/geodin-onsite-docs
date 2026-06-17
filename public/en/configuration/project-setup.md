@@ -27,20 +27,20 @@ You can choose how Onsite gets project details (project number, client name, loc
 
 You type the project number and metadata directly into the Project tab. Fast and simple, but:
 
-* No validation — you can mistype a project number
-* No list of past projects — you have to remember what you used
+* No validation - you can mistype a project number
+* No list of past projects - you have to remember what you used
 * No cross-check against a master list
 
 ### GeoDinML-driven mode
 
 In this mode, you provide a GeoDinML file containing a list of projects. Onsite reads the file and populates the Project tab with a dropdown of project numbers, each pre-populated with its associated client name and locations.
 
-This is useful for teams with a central project database. One person exports a GeoDinML file from GeoDin Desktop containing the current list of active projects — just the project and location headers, no sample or measurement data, so the file stays small. The file is shared to the team; each person loads it in Onsite, and the dropdown keeps everyone consistent.
+This is useful for teams with a central project database. One person exports a GeoDinML file from GeoDin Desktop containing the current list of active projects - just the project and location headers, no sample or measurement data, so the file stays small. The file is shared to the team; each person loads it in Onsite, and the dropdown keeps everyone consistent.
 
 When the list of active projects changes, export a fresh GeoDinML and reload it.
 
 {% hint style="info" %}
-Onsite does not connect directly to a GeoDin database — it only reads GeoDinML files. This is by design: Onsite is built to work offline in the field.
+Onsite does not connect directly to a GeoDin database - it only reads GeoDinML files. This is by design: Onsite is built to work offline in the field.
 {% endhint %}
 
 ## Project settings
@@ -58,5 +58,5 @@ These values auto-fill into every form you create under this project, saving rep
 
 **See also**
 
-* [Forms & projects](../core-concepts/forms-and-projects.md) — the conceptual background
-* [Form defaults](form-defaults.md) — other fields that auto-fill into forms
+* [Forms & projects](../core-concepts/forms-and-projects.md) - the conceptual background
+* [Form defaults](form-defaults.md) - other fields that auto-fill into forms

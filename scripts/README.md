@@ -6,7 +6,7 @@ Hygiene checks for the docs repo. Run locally before opening a PR; CI runs them 
 
 Fails if the same `<!-- src: transcript/... -->` attribution appears in more than one `.md` file.
 
-Each transcript section is a single source of truth. Duplicates mean auto-assembled content was copy-pasted into multiple destinations — the bug that produced the original `data-collection/import/` mess.
+Each transcript section is a single source of truth. Duplicates mean auto-assembled content was copy-pasted into multiple destinations - the bug that produced the original `data-collection/import/` mess.
 
 ```bash
 ./scripts/check-duplication.sh           # defaults to public/
