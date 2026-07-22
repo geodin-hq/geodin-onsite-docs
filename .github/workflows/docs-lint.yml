@@ -26,7 +26,7 @@ jobs:
         # the refreshed manifest in the same PR.
         run: bash scripts/check-asset-integrity.sh
 
-      - name: Check duplicate src: references
+      - name: "Check duplicate src: references"
         # Required: any PR that introduces a duplicate `src: <ref>#<section>`
         # is blocked here.
         run: bash scripts/check-duplication.sh public
