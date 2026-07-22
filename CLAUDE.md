@@ -9,7 +9,17 @@ AI agents, pipeline PRs, and hand edits alike. They are the operative distillati
 of the GeoDin docs house style. CI enforces the mechanical parts
 (`.github/workflows/docs-lint.yml`); the rest is checked at review.
 
-## 1. Typography - ASCII only
+## 1. Typography and language
+
+**Scope: English prose** (`public/en/`, or `public/` in English-only repos).
+The German tree (`public/de/`) is out of scope for these typography rules
+pending a localization policy; do not "fix" German quotation marks.
+
+**Spelling: US English** in prose - license, color, organize. Never change
+slugs, URLs, file paths, or code identifiers to match (e.g.
+`installation/renew-licence` stays). Frozen pages keep their existing spelling
+until they are ever unfrozen. Fix UK spellings opportunistically when a page is
+already being edited - no dedicated sweep.
 
 No smart typography in any docs prose. Replace before committing:
 
@@ -38,10 +48,13 @@ Tiers, in this order (omit tiers that do not apply; never reorder):
    prerequisites: formats, object types, licenses, prior setup. Short bullets,
    links to setup pages. Never manufacture an empty Requirements section.
 2. **Task walkthrough** - one outcome, end-to-end. The only always-present tier
-   on a how-to page. Prefer GitBook's Stepper block; `### Step 1: ...` headings
-   are acceptable. Each step: what to do, where to click (**bold UI names**),
-   and its screenshot at the step it illustrates - never pooled at the end.
-   A beginner who stops after the last step has a working result.
+   on a how-to page. Prefer GitBook's Stepper block with `#### Step 1: ...`
+   headings inside each `{% step %}`; outside a Stepper, `### Step 1: ...`
+   headings are acceptable. (Heading-level checks do not apply inside Stepper
+   blocks - the Stepper renders its own hierarchy.) Each step: what to do,
+   where to click (**bold UI names**), and its screenshot at the step it
+   illustrates - never pooled at the end. A beginner who stops after the last
+   step has a working result.
 3. **Optional settings** (`## Optional ...`) - bullet list of option -> effect.
    No procedures here.
 4. **Working with [topic]** - after a `***` divider: intermediate prose on how
@@ -87,14 +100,35 @@ the image shows and what to notice in it. Alt text alone is not a substitute.
 Key facts live in the text, not only in screenshots - the step's words must
 convey what to do without the image.
 
+**Alt-text rule:** every image added, and every image on a page being
+substantially edited, gets a descriptive `alt` (what the screenshot shows, e.g.
+`alt="Export dialog with the AGS 4 format selected"` - never `alt="screenshot"`
+or empty). Pre-existing empty alts are backfilled opportunistically, not as a
+sweep.
+
+**Screenshot standards:** light theme, default GeoDin layout, English UI.
+Crop to the dialog or panel being discussed; full-window only when spatial
+context matters. PNG format.
+
+**Video rule:** an embedded video (Loom/YouTube) supplements the written steps,
+never replaces them - the page must work with the video removed. Place the
+embed at the top of the walkthrough it mirrors.
+
 ## 5. Formatting idioms
 
 - **Bold** for UI elements and button names; `code` for identifiers.
 - `##` (H2) for tier sections - GitBook's page outline shows only H1/H2.
-  `###`/`####` inside tiers (steps may stay `###`). One H1 per page.
+  `###`/`####` inside tiers (steps may stay `###`; inside Stepper blocks use
+  `####`). One H1 per page.
+- **Page titles and headings: sentence case, task-oriented.** "Importing
+  boreholes", not "Enhancing Geological Modeling with Virtual Logs". No
+  marketing phrasing in titles.
 - Tables only for enumerable facts; explanations stay in prose.
 - No process flags (HTML comments about status/verification) in page source -
   the repo is public and comments are readable in the GitHub source.
+  **Sole approved exception:** `<!-- src: <type>/<name>[#<section>] -->`
+  provenance comments - they are machine-readable input to the duplication
+  check and are allowed to ship.
 
 ## 6. Index and SUMMARY.md structure
 
@@ -112,14 +146,24 @@ convey what to do without the image.
 
 ## 7. Content preservation
 
-- **Additive only.** Re-ordering within a page is allowed; deleting content is
-  not. No "delete and relocate" edits.
+- **Additive by default.** Re-ordering within a page is allowed; deleting
+  content is not part of normal editing. Deletions happen only as explicit,
+  itemized proposals (verified duplicates, empty stubs, retired features) that
+  the maintainer approves before merge - listed in the PR body, never bundled
+  silently into other changes.
 - **Every image survives**, attached to the step or section it illustrates.
 - Hardware names and vendor links are content, not marketing - keep them.
 
+## 8. Page metadata
+
+- Every new page, and every page being substantially edited, gets a
+  `description:` in frontmatter: one sentence, ~120-160 characters, stating
+  what the page helps the reader do. It feeds search snippets and AI answers.
+- Existing pages without one are backfilled opportunistically, not as a sweep.
+
 ***
 
-*For local agents with access to the private companion repo: the full editorial
-policy (content policy, frozen pages, workflow) is at
-`~/GitHub/geodin-docs-internal/rules/docs-editorial-policy.md` - read it before
-editing if the path exists.*
+*For local agents working alongside the maintainers: if you have access to the
+internal editorial policy (content policy, frozen pages, workflow), read it
+before editing. If you do not, these style rules are the complete public
+contract.*
