@@ -4,10 +4,13 @@ on:
   pull_request:
     paths:
       - 'public/**/*.md'
+      - 'public/**/.gitbook/assets/**'
       - 'scripts/**'
       - '.github/workflows/docs-lint.yml'
   push:
     branches: [main]
+    # No path filter on push: this is what catches GitBook->git sync commits
+    # that change ONLY assets and bypass pull requests.
 
 jobs:
   lint:
@@ -15,14 +18,40 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check asset integrity
+        # Required: detects silent GitBook asset swaps - an existing
+        # `.gitbook/assets/` filename whose image bytes change without intent.
+        # Pinned in scripts/asset-manifest.sha256. On an intentional asset
+        # change, run `scripts/check-asset-integrity.sh --update` and commit
+        # the refreshed manifest in the same PR.
+        run: bash scripts/check-asset-integrity.sh
+
       - name: Check duplicate src: references
         # Required: any PR that introduces a duplicate `src: <ref>#<section>`
         # is blocked here.
         run: bash scripts/check-duplication.sh public
 
+      - name: Check typography
+        # Required: docs prose is ASCII-typography only (house rule,
+        # 2026-07-21). Pre-existing violations are grandfathered in
+        # scripts/typography-allowlist.txt - clean pages up and remove
+        # entries; never allowlist new content.
+        run: bash scripts/check-typography.sh public/en
+
+      - name: Check relative links
+        # Required: relative links and image references must resolve
+        # (the move-a-block-break-a-path failure mode).
+        run: python3 scripts/check-relative-links.py public
+
+      - name: Check structure
+        # Informational: SUMMARY resolution/orphans/nesting depth, figure
+        # captions, heading hierarchy. Promote to required once the
+        # pre-existing findings are triaged.
+        continue-on-error: true
+        run: python3 scripts/check-structure.py public/en
+
       - name: Check stub pages
-        # Informational. A handful of placeholder stubs predate this workflow
-        # and are listed in the introducing PR; remove `continue-on-error`
-        # once they are filled or deleted.
+        # Informational. Placeholder stubs predate this workflow; remove
+        # `continue-on-error` once they are filled or deleted.
         continue-on-error: true
         run: bash scripts/check-stubs.sh public
