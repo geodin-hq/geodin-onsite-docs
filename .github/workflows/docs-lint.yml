@@ -55,3 +55,9 @@ jobs:
         # `continue-on-error` once they are filled or deleted.
         continue-on-error: true
         run: bash scripts/check-stubs.sh public
+
+      - name: Check text similarity
+        # Informational: near-duplicate pages/blocks (one-canonical-home rule,
+        # second net behind the src:-anchored duplication check).
+        continue-on-error: true
+        run: python3 scripts/check-text-similarity.py public/en

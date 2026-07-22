@@ -86,11 +86,23 @@ def main():
             h1_count = 0
             prev_level = 0
             in_fence = False
+            in_stepper = False
             for lineno, line in enumerate(text.splitlines(), 1):
                 if line.lstrip().startswith('```'):
                     in_fence = not in_fence
                     continue
                 if in_fence:
+                    continue
+                stripped = line.strip()
+                # Heading-level checks do not apply inside Stepper blocks -
+                # the Stepper renders its own hierarchy (style rules, sec. 2).
+                if stripped.startswith('{% stepper %}'):
+                    in_stepper = True
+                    continue
+                if stripped.startswith('{% endstepper %}'):
+                    in_stepper = False
+                    continue
+                if in_stepper:
                     continue
                 m = HEADING.match(line)
                 if not m:
