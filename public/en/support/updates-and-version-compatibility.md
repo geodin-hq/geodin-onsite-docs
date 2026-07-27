@@ -10,10 +10,10 @@ GeoDin Onsite includes an **automatic update check**. Shortly after launching th
 
 This process ensures that users always have access to the most recent features, improvements, and security fixes.
 
-#### 1. Backward Compatibility
+## 1. Backward compatibility
 
 All new versions of GeoDin Onsite are designed with **backward compatibility**. This means that any data created in older versions can still be opened and used in newer releases.
 
-#### 2. Forward Compatibility
+## 2. Forward compatibility
 
 However, the reverse is not guaranteed. If a colleague is working with a newer version and creates a file, that file may not be accessible in an older version of the software. For this reason, it is strongly recommended that all team members keep their installations up to date.

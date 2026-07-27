@@ -18,7 +18,7 @@ Onsite lets you configure **two printers** - a main printer and an alternative p
 * Different label sizes - small labels for vials, large labels for containers
 * A backup printer for when the main one is busy
 
-Set them in Configuration → Labels:
+Set them in Configuration > Labels:
 
 * **Main printer** - the default printer for regular labels
 * **Alternative printer** - a secondary printer, selected per-label when needed
@@ -31,7 +31,7 @@ Set them in Configuration → Labels:
 
 For the smoothest experience, we recommend the **Zebra ZQ600 Series mobile thermal label printer**.
 
-👉 Buy or view details: [Zebra ZQ600 Series](https://www.zebra.com/us/en/products/printers/mobile/zq600-series.html)
+Buy or view details: [Zebra ZQ600 Series](https://www.zebra.com/us/en/products/printers/mobile/zq600-series.html)
 
 Other, equivalent ZPL-compatible thermal label printers may also work, but this model has been fully tested with GeoDin Onsite.
 
@@ -39,8 +39,8 @@ Other, equivalent ZPL-compatible thermal label printers may also work, but this 
 
 If "Alternative printer" and "Alternative label layout" don't describe your setup meaningfully, rename them. Onsite lets you replace the default text on the printer toggle and label-layout toggle buttons. For example:
 
-* "Use alternative printer" → "Use printer next door"
-* "Use alternative label layout" → "Use hazardous layout"
+* "Use alternative printer" > "Use printer next door"
+* "Use alternative label layout" > "Use hazardous layout"
 
 Custom names live in the Labels tab settings. A clearer button label saves confusion in the field.
 
@@ -58,7 +58,7 @@ To use a custom label design:
 
 1. Copy the default `.zpl` file from the installation folder to your [working folder](../core-concepts/folder-structure.md). Rename it, for example `my-qr.zpl`.
 2. Edit the file to match your design. The template uses `{field}` placeholders for sample data - project number, location, depth, barcode text, and other values Onsite fills in at print time.
-3. In Configuration → Labels, set the label template filename to your custom file (`my-qr.zpl`).
+3. In Configuration > Labels, set the label template filename to your custom file (`my-qr.zpl`).
 
 Onsite uses the file from your working folder in preference to the default.
 

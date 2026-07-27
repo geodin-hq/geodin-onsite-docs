@@ -4,7 +4,7 @@ Every piece of work in GeoDin Onsite lives inside a **project**, and every deliv
 
 ## Projects
 
-A project represents the geotechnical or environmental investigation you're working on. It's identified by a **project number** (for example `P123`, `Delft001`, `F123456`) that you set in Configuration → Project.
+A project represents the geotechnical or environmental investigation you're working on. It's identified by a **project number** (for example `P123`, `Delft001`, `F123456`) that you set in Configuration > Project.
 
 Project numbers have strict formatting rules - letters, numbers, hyphens, and underscores only - because they double as folder names on disk and may appear in URLs. See [Project setup](../configuration/project-setup.md) for the full rules and the two ways to enter a project number (manual or from a GeoDinML file).
 

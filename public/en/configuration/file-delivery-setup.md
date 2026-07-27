@@ -1,6 +1,6 @@
 # File delivery setup
 
-File delivery is how Onsite shares forms between teammates - drilling crews in the field, engineers in the office, and anyone else who needs to see the data. Configuration lives in Configuration → Integration → File delivery.
+File delivery is how Onsite shares forms between teammates - drilling crews in the field, engineers in the office, and anyone else who needs to see the data. Configuration lives in Configuration > Integration > File delivery.
 
 See [File delivery & ownership](../core-concepts/file-delivery-and-ownership.md) for the conceptual background - what publishing and retrieving mean, why single-ownership matters. This page covers the nuts-and-bolts setup.
 
@@ -20,7 +20,7 @@ Pick one mode:
    * A shared Dropbox folder
    * A mapped network drive at the office
 
-2. In Configuration → Integration → File delivery system, choose **Shared network folder**.
+2. In Configuration > Integration > File delivery system, choose **Shared network folder**.
 
 3. Click **Browse** and select the folder.
 

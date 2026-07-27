@@ -6,7 +6,7 @@ Reading this page once will make the Publish / Retrieve / Revoke buttons obvious
 
 ## File delivery modes
 
-Onsite offers two ways of handling your data, configured in Configuration → Integration:
+Onsite offers two ways of handling your data, configured in Configuration > Integration:
 
 * **No delivery** (default) - everything stays on your device. You work alone. When you want to hand data to the office, you [export a `.geodinml` file manually](../guides/exporting-to-geodin.md) and share it by email, USB, or however you like.
 * **Shared network folder** - you point Onsite at a folder on your machine that's synchronised with your colleagues (via OneDrive, Dropbox, Google Drive, or any other sync service of your choice). Onsite doesn't care which service you use; it just reads from and writes to that folder.
@@ -46,7 +46,7 @@ When you publish a form, Onsite asks whether it's **incomplete** or **final**. T
 
 **Incomplete** means the form is still being worked on. Only the `.gdof` file itself goes to the shared folder - no PDF, no GeoDinML export is generated yet, because the data isn't final. A colleague can [retrieve](../guides/publishing-and-retrieving.md) the form, fill in the remaining parts, and publish again when they're ready.
 
-**Final** means the form is done. Onsite requires the form to pass validation first. When you publish as final, Onsite generates **all the deliverables** - the `.gdof`, a PDF without the "draft" watermark, a GeoDinML file ready to import into GeoDin Desktop, and any other outputs your project needs. These are pushed to the shared folder, and the office can process them.
+**Final** means the form is done. Onsite requires the form to pass validation first. When you publish as final, Onsite generates **all the deliverables** - the `.gdof`, a PDF without the "draft" watermark, a GeoDinML file ready to import into GeoDin, and any other outputs your project needs. These are pushed to the shared folder, and the office can process them.
 
 After publishing as final, the form on your device is closed and read-only. You can see it in Load Local but cannot edit it - it's the boss's now.
 
@@ -60,7 +60,7 @@ You can open the photocopy via Load Local. It's clearly marked as a copy, and yo
 
 **Revoke** un-publishes a form. It takes your read-only photocopy, makes it editable again, and transfers ownership back to you. You can then edit and publish a new version.
 
-The danger is that the office may have **already processed** the previous version - imported it into GeoDin Desktop, generated a plate, sent a report to the client. Revoking doesn't recall any of that downstream work. If you revoke and republish, you're relying on the next person noticing there's a new version.
+The danger is that the office may have **already processed** the previous version - imported it into GeoDin, generated a plate, sent a report to the client. Revoking doesn't recall any of that downstream work. If you revoke and republish, you're relying on the next person noticing there's a new version.
 
 {% hint style="danger" %}
 **Rules of thumb for Revoke:**

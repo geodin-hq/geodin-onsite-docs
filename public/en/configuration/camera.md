@@ -17,7 +17,7 @@ Onsite supports high-resolution external cameras for lab-grade photography - for
 
 To use an external camera, you need a command-line capture tool of your choice - for example, **DigiCamControl** - that can trigger the camera and save the image to a specified file. Such tools support a wide range of DSLRs, run in the background, and expose a command-line interface that Onsite can invoke.
 
-In Configuration → Camera:
+In Configuration > Camera:
 
 1. Tick **Enable command-line interface capture**.
 2. Supply the command-line instruction Onsite should run when it needs to take a picture - the capture tool's invocation with whatever parameters your camera requires.
@@ -30,7 +30,7 @@ External camera setup is more involved than built-in cameras. Refer to your capt
 
 ## Default picture path
 
-Onsite stores captured photos in a default location determined by the form and project. Some forms let you browse for an already-taken photo instead of capturing a new one - in that case Onsite uses the default picture path as the starting folder for the browse dialog. Set this in Configuration → Camera if you regularly pick photos from the same location.
+Onsite stores captured photos in a default location determined by the form and project. Some forms let you browse for an already-taken photo instead of capturing a new one - in that case Onsite uses the default picture path as the starting folder for the browse dialog. Set this in Configuration > Camera if you regularly pick photos from the same location.
 
 ## Picture file handling
 
@@ -39,7 +39,7 @@ Captured photos are:
 * Embedded into the form's PDF export at reduced resolution, so the PDF stays a manageable size.
 * Stored as separate original files (JPEG or PNG depending on source) alongside the form.
 
-When you [publish](../core-concepts/file-delivery-and-ownership.md) a form, you can choose whether to also send the original full-resolution files to the shared folder. See [File delivery setup → Embedded picture options](file-delivery-setup.md).
+When you [publish](../core-concepts/file-delivery-and-ownership.md) a form, you can choose whether to also send the original full-resolution files to the shared folder. See [File delivery setup > Embedded picture options](file-delivery-setup.md).
 
 ***
 

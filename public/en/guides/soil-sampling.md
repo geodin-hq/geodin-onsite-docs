@@ -14,7 +14,7 @@ When you click on the **From Depth** field, a builder window will open, allowing
 
 ## 2. QR Code
 
-#### **Configuring the Printer:**&#x20;
+### **Configuring the Printer:**&#x20;
 
 * First, navigate to **Configuration** and select **Labels**. Choose the printer you want to use for printing.
 *   You can configure which printer to use for label printing. The system allows you to select **two printers**:
@@ -33,7 +33,7 @@ When you click on the **From Depth** field, a builder window will open, allowing
 
 For deeper coverage of printer setup, label templates, and logo customisation, see [Label printing](../configuration/label-printing.md).
 
-#### Label Generation:&#x20;
+### Label Generation:&#x20;
 
 * To print a QR code for a specific sample, click on the **three-line menu** next to the sample and select **Print Label**.&#x20;
 * The system will automatically generate a QR code containing the sample's unique identifier (ID), which can then be affixed to the sample for easy tracking and scanning.
@@ -46,10 +46,10 @@ For deeper coverage of printer setup, label templates, and logo customisation, s
 
 For additional labelling workflows - including tools for duplicating labels, printing crate labels, and printing shelf labels - see [Managing labels](managing-labels.md).
 
-#### Recommended Printer
+### Recommended Printer
 
 For the smoothest experience, we recommend the **Zebra ZQ600 Series mobile thermal label printer**.
 
-👉 Buy or view details: [Zebra ZQ600 Series](https://www.zebra.com/us/en/products/printers/mobile/zq600-series.html)
+Buy or view details: [Zebra ZQ600 Series](https://www.zebra.com/us/en/products/printers/mobile/zq600-series.html)
 
 Other, equivalent thermal label printers may also work, but this model has been fully tested with GeoDin Onsite.

@@ -1,6 +1,6 @@
 # GPS & coordinates
 
-Onsite can capture location coordinates automatically when you record field data - on a G1 drilling form's **Record position** button, for example. Configuration → GPS lets you choose where coordinates come from; Configuration → Defaults lets you choose what coordinate system they're reported in.
+Onsite can capture location coordinates automatically when you record field data - on a G1 drilling form's **Record position** button, for example. Configuration > GPS lets you choose where coordinates come from; Configuration > Defaults lets you choose what coordinate system they're reported in.
 
 ## GPS sources
 
@@ -42,7 +42,7 @@ Turn off automatic capture and enter coordinates by hand - as latitude/longitude
 
 Field positions are recorded in a coordinate system appropriate to your region. Onsite uses **EPSG codes** to identify coordinate systems - a standard numeric catalogue covering most coordinate reference systems worldwide.
 
-Configure your project's coordinate system in Configuration → Defaults → Local Coordinate System. Onsite converts captured GPS positions into your chosen system automatically. See [Form defaults](form-defaults.md) for the broader defaults configuration.
+Configure your project's coordinate system in Configuration > Defaults > Local Coordinate System. Onsite converts captured GPS positions into your chosen system automatically. See [Form defaults](form-defaults.md) for the broader defaults configuration.
 
 {% hint style="info" %}
 If you're not sure which EPSG code to use, check with your surveyor or project lead. Common examples:

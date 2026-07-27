@@ -23,7 +23,7 @@ Configuration is organised into tabs, each controlling a related group of settin
 | Tab | What it controls |
 |---|---|
 | **Project** | Project metadata - project number, client name, client number. Two modes: manual entry, or driven by a GeoDinML file. [Details](../configuration/project-setup.md) |
-| **Integration** | Geo-data delivery standards + file delivery mode. [Standards](../configuration/geo-data-standards.md) · [File delivery](../configuration/file-delivery-setup.md) |
+| **Integration** | Geo-data delivery standards + file delivery mode. [Standards](../configuration/geo-data-standards.md), [File delivery](../configuration/file-delivery-setup.md) |
 | **Defaults** | Default values that auto-fill into new forms - foreman, rig number, unit system, coordinate system, and more. [Details](../configuration/form-defaults.md) |
 | **Backups** | Automatic backup frequency and retention. [Details](../configuration/backups.md) |
 | **Labels** | Label printer selection, label templates, logo customisation. [Details](../configuration/label-printing.md) |
@@ -56,7 +56,7 @@ Click the **?** icon in the menu bar for:
 
 ## The on-screen keyboard
 
-If you're using a tablet without a physical keyboard, enable the on-screen keyboard via Configuration → Language & UI. The keyboard appears whenever a text field gains focus and is designed to keep out of the way during field-form data entry.
+If you're using a tablet without a physical keyboard, enable the on-screen keyboard via Configuration > Language & UI. The keyboard appears whenever a text field gains focus and is designed to keep out of the way during field-form data entry.
 
 ***
 

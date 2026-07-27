@@ -6,7 +6,7 @@ Onsite includes an **automatic backup feature** that protects your work against 
 
 Backups are off by default. To turn them on:
 
-1. Open **Configuration → Backups**.
+1. Open **Configuration > Backups**.
 2. Tick **Do timed backups**.
 3. Set the interval, backup folder, and retention count (see below).
 
@@ -41,7 +41,7 @@ More frequent backups = better protection, but more disk usage. For a typical pr
 
 To restore a previous version of a form:
 
-1. From the main menu, open **Tools → Restore backups**. The backup browser shows your recent forms - pick the form you want to restore.
+1. From the main menu, open **Tools > Restore backups**. The backup browser shows your recent forms - pick the form you want to restore.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

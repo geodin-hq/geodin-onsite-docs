@@ -4,7 +4,7 @@ When your team uses a [shared folder for file delivery](../configuration/file-de
 
 ## Before you start
 
-The Publish and Retrieve buttons only appear in Onsite if file delivery is configured. If you don't see them, open Configuration → Integration → File delivery and choose **Shared network folder**. See [File delivery setup](../configuration/file-delivery-setup.md) for the full setup steps.
+The Publish and Retrieve buttons only appear in Onsite if file delivery is configured. If you don't see them, open Configuration > Integration > File delivery and choose **Shared network folder**. See [File delivery setup](../configuration/file-delivery-setup.md) for the full setup steps.
 
 ## Publish an incomplete form
 
@@ -37,12 +37,12 @@ When it's your turn to work on a published-incomplete form:
 When a form is complete and ready for the office to process:
 
 1. **Validate the form first.** Final publish requires the form to pass validation - see the [G1 drilling report](g1-drilling-report.md) page for validation details.
-2. Click **Publish → Publish as final**.
+2. Click **Publish > Publish as final**.
 3. Onsite generates all deliverables: the `.gdof`, a final PDF (without the "draft" watermark), a GeoDinML export if the form supports it, and any other configured outputs.
 4. All deliverables are pushed to the shared folder.
 5. The form on your device becomes read-only. You can view it via **Load Local**, but you cannot edit it.
 
-Once a form is published as final, the office typically imports its GeoDinML into GeoDin Desktop and processes the data further. Your part of the workflow is done.
+Once a form is published as final, the office typically imports its GeoDinML into GeoDin and processes the data further. Your part of the workflow is done.
 
 ## Revoke a published form (careful)
 

@@ -6,7 +6,7 @@ You've installed GeoDin Onsite and activated your license. This page walks throu
 
 Open Onsite. The first thing you'll see is the **project number confirmation box** - Onsite configures itself for one project at a time, and every form you create belongs to that project.
 
-If a project number is already filled in from a previous session or from [Configuration → Project](../configuration/project-setup.md), click OK. Otherwise enter one now. Project numbers can contain letters, numbers, hyphens (`-`), and underscores (`_`) - no spaces or special characters.
+If a project number is already filled in from a previous session or from [Configuration > Project](../configuration/project-setup.md), click OK. Otherwise enter one now. Project numbers can contain letters, numbers, hyphens (`-`), and underscores (`_`) - no spaces or special characters.
 
 ## 1. Start a new form
 
@@ -35,21 +35,21 @@ Click the **Validate** button (the ticks icon, top-left of the form). Onsite che
 
 ## 4. Export to GeoDin
 
-From the main menu, click **Export** → **GeoDin** and choose where to save the file.
+From the main menu, click **Export** > **GeoDin** and choose where to save the file.
 
-Onsite creates a **GeoDinML file** - a structured XML file ready to import into GeoDin Desktop. The filename follows the standard pattern, for example `BH-1_G1DR_20260423.geodinml`.
+Onsite creates a **GeoDinML file** - a structured XML file ready to import into GeoDin. The filename follows the standard pattern, for example `BH-1_G1DR_20260423.geodinml`.
 
 {% hint style="info" %}
 If you have [file delivery](../core-concepts/file-delivery-and-ownership.md) configured, use **Publish** instead of Export. Publish sends the file to your team's shared folder automatically and generates a PDF alongside the GeoDinML.
 {% endhint %}
 
-## 5. Import into GeoDin Desktop (optional)
+## 5. Import into GeoDin (optional)
 
-Open GeoDin Desktop and use its GeoDinML import feature to bring the file into your database. The full Desktop workflow is covered in the [GeoDin Desktop docs](https://docs.geodin.com).
+Open GeoDin and use its GeoDinML import feature to bring the file into your database. The full GeoDin workflow is covered in the [GeoDin documentation](https://docs.geodin.com).
 
 ***
 
-That's it - you've completed the core loop: **configure → create → validate → export**.
+That's it - you've completed the core loop: **configure > create > validate > export**.
 
 ## What's next
 

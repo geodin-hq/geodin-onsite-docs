@@ -116,7 +116,7 @@ These choices are saved with the form; you typically set them once at the start 
 
 ## 4. Export the report
 
-1. From the menu, select **Export → GeoDin**.
+1. From the menu, select **Export > GeoDin**.
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
@@ -129,9 +129,9 @@ These choices are saved with the form; you typically set them once at the start 
 
 If you have [file delivery](../core-concepts/file-delivery-and-ownership.md) configured, use **Publish** instead of Export. Publish pushes the deliverables to your shared folder and handles PDF generation automatically. See [Publishing & retrieving forms](publishing-and-retrieving.md).
 
-## 5. Import into GeoDin Desktop
+## 5. Import into GeoDin
 
-To import the report into GeoDin Desktop, use its GeoDinML import feature. Full instructions - including workflows for different data types - live in the [GeoDin Desktop documentation](https://docs.geodin.com). Once imported, your drilling data is available for layouts, cross-sections, plates, and reports.
+To import the report into GeoDin, use its GeoDinML import feature. Full instructions - including workflows for different data types - live in the [GeoDin documentation](https://docs.geodin.com). Once imported, your drilling data is available for layouts, cross-sections, plates, and reports.
 
 ## Form bundles: G1 + Sample Picture Log
 

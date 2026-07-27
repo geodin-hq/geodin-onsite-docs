@@ -1,6 +1,6 @@
 # Exporting to GeoDin
 
-Every form you create in GeoDin Onsite eventually needs to reach your team - either for further processing in GeoDin Desktop or as a deliverable for a client. Onsite offers two ways of handing data off:
+Every form you create in GeoDin Onsite eventually needs to reach your team - either for further processing in GeoDin or as a deliverable for a client. Onsite offers two ways of handing data off:
 
 * **Export** - save deliverables to a folder you choose, then transfer manually (email, USB drive, etc.)
 * **Publish** - push deliverables automatically to a [shared folder](../configuration/file-delivery-setup.md) your team already syncs
@@ -21,7 +21,7 @@ Publish is for teams who work with field-to-office workflows routinely - see the
 
 From the Export menu, Onsite offers:
 
-* **GeoDinML** - a structured XML file ready to import into GeoDin Desktop. Produced for drilling and sampling forms.
+* **GeoDinML** - a structured XML file ready to import into GeoDin. Produced for drilling and sampling forms.
 * **PDF** - a printable document. Every exported PDF is watermarked "draft" unless it was produced via **Publish as final** (see below).
 
 Which forms produce GeoDinML:
@@ -36,13 +36,13 @@ Which forms produce GeoDinML:
 
 ## Export to GeoDin
 
-1. With the form open and validated, click **Export → GeoDin** from the menu.
+1. With the form open and validated, click **Export > GeoDin** from the menu.
 2. Choose where to save the file.
 3. Onsite generates a `.geodinml` file using the standard naming convention: `<Location>_<FormCode>_<Date>.geodinml` - for example, `BH-1_G1DR_20260423.geodinml`.
 
 ## Export to PDF
 
-1. Click **Export → PDF**.
+1. Click **Export > PDF**.
 2. Choose a save location.
 3. Onsite generates the PDF.
 
@@ -54,9 +54,9 @@ Every PDF exported via the Export button carries a "draft" watermark. This is de
 The only way to get an un-watermarked PDF is through [Publish as final](publishing-and-retrieving.md), which requires the form to pass validation first.
 {% endhint %}
 
-## Import into GeoDin Desktop
+## Import into GeoDin
 
-Once you have a `.geodinml` file, open GeoDin Desktop and use its GeoDinML import feature to bring the file into your database. Full Desktop instructions - including specific import workflows for different data types - live in the [GeoDin Desktop documentation](https://docs.geodin.com).
+Once you have a `.geodinml` file, open GeoDin and use its GeoDinML import feature to bring the file into your database. Full GeoDin instructions - including specific import workflows for different data types - live in the [GeoDin documentation](https://docs.geodin.com).
 
 From an ecosystem perspective, importing your Onsite forms into Desktop is where the data becomes reusable - layered into your database, combined with data from other forms and other projects, and used as the basis for plates, cross-sections, and reports.
 
