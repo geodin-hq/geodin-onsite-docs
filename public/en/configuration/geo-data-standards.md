@@ -2,7 +2,7 @@
 
 A **geo-data standard** defines the schema for describing drilling, sampling, and layer data - what columns exist, what values are allowed, what units are used. Different countries and industries use different standards. Onsite supports several of them and lets you choose the right one for each project.
 
-Standards are configured in Configuration → Integration → Geo-data delivery, via the ⚙️ settings button.
+Standards are configured in Configuration > Integration > Geo-data delivery, via the settings (gear) button.
 
 ## Supported standards
 

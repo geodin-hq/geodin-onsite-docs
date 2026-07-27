@@ -36,7 +36,7 @@ Some Onsite-wide settings live outside the Defaults tab but complement it:
 * **Label printer** - set in [Label printing](label-printing.md), applies across projects
 * **Camera source** - set in [Camera](camera.md), applies across projects
 * **GPS source** - set in [GPS & coordinates](gps-and-coordinates.md), applies across projects
-* **UI language** - set in Configuration → Language & UI
+* **UI language** - set in Configuration > Language & UI
 
 ***
 

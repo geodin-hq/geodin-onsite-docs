@@ -15,7 +15,7 @@ On a typical Windows machine, `%APPDATA%` resolves to `C:\Users\<your username>\
 {% hint style="info" %}
 The `AppData` folder is **hidden by default** in Windows Explorer. Two easy ways to get to the working folder:
 
-* **Inside Onsite** - open Configuration → Folders and click **Open local folder**
+* **Inside Onsite** - open Configuration > Folders and click **Open local folder**
 * **From Windows Explorer** - click the address bar, type `%appdata%\GeoDin.Onsite`, and press Enter
 {% endhint %}
 

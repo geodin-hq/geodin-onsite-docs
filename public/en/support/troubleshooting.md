@@ -34,7 +34,7 @@ If activation fails after a hardware change, contact support - we can unlink you
 
 ### The Geo-data standards tab is locked
 
-The Integration → Geo-data delivery tab is locked while forms are open. If you see a "locked" error when trying to change the standard, close any open forms and try again. See [Geo-data standards](../configuration/geo-data-standards.md).
+The Integration > Geo-data delivery tab is locked while forms are open. If you see a "locked" error when trying to change the standard, close any open forms and try again. See [Geo-data standards](../configuration/geo-data-standards.md).
 
 ### Offline mode isn't working
 
@@ -51,7 +51,7 @@ If the issue persists, contact support.
 Onsite prints labels in ZPL, a language supported by Zebra and compatible thermal printers. If your printer appears in the dropdown but labels don't print:
 
 * Confirm the printer is **ZPL-compatible** - most Windows printers (including "Microsoft Print to PDF") are not.
-* Try the **Preview** mode in Configuration → Labels to see whether the label renders at all.
+* Try the **Preview** mode in Configuration > Labels to see whether the label renders at all.
 * Check the printer's own status - offline, out of paper, disconnected from USB, etc.
 
 See [Label printing](../configuration/label-printing.md) for full printer configuration.

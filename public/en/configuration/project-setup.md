@@ -21,7 +21,7 @@ Spaces and special characters (`*`, `@`, `#`, `/`, and similar) are not allowed.
 
 ## Two modes: manual vs GeoDinML-driven
 
-You can choose how Onsite gets project details (project number, client name, location list). Set this in Configuration → Integration → Project metadata.
+You can choose how Onsite gets project details (project number, client name, location list). Set this in Configuration > Integration > Project metadata.
 
 ### Manual mode (default)
 
@@ -35,7 +35,7 @@ You type the project number and metadata directly into the Project tab. Fast and
 
 In this mode, you provide a GeoDinML file containing a list of projects. Onsite reads the file and populates the Project tab with a dropdown of project numbers, each pre-populated with its associated client name and locations.
 
-This is useful for teams with a central project database. One person exports a GeoDinML file from GeoDin Desktop containing the current list of active projects - just the project and location headers, no sample or measurement data, so the file stays small. The file is shared to the team; each person loads it in Onsite, and the dropdown keeps everyone consistent.
+This is useful for teams with a central project database. One person exports a GeoDinML file from GeoDin containing the current list of active projects - just the project and location headers, no sample or measurement data, so the file stays small. The file is shared to the team; each person loads it in Onsite, and the dropdown keeps everyone consistent.
 
 When the list of active projects changes, export a fresh GeoDinML and reload it.
 

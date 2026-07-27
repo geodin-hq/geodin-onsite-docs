@@ -6,7 +6,7 @@ This page covers the label-printing workflow. For printer setup and template cus
 
 ## Before you start
 
-Label printing requires a ZPL-compatible thermal printer configured in Configuration → Labels - see [Label printing](../configuration/label-printing.md) for setup. Without a physical printer configured, Onsite offers a **Preview** mode that shows what the label would look like without actually printing.
+Label printing requires a ZPL-compatible thermal printer configured in Configuration > Labels - see [Label printing](../configuration/label-printing.md) for setup. Without a physical printer configured, Onsite offers a **Preview** mode that shows what the label would look like without actually printing.
 
 ## Print a sample label from a form
 
@@ -27,7 +27,7 @@ From the preview, you can choose:
 Affix the printed label to the physical sample container.
 
 {% hint style="info" %}
-The button names "alternative printer" and "alternative label layout" are customisable - you can rename them to match your actual setup (e.g. "red labels", "hazardous layout"). See [Label printing → Custom button labels](../configuration/label-printing.md).
+The button names "alternative printer" and "alternative label layout" are customisable - you can rename them to match your actual setup (e.g. "red labels", "hazardous layout"). See [Label printing > Custom button labels](../configuration/label-printing.md).
 {% endhint %}
 
 ## Tools menu - label utilities
@@ -52,7 +52,7 @@ Create labels for warehouse shelves where samples are stored. Useful for sample-
 
 ## Label design
 
-The visual design of every label - layout, logo, font size, QR code placement - is defined by a ZPL template file. Default templates ship with Onsite; custom templates can be created in **Zebra Designer** (a free tool from Zebra) or any ZPL-capable editor. See [Label printing → Label templates](../configuration/label-printing.md) for customisation details.
+The visual design of every label - layout, logo, font size, QR code placement - is defined by a ZPL template file. Default templates ship with Onsite; custom templates can be created in **Zebra Designer** (a free tool from Zebra) or any ZPL-capable editor. See [Label printing > Label templates](../configuration/label-printing.md) for customisation details.
 
 ***
 
