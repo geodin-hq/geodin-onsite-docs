@@ -1,0 +1,11 @@
+# Real content gaps that are tracked in the HITL register
+# (geodin-docs-internal/insights/human-in-the-loop-priorities.md).
+#
+# These are NOT allowlist entries. The allowlist is for pages that are short by
+# design; these pages are genuinely incomplete and a named human owes the fix.
+# They are reported on every CI run so they stay visible, but they do not fail
+# the build - otherwise the stub check could never become required.
+#
+# Every entry MUST carry its register ID. Remove the entry when the item closes.
+
+public/en/support/changelog.md  # C1 - blocked on B11 (version history from Rik/dev)
