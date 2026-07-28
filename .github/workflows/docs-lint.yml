@@ -51,9 +51,11 @@ jobs:
         run: python3 scripts/check-structure.py public/en
 
       - name: Check stub pages
-        # Informational. Placeholder stubs predate this workflow; remove
-        # `continue-on-error` once they are filled or deleted.
-        continue-on-error: true
+        # Required (HITL register C3, 2026-07-28). Pages that are short by
+        # design live in scripts/stub-allowlist.txt; real gaps already tracked
+        # in the HITL register live in scripts/stub-known-gaps.txt and are
+        # reported without failing. Anything else fails - a new empty page
+        # cannot reach main.
         run: bash scripts/check-stubs.sh public
 
       - name: Check text similarity
