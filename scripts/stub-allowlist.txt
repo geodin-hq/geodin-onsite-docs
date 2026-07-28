@@ -1,3 +1,6 @@
 # Pages allowed to be under MIN_LINES of content. One path per line.
 # Use only for pages where shortness is intentional (focused topic, link-only landing).
 # Do NOT add empty 1-line files here - those should be deleted or filled.
+# Contact page - style rules section 2 exempts "Troubleshooting / contact" as
+# short by nature. Complete as written; not a stub.
+public/en/support/get-support.md
