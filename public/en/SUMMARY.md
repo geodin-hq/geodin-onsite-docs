@@ -38,4 +38,4 @@
 * [Troubleshooting](support/troubleshooting.md)
 * [Updates & version compatibility](support/updates-and-version-compatibility.md)
 * [Get support](support/get-support.md)
-* [Changelog](support/changelog.md)
+* [Release Notes](support/release-notes.md)
