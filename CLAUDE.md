@@ -151,6 +151,21 @@ embed at the top of the walkthrough it mirrors.
   itemized proposals (verified duplicates, empty stubs, retired features) that
   the maintainer approves before merge - listed in the PR body, never bundled
   silently into other changes.
+- **Correcting what is wrong is not deleting.** This section protects *valuable*
+  content, not *inaccurate* content. When an authoritative source (release note,
+  vendor listing, spec) shows a statement is outdated or incorrect, rewrite it in
+  place - keeping the surrounding structure, images, and `src:` tags. Leaving a
+  known-wrong statement standing because "additive only" is a misreading of this
+  rule, and it costs a reader more than a missing sentence would.
+  - **The test:** after the edit, is anything *true and useful* gone? If yes, it
+    is a deletion and needs the itemized-approval path above. If the only thing
+    gone is the error, it is a correction - apply it.
+  - Corrections still follow the two modes in `/geodin-source-to-docs` Phase 3:
+    apply directly when the source is authoritative and re-verifies at apply
+    time; flag inline with `<!-- CORRECTION-PROPOSED: ... -->` when the source is
+    weaker than the docs claim or cannot be re-verified.
+  - What this does *not* license: thinning detail, dropping examples or hardware
+    names, or rewriting for style while "fixing" a fact.
 - **Every image survives**, attached to the step or section it illustrates.
 - Hardware names and vendor links are content, not marketing - keep them.
 
@@ -160,6 +175,26 @@ embed at the top of the walkthrough it mirrors.
   `description:` in frontmatter: one sentence, ~120-160 characters, stating
   what the page helps the reader do. It feeds search snippets and AI answers.
 - Existing pages without one are backfilled opportunistically, not as a sweep.
+
+## 9. Audience - these repos are public
+
+Write for the customer using the product, not for the people running it.
+
+- **No internal operations detail.** Backend vendors and plumbing, staff-only
+  admin tooling and what staff can do in it, eligibility/anti-abuse logic, and
+  internal identifier formats do not belong on a public page.
+  **The test:** can the reader *act* on this, or does it only describe how
+  GeoDin runs the business? Only the first ships. Where a fact has both halves,
+  keep the customer half: *"if the disk is swapped the license unlinks - contact
+  support to re-activate"* is customer-facing; naming the admin tool and the
+  dashboard step is not.
+- **No prescriptive purchase guidance.** Describe what the product does and what
+  the trial offers; never tell a reader how they ought to buy. State the trial
+  as an available option, never as something a customer *should* do before
+  buying.
+- Removing content that breaches this is a **deletion**, not a correction (see
+  §7): itemize it in the PR body for maintainer approval. The content is not
+  wrong - it just should not be public.
 
 ***
 
