@@ -29,7 +29,7 @@ Which forms produce GeoDinML:
 | Form | GeoDinML | PDF | Original image files |
 |---|---|---|---|
 | G1 Drilling Report | ✓ | ✓ | - |
-| ISO 22475 SEP 3 | ✓ | ✓ | - |
+| ISO 22475 SEP3 | ✓ | ✓ | - |
 | Picture Log | - | ✓ | ✓ |
 | Sample Picture Log | - | ✓ | ✓ |
 | G1 + SPL bundle | ✓ (drilling part) | ✓ (combined) | ✓ (photos) |

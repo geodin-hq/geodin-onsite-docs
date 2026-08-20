@@ -4,7 +4,7 @@ layout: editorial
 
 # G1 drilling report
 
-After installing GeoDin Onsite and activating your license, you can create a G1 drilling report. GeoDin Onsite supports multiple standards for G1 drilling reports, as well as the ISO 22475 field standard for the SEP 3 Report. In this tutorial, we'll use the G1 standard as an example.
+After installing GeoDin Onsite and activating your license, you can create a G1 drilling report. GeoDin Onsite supports multiple standards for G1 drilling reports, as well as the ISO 22475 field standard for the SEP3 Report. In this tutorial, we'll use the G1 standard as an example.
 
 If you haven't completed the basic setup yet, see [Installation & licensing](../documentation/installation-and-licensing.md) and [First steps](../documentation/first-steps.md) for orientation.
 
