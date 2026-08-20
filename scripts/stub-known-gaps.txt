@@ -8,4 +8,4 @@
 #
 # Every entry MUST carry its register ID. Remove the entry when the item closes.
 
-public/en/support/changelog.md  # C1 - blocked on B11 (version history from Rik/dev)
+public/en/support/release-notes.md  # C1 - blocked on B11 (version history from Rik/dev)
