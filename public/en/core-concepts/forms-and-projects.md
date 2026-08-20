@@ -15,7 +15,7 @@ All forms you create while a given project is active are tied to that project au
 A form is a structured digital record of something you're collecting in the field - a drilling log, a sample picture, a groundwater reading. GeoDin Onsite ships with a set of form layouts. The two most commonly used are:
 
 * **G1 Drilling Report** - a multi-page drilling log (see [G1 drilling report](../guides/g1-drilling-report.md))
-* **ISO 22475 SEP 3** - a drilling report in the EN ISO 22475 standard
+* **ISO 22475 SEP3** - a drilling report in the EN ISO 22475 standard
 
 Other forms include the Picture Log, the Sample Picture Log, and bundled variants. See [Guides](../guides/g1-drilling-report.md) for form-specific walkthroughs.
 
